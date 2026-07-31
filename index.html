@@ -71,7 +71,7 @@
         const featureLayers = {};
 
         // Load GeoJSON
-        fetch('AK_simplified.geojson')
+        fetch('https://raw.githubusercontent.com/BlockwellConsulting/AK_ElectionsMap/main/AK_simplified.geojson')
             .then(response => response.json())
             .then(data => {
                 Object.keys(layers).forEach(layerKey => {
