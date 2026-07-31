@@ -71,7 +71,7 @@
         const featureLayers = {};
 
         // Load GeoJSON
-        fetch('data.geojson')
+        fetch('AK_simplified.geojson')
             .then(response => response.json())
             .then(data => {
                 Object.keys(layers).forEach(layerKey => {
