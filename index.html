@@ -93,10 +93,11 @@
                                     if (feat.properties.no_pav_flag === 1.0) flags.push('No PAV');
                                     if (feat.properties.staff_flag === 1.0) flags.push('Staffing Issues');
                                     if (feat.properties.no_primary_ev_flag === 1.0) flags.push('No Primary EV');
-                                    const tooltipText = precinct + (flags.length > 0 ? '\n' + flags.join('\n') : '');
+                                    const tooltipText = precinct + (flags.length > 0 ? '<br>' + flags.join('<br>') : '');
                                     l.bindTooltip(tooltipText, {
                                         sticky: true,
-                                        className: 'tooltip'
+                                        className: 'tooltip',
+                                        permanent: false
                                     });
                                 }
                             });
