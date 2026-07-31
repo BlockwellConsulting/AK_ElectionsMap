@@ -46,6 +46,7 @@
 <body>
     <div id="map"></div>
     <div class="info">
+        <button id="mapToggle" style="width: 100%; padding: 8px; margin-bottom: 10px; cursor: pointer; background: #f0f0f0; border: 1px solid #ccc; border-radius: 4px;">Stamen Terrain</button>
         <h3>Layers</h3>
         <div id="layerControls"></div>
     </div>
@@ -54,10 +55,38 @@
     <script>
         // Initialize map
         const map = L.map('map').setView([64.5, -154.0], 4);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '© OpenStreetMap contributors',
-            maxZoom: 19
-        }).addTo(map);
+
+        // Base map layers
+        const stamenTerrain = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
+            attribution: 'Map tiles by Stamen Design, under CC BY 3.0',
+            subdomains: 'abcd',
+            ext: 'png',
+            maxZoom: 18
+        });
+
+        const cartodbVoyager = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastered/voyager/{z}/{x}/{y}{r}.png', {
+            attribution: '© OpenStreetMap contributors, © CartoDB',
+            subdomains: 'abcdefghijklmnopqrstuvwxyz',
+            maxZoom: 20
+        });
+
+        stamenTerrain.addTo(map);
+        let currentMap = 'stamen';
+
+        // Base map toggle
+        document.getElementById('mapToggle').addEventListener('click', () => {
+            if (currentMap === 'stamen') {
+                map.removeLayer(stamenTerrain);
+                map.addLayer(cartodbVoyager);
+                document.getElementById('mapToggle').textContent = 'CartoDB Voyager';
+                currentMap = 'cartodb';
+            } else {
+                map.removeLayer(cartodbVoyager);
+                map.addLayer(stamenTerrain);
+                document.getElementById('mapToggle').textContent = 'Stamen Terrain';
+                currentMap = 'stamen';
+            }
+        });
 
         // Layer definitions
         const layers = {
