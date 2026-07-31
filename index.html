@@ -57,34 +57,32 @@
         const map = L.map('map').setView([64.5, -154.0], 4);
 
         // Base map layers
-        const stamenTerrain = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.{ext}', {
-            attribution: 'Map tiles by Stamen Design, under CC BY 3.0',
-            subdomains: 'abcd',
-            ext: 'png',
-            maxZoom: 18
+        const osmMap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 19
         });
 
-        const cartodbVoyager = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastered/voyager/{z}/{x}/{y}{r}.png', {
+        const cartodbVoyager = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
             attribution: '© OpenStreetMap contributors, © CartoDB',
-            subdomains: 'abcdefghijklmnopqrstuvwxyz',
-            maxZoom: 20
+            subdomains: 'abcd',
+            maxZoom: 19
         });
 
-        stamenTerrain.addTo(map);
-        let currentMap = 'stamen';
+        osmMap.addTo(map);
+        let currentMap = 'osm';
 
         // Base map toggle
         document.getElementById('mapToggle').addEventListener('click', () => {
-            if (currentMap === 'stamen') {
-                map.removeLayer(stamenTerrain);
+            if (currentMap === 'osm') {
+                map.removeLayer(osmMap);
                 map.addLayer(cartodbVoyager);
-                document.getElementById('mapToggle').textContent = 'CartoDB Voyager';
+                document.getElementById('mapToggle').textContent = 'CartoDB Light';
                 currentMap = 'cartodb';
             } else {
                 map.removeLayer(cartodbVoyager);
-                map.addLayer(stamenTerrain);
-                document.getElementById('mapToggle').textContent = 'Stamen Terrain';
-                currentMap = 'stamen';
+                map.addLayer(osmMap);
+                document.getElementById('mapToggle').textContent = 'OpenStreetMap';
+                currentMap = 'osm';
             }
         });
 
@@ -93,7 +91,8 @@
             watson_flag: { name: 'Watson Brief Issues', color: '#e74c3c' },
             no_pav_flag: { name: 'No PAV', color: '#3498db' },
             staff_flag: { name: 'Staffing Issues', color: '#2ecc71' },
-            no_primary_ev_flag: { name: 'No Primary EV', color: '#f39c12' }
+            no_primary_ev_flag: { name: 'No Primary EV', color: '#f39c12' },
+            no_issues: { name: 'No Issues', color: '#bdc3c7' }
         };
 
         // Storage for feature layers
@@ -107,7 +106,17 @@
                     featureLayers[layerKey] = L.featureGroup();
 
                     data.features.forEach(feature => {
-                        if (feature.properties[layerKey] === 1.0) {
+                        let shouldAdd = false;
+                        if (layerKey === 'no_issues') {
+                            shouldAdd = feature.properties.watson_flag === 0.0 &&
+                                       feature.properties.no_pav_flag === 0.0 &&
+                                       feature.properties.staff_flag === 0.0 &&
+                                       feature.properties.no_primary_ev_flag === 0.0;
+                        } else {
+                            shouldAdd = feature.properties[layerKey] === 1.0;
+                        }
+
+                        if (shouldAdd) {
                             const layer = L.geoJSON(feature, {
                                 style: {
                                     color: layers[layerKey].color,
