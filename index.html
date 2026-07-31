@@ -53,7 +53,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
     <script>
         // Initialize map
-        const map = L.map('map').setView([64.0, -152.5], 5);
+        const map = L.map('map').setView([64.5, -154.0], 4);
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '© OpenStreetMap contributors',
             maxZoom: 19
@@ -71,7 +71,7 @@
         const featureLayers = {};
 
         // Load GeoJSON
-        fetch('https://raw.githubusercontent.com/BlockwellConsulting/AK_ElectionsMap/main/AK_simplified.geojson')
+        fetch('https://raw.githubusercontent.com/BlockwellConsulting/AK_ElectionsMap/main/AK_reprojected.geojson')
             .then(response => response.json())
             .then(data => {
                 Object.keys(layers).forEach(layerKey => {
