@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Watson Voting Precincts Map</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+        #map { position: absolute; top: 0; left: 0; width: 100%; height: 100vh; }
+        .info {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: white;
+            padding: 15px;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            z-index: 400;
+            max-width: 300px;
+            font-size: 14px;
+        }
+        .info h3 { margin: 0 0 10px 0; font-size: 16px; }
+        .legend-item {
+            margin: 8px 0;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            border-radius: 2px;
+            border: 1px solid #ccc;
+        }
+        .tooltip {
+            background: white;
+            padding: 8px 12px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            font-size: 13px;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div class="info">
+        <h3>Layers</h3>
+        <div id="layerControls"></div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+    <script>
+        // Initialize map
+        const map = L.map('map').setView([64.0, -152.5], 5);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 19
+        }).addTo(map);
+
+        // Layer definitions
+        const layers = {
+            watson_flag: { name: 'Watson Flag', color: '#e74c3c' },
+            no_pav_flag: { name: 'No Paved Road', color: '#3498db' },
+            staff_flag: { name: 'Staff Flag', color: '#2ecc71' },
+            no_primary_ev_flag: { name: 'No Primary EV', color: '#f39c12' }
+        };
+
+        // Storage for feature layers
+        const featureLayers = {};
+
+        // Load GeoJSON
+        fetch('data.geojson')
+            .then(response => response.json())
+            .then(data => {
+                Object.keys(layers).forEach(layerKey => {
+                    featureLayers[layerKey] = L.featureGroup();
+
+                    data.features.forEach(feature => {
+                        if (feature.properties[layerKey] === 1.0) {
+                            const layer = L.geoJSON(feature, {
+                                style: {
+                                    color: layers[layerKey].color,
+                                    weight: 2,
+                                    opacity: 0.7,
+                                    fillOpacity: 0.5
+                                },
+                                onEachFeature: (feat, l) => {
+                                    const precinct = feat.properties.Precinct_N;
+                                    l.bindTooltip(precinct, {
+                                        sticky: true,
+                                        className: 'tooltip'
+                                    });
+                                }
+                            });
+                            featureLayers[layerKey].addLayer(layer);
+                        }
+                    });
+
+                    // Add to map by default
+                    featureLayers[layerKey].addTo(map);
+                });
+
+                // Create layer controls
+                const controlsDiv = document.getElementById('layerControls');
+                Object.keys(layers).forEach(layerKey => {
+                    const checkbox = document.createElement('input');
+                    checkbox.type = 'checkbox';
+                    checkbox.checked = true;
+                    checkbox.id = layerKey;
+
+                    const label = document.createElement('label');
+                    label.htmlFor = layerKey;
+                    label.style.marginLeft = '8px';
+                    label.textContent = layers[layerKey].name;
+
+                    const colorBox = document.createElement('div');
+                    colorBox.className = 'legend-color';
+                    colorBox.style.backgroundColor = layers[layerKey].color;
+
+                    const itemDiv = document.createElement('div');
+                    itemDiv.className = 'legend-item';
+                    itemDiv.appendChild(checkbox);
+                    itemDiv.appendChild(colorBox);
+                    itemDiv.appendChild(label);
+                    controlsDiv.appendChild(itemDiv);
+
+                    checkbox.addEventListener('change', (e) => {
+                        if (e.target.checked) {
+                            map.addLayer(featureLayers[layerKey]);
+                        } else {
+                            map.removeLayer(featureLayers[layerKey]);
+                        }
+                    });
+                });
+            })
+            .catch(error => console.error('Error loading GeoJSON:', error));
+    </script>
+</body>
+</html>
