@@ -61,9 +61,9 @@
 
         // Layer definitions
         const layers = {
-            watson_flag: { name: 'Watson Flag', color: '#e74c3c' },
-            no_pav_flag: { name: 'No Paved Road', color: '#3498db' },
-            staff_flag: { name: 'Staff Flag', color: '#2ecc71' },
+            watson_flag: { name: 'Watson Brief Issues', color: '#e74c3c' },
+            no_pav_flag: { name: 'No PAV', color: '#3498db' },
+            staff_flag: { name: 'Staffing Issues', color: '#2ecc71' },
             no_primary_ev_flag: { name: 'No Primary EV', color: '#f39c12' }
         };
 
@@ -88,7 +88,13 @@
                                 },
                                 onEachFeature: (feat, l) => {
                                     const precinct = feat.properties.Precinct_N;
-                                    l.bindTooltip(precinct, {
+                                    const flags = [];
+                                    if (feat.properties.watson_flag === 1.0) flags.push('Watson Brief Issues');
+                                    if (feat.properties.no_pav_flag === 1.0) flags.push('No PAV');
+                                    if (feat.properties.staff_flag === 1.0) flags.push('Staffing Issues');
+                                    if (feat.properties.no_primary_ev_flag === 1.0) flags.push('No Primary EV');
+                                    const tooltipText = precinct + (flags.length > 0 ? '\n' + flags.join('\n') : '');
+                                    l.bindTooltip(tooltipText, {
                                         sticky: true,
                                         className: 'tooltip'
                                     });
