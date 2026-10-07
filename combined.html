@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alaska Elections Map</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+        #map { position: absolute; top: 0; left: 0; width: 100%; height: 100vh; }
+        .info {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: white;
+            padding: 15px;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            z-index: 400;
+            max-width: 320px;
+            font-size: 13px;
+            max-height: 85vh;
+            overflow-y: auto;
+        }
+        .info h3 { margin: 0 0 10px 0; font-size: 16px; }
+        .category-heading {
+            margin: 12px 0 6px 0;
+            font-weight: bold;
+            font-size: 12px;
+            color: #555;
+            border-top: 1px solid #ddd;
+            padding-top: 8px;
+        }
+        .legend-item {
+            margin: 6px 0;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .legend-color {
+            width: 18px;
+            height: 18px;
+            border-radius: 2px;
+            border: 1px solid #999;
+            flex-shrink: 0;
+        }
+        .legend-label {
+            font-size: 12px;
+        }
+        .tooltip {
+            background: white;
+            padding: 8px 12px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            font-size: 13px;
+        }
+        button {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            cursor: pointer;
+            background: #f0f0f0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button:hover {
+            background: #e0e0e0;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div class="info">
+        <label for="baseMap" class="category-heading" style="display:block; border-top:none; padding-top:0; margin-top:0;">Base map</label>
+        <select id="baseMap" style="width: 100%; padding: 6px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px;">
+            <option value="streets">Streets</option>
+            <option value="osm">OpenStreetMap</option>        </select>
+        <h3>Layers</h3>
+        <div class="category-heading">Locations</div>
+        <div id="pointControls"></div>
+        <div id="layerControls"></div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+    <script>
+        // Initialize map
+        const map = L.map('map').setView([64.5, -154.0], 4);
+
+        // Base map layers
+        const osmMap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 19
+        });
+
+        const streets = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+            attribution: 'Tiles © Esri', maxZoom: 19
+        });
+
+        const baseMaps = { streets: streets, osm: osmMap };
+        let currentBase = streets.addTo(map);
+
+        document.getElementById('baseMap').addEventListener('change', e => {
+            map.removeLayer(currentBase);
+            currentBase = baseMaps[e.target.value].addTo(map);
+        });
+
+        // Point layers sit in their own pane so precinct shapes never cover them
+        map.createPane('points');
+        map.getPane('points').style.zIndex = 450;
+
+        const dataUrl = 'https://raw.githubusercontent.com/BlockwellConsulting/AK_ElectionsMap/main/';
+
+        const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+        const pointLayers = [
+            {
+                name: 'Polling places', file: 'AK_PollingPlaces.geojson', color: '#6c3483',
+                tooltip: p => '<b>' + esc(p['[Precinct Number]']) + ' ' + esc(p['[Precinct Name]']) + '</b><br>' +
+                    esc(p['[Polling Place Name]']) + '<br>' +
+                    [p.Address, p.City].filter(Boolean).map(esc).join(', ')
+            },
+            {
+                name: 'Early voting locations', file: 'AK_EarlyVoting.geojson', color: '#d81b60',
+                tooltip: p => '<b>' + esc(p.City) + '</b><br>' + esc(p.Location) + '<br>' +
+                    esc(p.Address) + '<br>' + esc(p.Hours)
+            },
+            {
+                name: 'Community PAV', file: 'pav_by_community.geojson', color: '#00838f',
+                tooltip: p => esc(p.community)
+            }
+        ];
+
+        pointLayers.forEach(def => {
+            const group = L.featureGroup().addTo(map);
+
+            const checkbox = document.createElement('input');
+            checkbox.type = 'checkbox';
+            checkbox.checked = true;
+            checkbox.addEventListener('change', e => e.target.checked ? map.addLayer(group) : map.removeLayer(group));
+
+            const dot = document.createElement('div');
+            dot.className = 'legend-color';
+            dot.style.backgroundColor = def.color;
+            dot.style.borderRadius = '50%';
+
+            const label = document.createElement('label');
+            label.textContent = def.name;
+            label.prepend(checkbox);
+            label.style.display = 'flex';
+            label.style.alignItems = 'center';
+            label.style.gap = '8px';
+            label.insertBefore(dot, label.lastChild);
+
+            const item = document.createElement('div');
+            item.className = 'legend-item';
+            item.appendChild(label);
+            document.getElementById('pointControls').appendChild(item);
+
+            fetch(dataUrl + def.file)
+                .then(r => r.json())
+                .then(data => {
+                    L.geoJSON(data, {
+                        pointToLayer: (f, latlng) => L.circleMarker(latlng, {
+                            pane: 'points',
+                            radius: 6,
+                            color: '#fff',
+                            weight: 1.5,
+                            fillColor: def.color,
+                            fillOpacity: 0.9
+                        }),
+                        onEachFeature: (f, l) => l.bindTooltip(def.tooltip(f.properties), { className: 'tooltip' })
+                    }).addTo(group);
+                })
+                .catch(err => console.error('Error loading ' + def.file + ':', err));
+        });
+
+        // Layer definitions organized by category
+        const layers = {
+            watson_brief: { name: 'Watson Brief Issues', color: '#c0392b', flag: 'watson_flag', value: 1, category: 'Watson' },
+            no_watson: { name: 'No Watson issues', color: '#f1948a', flag: 'watson_flag', value: 0, category: 'Watson' },
+
+            no_pav: { name: 'No PAV', color: '#1f618d', flag: 'no_pav_flag', value: 1, category: 'PAV' },
+            pav_available: { name: 'PAV available', color: '#85c1e9', flag: 'no_pav_flag', value: 0, category: 'PAV' },
+
+            staffing_issues: { name: 'Staffing Issues', color: '#1e8449', flag: 'staff_flag', value: 1, category: 'Staffing' },
+            no_staffing: { name: 'No staffing issues', color: '#82e0aa', flag: 'staff_flag', value: 0, category: 'Staffing' },
+
+            no_primary_ev: { name: 'No Primary EV', color: '#ca6f1e', flag: 'no_primary_ev_flag', value: 1, category: 'Primary EV' },
+            primary_ev: { name: 'Primary EV available', color: '#f8c471', flag: 'no_primary_ev_flag', value: 0, category: 'Primary EV' },
+
+            no_issues: { name: 'No Issues', color: '#d3d3d3', category: 'Summary' }
+        };
+
+        // Storage for feature layers
+        const featureLayers = {};
+
+        // Load GeoJSON
+        fetch('https://raw.githubusercontent.com/BlockwellConsulting/AK_ElectionsMap/main/AK_reprojected.geojson')
+            .then(response => response.json())
+            .then(data => {
+                Object.keys(layers).forEach(layerKey => {
+                    featureLayers[layerKey] = L.featureGroup();
+
+                    data.features.forEach(feature => {
+                        let shouldAdd = false;
+                        if (layerKey === 'no_issues') {
+                            shouldAdd = feature.properties.watson_flag === 0.0 &&
+                                       feature.properties.no_pav_flag === 0.0 &&
+                                       feature.properties.staff_flag === 0.0 &&
+                                       feature.properties.no_primary_ev_flag === 0.0;
+                        } else {
+                            shouldAdd = feature.properties[layers[layerKey].flag] === layers[layerKey].value;
+                        }
+
+                        if (shouldAdd) {
+                            const layer = L.geoJSON(feature, {
+                                style: {
+                                    color: layers[layerKey].color,
+                                    weight: 2,
+                                    opacity: 0.7,
+                                    fillOpacity: 0.5
+                                },
+                                onEachFeature: (feat, l) => {
+                                    l.bindTooltip(esc(feat.properties.Precinct_N), {
+                                        sticky: true,
+                                        className: 'tooltip',
+                                        permanent: false
+                                    });
+                                }
+                            });
+                            featureLayers[layerKey].addLayer(layer);
+                        }
+                    });
+
+                    if (layers[layerKey].value === 1) featureLayers[layerKey].addTo(map);
+                });
+
+                // Create layer controls organized by category
+                const controlsDiv = document.getElementById('layerControls');
+                let currentCategory = '';
+                Object.keys(layers).forEach(layerKey => {
+                    const layer = layers[layerKey];
+
+                    // Add category heading if different from current
+                    if (layer.category !== currentCategory) {
+                        currentCategory = layer.category;
+                        const heading = document.createElement('div');
+                        heading.className = 'category-heading';
+                        heading.textContent = currentCategory;
+                        controlsDiv.appendChild(heading);
+                    }
+
+                    const checkbox = document.createElement('input');
+                    checkbox.type = 'checkbox';
+                    checkbox.checked = layer.value === 1;
+                    checkbox.id = layerKey;
+
+                    const label = document.createElement('label');
+                    label.htmlFor = layerKey;
+                    label.textContent = layer.name;
+
+                    const colorBox = document.createElement('div');
+                    colorBox.className = 'legend-color';
+                    colorBox.style.backgroundColor = layer.color;
+
+                    const itemDiv = document.createElement('div');
+                    itemDiv.className = 'legend-item';
+                    itemDiv.appendChild(checkbox);
+                    itemDiv.appendChild(colorBox);
+                    itemDiv.appendChild(label);
+                    controlsDiv.appendChild(itemDiv);
+
+                    checkbox.addEventListener('change', (e) => {
+                        if (e.target.checked) {
+                            map.addLayer(featureLayers[layerKey]);
+                        } else {
+                            map.removeLayer(featureLayers[layerKey]);
+                        }
+                    });
+                });
+            })
+            .catch(error => console.error('Error loading GeoJSON:', error));
+    </script>
+</body>
+</html>
