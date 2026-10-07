@@ -1,0 +1,663 @@
+{"type":"FeatureCollection","name":"Sheet1 Layer","map_layer_type":"Point","bounds":[[-176.485096,51.755361],[-128.899498,70.696027]],"center":[-152.692297,61.225694],"zoom":4,"median_zoom":14,"count":165,"property_names":["community","state","reporting","[Registered Voters]","Voted","[Turnout (%)]","F7","F8","F9","[Geocoding Precision]"],"features":
+[
+{"type":"Feature",
+"id":1,"properties":{"community":"Akhiok","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-154.17028,56.945556]}}
+,
+{"type":"Feature",
+"id":2,"properties":{"community":"Alexander Creek","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-150.59993,61.421794]}}
+,
+{"type":"Feature",
+"id":103,"properties":{"community":"Allakaket","state":"AK","reporting":"Yes","[Registered Voters]":109,"Voted":44,"[Turnout (%)]":0.400000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-152.64556,66.565556]}}
+,
+{"type":"Feature",
+"id":3,"properties":{"community":"Amchitka","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":104,"properties":{"community":"Angoon","state":"AK","reporting":"Yes","[Registered Voters]":296,"Voted":83,"[Turnout (%)]":0.280000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-134.58389,57.503333]}}
+,
+{"type":"Feature",
+"id":4,"properties":{"community":"Atka","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-174.20056,52.196111]}}
+,
+{"type":"Feature",
+"id":5,"properties":{"community":"Attu","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":6,"properties":{"community":"Beluga","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-151.08278,61.141111]}}
+,
+{"type":"Feature",
+"id":105,"properties":{"community":"Bettles","state":"AK","reporting":"Yes","[Registered Voters]":69,"Voted":17,"[Turnout (%)]":0.250000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-151.51611,66.918889]}}
+,
+{"type":"Feature",
+"id":106,"properties":{"community":"Big Lake","state":"AK","reporting":"Yes","[Registered Voters]":3805,"Voted":720,"[Turnout (%)]":0.190000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-149.95444,61.521389]}}
+,
+{"type":"Feature",
+"id":7,"properties":{"community":"Birch Creek","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-145.81902,66.259035]}}
+,
+{"type":"Feature",
+"id":8,"properties":{"community":"Boundary","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":9,"properties":{"community":"Candle","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-161.92444,65.913333]}}
+,
+{"type":"Feature",
+"id":107,"properties":{"community":"Cantwell","state":"AK","reporting":"Yes","[Registered Voters]":207,"Voted":56,"[Turnout (%)]":0.270000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-148.95083,63.391667]}}
+,
+{"type":"Feature",
+"id":10,"properties":{"community":"Cape Newenham","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":11,"properties":{"community":"Cape Romanzof","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":12,"properties":{"community":"Chalkyitsik","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-143.72222,66.654444]}}
+,
+{"type":"Feature",
+"id":13,"properties":{"community":"Chandalar Lake","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":14,"properties":{"community":"Chenega Bay","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-148.01212,60.063625]}}
+,
+{"type":"Feature",
+"id":15,"properties":{"community":"Chicken","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-141.93611,64.073333]}}
+,
+{"type":"Feature",
+"id":16,"properties":{"community":"Chignik Bay","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":17,"properties":{"community":"Chignik Lagoon","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-158.53024,56.308439]}}
+,
+{"type":"Feature",
+"id":18,"properties":{"community":"Chignik Lake","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-158.7625,56.255556]}}
+,
+{"type":"Feature",
+"id":19,"properties":{"community":"Chisana","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-142.04083,62.066111]}}
+,
+{"type":"Feature",
+"id":20,"properties":{"community":"Chitina","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-144.43694,61.515833]}}
+,
+{"type":"Feature",
+"id":21,"properties":{"community":"Coldfoot","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-150.18417,67.256389]}}
+,
+{"type":"Feature",
+"id":22,"properties":{"community":"Colville","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":108,"properties":{"community":"Copper Center","state":"AK","reporting":"Yes","[Registered Voters]":1097,"Voted":190,"[Turnout (%)]":0.170000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-145.32973,61.97696]}}
+,
+{"type":"Feature",
+"id":109,"properties":{"community":"Cordova","state":"AK","reporting":"Yes","[Registered Voters]":1928,"Voted":414,"[Turnout (%)]":0.210000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-145.7575,60.542778]}}
+,
+{"type":"Feature",
+"id":23,"properties":{"community":"Council","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-163.67639,64.895]}}
+,
+{"type":"Feature",
+"id":110,"properties":{"community":"Craig ","state":"AK","reporting":"Yes","[Registered Voters]":1179,"Voted":239,"[Turnout (%)]":0.200000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-133.14833,55.476389]}}
+,
+{"type":"Feature",
+"id":24,"properties":{"community":"Cube Cove ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-134.71111,57.935]}}
+,
+{"type":"Feature",
+"id":25,"properties":{"community":"Deadhorse ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-148.51167,70.205556]}}
+,
+{"type":"Feature",
+"id":111,"properties":{"community":"Delta Junction ","state":"AK","reporting":"Yes","[Registered Voters]":946,"Voted":148,"[Turnout (%)]":0.160000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-145.73222,64.037778]}}
+,
+{"type":"Feature",
+"id":112,"properties":{"community":"Dillingham ","state":"AK","reporting":"Yes","[Registered Voters]":1653,"Voted":436,"[Turnout (%)]":0.260000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-158.4575,59.039722]}}
+,
+{"type":"Feature",
+"id":113,"properties":{"community":"Dot Lake ","state":"AK","reporting":"Yes","[Registered Voters]":102,"Voted":27,"[Turnout (%)]":0.260000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-144.06444,63.661389]}}
+,
+{"type":"Feature",
+"id":114,"properties":{"community":"Douglas ","state":"AK","reporting":"Yes","[Registered Voters]":1744,"Voted":542,"[Turnout (%)]":0.310000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-134.3925,58.275556]}}
+,
+{"type":"Feature",
+"id":115,"properties":{"community":"Eagle ","state":"AK","reporting":"Yes","[Registered Voters]":203,"Voted":63,"[Turnout (%)]":0.310000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-141.2,64.788056]}}
+,
+{"type":"Feature",
+"id":26,"properties":{"community":"Eareckson AS ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":27,"properties":{"community":"Edna Bay ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-133.66345,55.948826]}}
+,
+{"type":"Feature",
+"id":28,"properties":{"community":"Ekuk ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-158.55338,58.80351]}}
+,
+{"type":"Feature",
+"id":116,"properties":{"community":"Elfin Cove ","state":"AK","reporting":"No","[Registered Voters]":155,"Voted":35,"[Turnout (%)]":0.230000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-136.34333,58.194444]}}
+,
+{"type":"Feature",
+"id":29,"properties":{"community":"Ellamar ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-146.6975,60.895556]}}
+,
+{"type":"Feature",
+"id":30,"properties":{"community":"Esther Island ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":31,"properties":{"community":"Excursion Inlet ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-135.43667,58.421389]}}
+,
+{"type":"Feature",
+"id":117,"properties":{"community":"Fairbanks ","state":"AK","reporting":"Yes","[Registered Voters]":12858,"Voted":2215,"[Turnout (%)]":0.170000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-147.71639,64.837778]}}
+,
+{"type":"Feature",
+"id":32,"properties":{"community":"False Pass ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-163.415,54.850833]}}
+,
+{"type":"Feature",
+"id":118,"properties":{"community":"Flat ","state":"AK","reporting":"No","[Registered Voters]":1748,"Voted":259,"[Turnout (%)]":0.150000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-158.0075,62.453611]}}
+,
+{"type":"Feature",
+"id":33,"properties":{"community":"Funter Bay ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":119,"properties":{"community":"Gakona ","state":"AK","reporting":"Yes","[Registered Voters]":290,"Voted":60,"[Turnout (%)]":0.210000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-145.30194,62.301944]}}
+,
+{"type":"Feature",
+"id":120,"properties":{"community":"Glennallen ","state":"AK","reporting":"Yes","[Registered Voters]":515,"Voted":130,"[Turnout (%)]":0.250000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-145.54639,62.109167]}}
+,
+{"type":"Feature",
+"id":34,"properties":{"community":"Granite Creek ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":121,"properties":{"community":"Haines ","state":"AK","reporting":"Yes","[Registered Voters]":2392,"Voted":677,"[Turnout (%)]":0.280000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-135.44411,59.228589]}}
+,
+{"type":"Feature",
+"id":35,"properties":{"community":"Halibut Cove ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-151.225,59.595]}}
+,
+{"type":"Feature",
+"id":36,"properties":{"community":"Hawk Inlet ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":37,"properties":{"community":"Hawkins Island ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":38,"properties":{"community":"Healy Lake ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-144.69983,63.987231]}}
+,
+{"type":"Feature",
+"id":39,"properties":{"community":"Hobart Bay ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-133.35333,57.465833]}}
+,
+{"type":"Feature",
+"id":40,"properties":{"community":"Hollis ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-132.63639,55.556667]}}
+,
+{"type":"Feature",
+"id":122,"properties":{"community":"Homer ","state":"AK","reporting":"Yes","[Registered Voters]":5410,"Voted":1171,"[Turnout (%)]":0.220000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-151.54833,59.6425]}}
+,
+{"type":"Feature",
+"id":123,"properties":{"community":"Hoonah ","state":"AK","reporting":"Yes","[Registered Voters]":688,"Voted":189,"[Turnout (%)]":0.270000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-135.44361,58.11]}}
+,
+{"type":"Feature",
+"id":124,"properties":{"community":"Hydaburg ","state":"AK","reporting":"Yes","[Registered Voters]":293,"Voted":48,"[Turnout (%)]":0.160000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-132.82667,55.208056]}}
+,
+{"type":"Feature",
+"id":41,"properties":{"community":"Hyder ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-130.02472,55.916944]}}
+,
+{"type":"Feature",
+"id":42,"properties":{"community":"Igiugig ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-155.89472,59.327778]}}
+,
+{"type":"Feature",
+"id":125,"properties":{"community":"Iliamna ","state":"AK","reporting":"No","[Registered Voters]":380,"Voted":116,"[Turnout (%)]":0.310000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-154.91108,59.756797]}}
+,
+{"type":"Feature",
+"id":43,"properties":{"community":"Indian Mountain AFS ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":44,"properties":{"community":"Ivanof Bay ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-159.48417,55.901805]}}
+,
+{"type":"Feature",
+"id":126,"properties":{"community":"Juneau ","state":"AK","reporting":"Yes","[Registered Voters]":7215,"Voted":1493,"[Turnout (%)]":0.210000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-134.41972,58.301944]}}
+,
+{"type":"Feature",
+"id":127,"properties":{"community":"Kachemak Bay ","state":"AK","reporting":"No","[Registered Voters]":462,"Voted":105,"[Turnout (%)]":0.230000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":128,"properties":{"community":"Kake ","state":"AK","reporting":"Yes","[Registered Voters]":365,"Voted":97,"[Turnout (%)]":0.270000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-133.94722,56.975833]}}
+,
+{"type":"Feature",
+"id":45,"properties":{"community":"Karluk ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-154.45574,57.571816]}}
+,
+{"type":"Feature",
+"id":129,"properties":{"community":"Kasaan ","state":"AK","reporting":"Yes","[Registered Voters]":62,"Voted":22,"[Turnout (%)]":0.350000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-132.40083,55.538889]}}
+,
+{"type":"Feature",
+"id":130,"properties":{"community":"Kenai ","state":"AK","reporting":"Yes","[Registered Voters]":6508,"Voted":1107,"[Turnout (%)]":0.170000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-151.25833,60.554444]}}
+,
+{"type":"Feature",
+"id":46,"properties":{"community":"Kennicott ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-142.88639,61.486389]}}
+,
+{"type":"Feature",
+"id":131,"properties":{"community":"Ketchikan ","state":"AK","reporting":"Yes","[Registered Voters]":6547,"Voted":1131,"[Turnout (%)]":0.170000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-131.64611,55.342222]}}
+,
+{"type":"Feature",
+"id":132,"properties":{"community":"Kiana ","state":"AK","reporting":"Yes","[Registered Voters]":261,"Voted":93,"[Turnout (%)]":0.360000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-160.42278,66.975]}}
+,
+{"type":"Feature",
+"id":133,"properties":{"community":"Kivalina ","state":"AK","reporting":"Yes","[Registered Voters]":251,"Voted":34,"[Turnout (%)]":0.140000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-164.53456,67.726539]}}
+,
+{"type":"Feature",
+"id":134,"properties":{"community":"Klawock ","state":"AK","reporting":"Yes","[Registered Voters]":1329,"Voted":151,"[Turnout (%)]":0.110000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-133.09583,55.552222]}}
+,
+{"type":"Feature",
+"id":135,"properties":{"community":"Kodiak ","state":"AK","reporting":"Yes","[Registered Voters]":4106,"Voted":695,"[Turnout (%)]":0.170000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-152.40722,57.79]}}
+,
+{"type":"Feature",
+"id":136,"properties":{"community":"Kotzebue ","state":"AK","reporting":"Yes","[Registered Voters]":1830,"Voted":325,"[Turnout (%)]":0.180000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-162.59667,66.898333]}}
+,
+{"type":"Feature",
+"id":47,"properties":{"community":"Kupreanof Island ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":137,"properties":{"community":"Kupreanof  (Petersburg)","state":"AK","reporting":"No","[Registered Voters]":2940,"Voted":555,"[Turnout (%)]":0.190000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":48,"properties":{"community":"Lake Louise ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-146.55111,62.281389]}}
+,
+{"type":"Feature",
+"id":49,"properties":{"community":"Lake Minchumina ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-152.31222,63.882778]}}
+,
+{"type":"Feature",
+"id":50,"properties":{"community":"Lemesurier Island ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":138,"properties":{"community":"Levelock ","state":"AK","reporting":"Yes","[Registered Voters]":38,"Voted":19,"[Turnout (%)]":0.500000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-156.85889,59.114167]}}
+,
+{"type":"Feature",
+"id":51,"properties":{"community":"Lime Village ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-155.43556,61.356389]}}
+,
+{"type":"Feature",
+"id":52,"properties":{"community":"Livengood ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-148.54472,65.524444]}}
+,
+{"type":"Feature",
+"id":53,"properties":{"community":"Main Bay ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":54,"properties":{"community":"Mankomen Lake ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":139,"properties":{"community":"Manley Hot Springs ","state":"AK","reporting":"Yes","[Registered Voters]":124,"Voted":27,"[Turnout (%)]":0.220000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-150.63389,65.001111]}}
+,
+{"type":"Feature",
+"id":55,"properties":{"community":"May Creek ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-142.69333,61.348611]}}
+,
+{"type":"Feature",
+"id":56,"properties":{"community":"McCarthy ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-142.92167,61.433333]}}
+,
+{"type":"Feature",
+"id":140,"properties":{"community":"McGrath ","state":"AK","reporting":"Yes","[Registered Voters]":277,"Voted":59,"[Turnout (%)]":0.210000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-155.59583,62.956389]}}
+,
+{"type":"Feature",
+"id":57,"properties":{"community":"Medfra ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-154.71417,63.106667]}}
+,
+{"type":"Feature",
+"id":58,"properties":{"community":"Meiers Lake ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":59,"properties":{"community":"Meyers Chuck ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-132.25639,55.740833]}}
+,
+{"type":"Feature",
+"id":60,"properties":{"community":"Nanwalek ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-151.92083,59.356389]}}
+,
+{"type":"Feature",
+"id":61,"properties":{"community":"Napaimute ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":62,"properties":{"community":"Naukati ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":63,"properties":{"community":"Nelson Lagoon ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-161.20697,56.000615]}}
+,
+{"type":"Feature",
+"id":141,"properties":{"community":"Nenana ","state":"AK","reporting":"Yes","[Registered Voters]":602,"Voted":202,"[Turnout (%)]":0.340000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-149.09306,64.563889]}}
+,
+{"type":"Feature",
+"id":64,"properties":{"community":"Nikolski ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-168.86778,52.938056]}}
+,
+{"type":"Feature",
+"id":142,"properties":{"community":"Nome ","state":"AK","reporting":"Yes","[Registered Voters]":2728,"Voted":576,"[Turnout (%)]":0.210000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-165.40639,64.501111]}}
+,
+{"type":"Feature",
+"id":143,"properties":{"community":"North Pole ","state":"AK","reporting":"Yes","[Registered Voters]":2326,"Voted":349,"[Turnout (%)]":0.150000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-147.34944,64.751111]}}
+,
+{"type":"Feature",
+"id":144,"properties":{"community":"Northway ","state":"AK","reporting":"Yes","[Registered Voters]":228,"Voted":33,"[Turnout (%)]":0.140000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-141.93722,62.961667]}}
+,
+{"type":"Feature",
+"id":65,"properties":{"community":"Oliktok ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":66,"properties":{"community":"Ophir ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-156.51944,63.144722]}}
+,
+{"type":"Feature",
+"id":67,"properties":{"community":"Oscarville ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-161.77,60.722778]}}
+,
+{"type":"Feature",
+"id":68,"properties":{"community":"Paxson ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-145.61306,63.089722]}}
+,
+{"type":"Feature",
+"id":69,"properties":{"community":"Perryville ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-159.16328,55.913985]}}
+,
+{"type":"Feature",
+"id":145,"properties":{"community":"Petersburg ","state":"AK","reporting":"Yes","[Registered Voters]":2940,"Voted":555,"[Turnout (%)]":0.190000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-132.95124,56.811267]}}
+,
+{"type":"Feature",
+"id":70,"properties":{"community":"Pilot Point ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-157.57917,57.564167]}}
+,
+{"type":"Feature",
+"id":146,"properties":{"community":"Pitkas Point ","state":"AK","reporting":"No","[Registered Voters]":419,"Voted":98,"[Turnout (%)]":0.230000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-163.28778,62.032778]}}
+,
+{"type":"Feature",
+"id":71,"properties":{"community":"Platinum ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-161.81817,59.012851]}}
+,
+{"type":"Feature",
+"id":72,"properties":{"community":"Point Baker ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-133.62111,56.352778]}}
+,
+{"type":"Feature",
+"id":73,"properties":{"community":"Poorman ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-155.54389,64.099444]}}
+,
+{"type":"Feature",
+"id":74,"properties":{"community":"Port Alsworth ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-154.31278,60.2025]}}
+,
+{"type":"Feature",
+"id":75,"properties":{"community":"Port Armstrong ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-134.66167,56.296944]}}
+,
+{"type":"Feature",
+"id":76,"properties":{"community":"Port Clarence ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-166.84583,65.262222]}}
+,
+{"type":"Feature",
+"id":77,"properties":{"community":"Port Fidalgo ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":78,"properties":{"community":"Port Graham ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-151.83061,59.350788]}}
+,
+{"type":"Feature",
+"id":147,"properties":{"community":"Port Lions ","state":"AK","reporting":"Yes","[Registered Voters]":168,"Voted":44,"[Turnout (%)]":0.260000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-152.88222,57.8675]}}
+,
+{"type":"Feature",
+"id":79,"properties":{"community":"Port Moller ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-160.57694,55.988611]}}
+,
+{"type":"Feature",
+"id":80,"properties":{"community":"Port Protection ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-133.59806,56.317222]}}
+,
+{"type":"Feature",
+"id":81,"properties":{"community":"Port Tongass Village ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":82,"properties":{"community":"Portage Creek ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-157.7175,58.906111]}}
+,
+{"type":"Feature",
+"id":83,"properties":{"community":"Prudhoe Bay ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-148.33722,70.255278]}}
+,
+{"type":"Feature",
+"id":84,"properties":{"community":"Rampart ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-150.17,65.505]}}
+,
+{"type":"Feature",
+"id":85,"properties":{"community":"Red Devil ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-157.3125,61.761111]}}
+,
+{"type":"Feature",
+"id":148,"properties":{"community":"Ruby ","state":"AK","reporting":"Yes","[Registered Voters]":86,"Voted":25,"[Turnout (%)]":0.290000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-155.48694,64.739444]}}
+,
+{"type":"Feature",
+"id":149,"properties":{"community":"Seldovia ","state":"AK","reporting":"Yes","[Registered Voters]":462,"Voted":105,"[Turnout (%)]":0.230000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-151.71139,59.438056]}}
+,
+{"type":"Feature",
+"id":150,"properties":{"community":"Sheep Mountain ","state":"AK","reporting":"Yes","[Registered Voters]":413,"Voted":104,"[Turnout (%)]":0.250000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":86,"properties":{"community":"Shemya AFS ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":151,"properties":{"community":"Sitka ","state":"AK","reporting":"Yes","[Registered Voters]":7405,"Voted":1483,"[Turnout (%)]":0.200000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-135.33,57.053056]}}
+,
+{"type":"Feature",
+"id":87,"properties":{"community":"Skwentna ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-151.39778,61.990278]}}
+,
+{"type":"Feature",
+"id":152,"properties":{"community":"Sleetmute ","state":"AK","reporting":"Yes","[Registered Voters]":96,"Voted":9,"[Turnout (%)]":0.090000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-157.16972,61.7025]}}
+,
+{"type":"Feature",
+"id":88,"properties":{"community":"Sparrevohn AFS ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":89,"properties":{"community":"Squaw Harbor ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-160.55393,55.244625]}}
+,
+{"type":"Feature",
+"id":90,"properties":{"community":"Stevens Village ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-149.09083,66.006389]}}
+,
+{"type":"Feature",
+"id":91,"properties":{"community":"Stony River ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-156.58806,61.783056]}}
+,
+{"type":"Feature",
+"id":92,"properties":{"community":"Takotna ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-156.06417,62.988611]}}
+,
+{"type":"Feature",
+"id":153,"properties":{"community":"Talkeetna ","state":"AK","reporting":"Yes","[Registered Voters]":1257,"Voted":325,"[Turnout (%)]":0.260000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-150.10944,62.323889]}}
+,
+{"type":"Feature",
+"id":154,"properties":{"community":"Tanana ","state":"AK","reporting":"Yes","[Registered Voters]":151,"Voted":57,"[Turnout (%)]":0.380000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-152.07889,65.171944]}}
+,
+{"type":"Feature",
+"id":155,"properties":{"community":"Tatitlek ","state":"AK","reporting":"Yes","[Registered Voters]":111,"Voted":7,"[Turnout (%)]":0.060000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-146.67861,60.864722]}}
+,
+{"type":"Feature",
+"id":93,"properties":{"community":"Telida ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-153.28222,63.383889]}}
+,
+{"type":"Feature",
+"id":94,"properties":{"community":"Teller ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-166.36446,65.264075]}}
+,
+{"type":"Feature",
+"id":156,"properties":{"community":"Tenakee Springs ","state":"AK","reporting":"Yes","[Registered Voters]":127,"Voted":65,"[Turnout (%)]":0.510000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-135.21889,57.780833]}}
+,
+{"type":"Feature",
+"id":157,"properties":{"community":"Thorne Bay ","state":"AK","reporting":"Yes","[Registered Voters]":565,"Voted":92,"[Turnout (%)]":0.160000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-132.52222,55.687778]}}
+,
+{"type":"Feature",
+"id":95,"properties":{"community":"Tin City ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-167.94806,65.558611]}}
+,
+{"type":"Feature",
+"id":158,"properties":{"community":"Tok ","state":"AK","reporting":"Yes","[Registered Voters]":1395,"Voted":214,"[Turnout (%)]":0.150000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-142.98556,63.336667]}}
+,
+{"type":"Feature",
+"id":96,"properties":{"community":"Tolovana ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":159,"properties":{"community":"Trapper Creek ","state":"AK","reporting":"Yes","[Registered Voters]":671,"Voted":113,"[Turnout (%)]":0.170000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-150.23139,62.316667]}}
+,
+{"type":"Feature",
+"id":97,"properties":{"community":"Twin Hills ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-160.275,59.079167]}}
+,
+{"type":"Feature",
+"id":160,"properties":{"community":"Tyonek ","state":"AK","reporting":"Yes","[Registered Voters]":374,"Voted":31,"[Turnout (%)]":0.080000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-151.13694,61.068056]}}
+,
+{"type":"Feature",
+"id":98,"properties":{"community":"Ugashik ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-157.3975,57.513056]}}
+,
+{"type":"Feature",
+"id":99,"properties":{"community":"Umiat ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-152.14417,69.366944]}}
+,
+{"type":"Feature",
+"id":100,"properties":{"community":"Unakwik Inlet ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":161,"properties":{"community":"Valdez ","state":"AK","reporting":"Yes","[Registered Voters]":3146,"Voted":694,"[Turnout (%)]":0.220000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-146.34833,61.130833]}}
+,
+{"type":"Feature",
+"id":101,"properties":{"community":"Whale Pass ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-133.12083,56.115278]}}
+,
+{"type":"Feature",
+"id":162,"properties":{"community":"Whittier ","state":"AK","reporting":"Yes","[Registered Voters]":232,"Voted":56,"[Turnout (%)]":0.240000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-148.68389,60.773056]}}
+,
+{"type":"Feature",
+"id":163,"properties":{"community":"Willow ","state":"AK","reporting":"Yes","[Registered Voters]":2486,"Voted":662,"[Turnout (%)]":0.270000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-150.0375,61.747222]}}
+,
+{"type":"Feature",
+"id":102,"properties":{"community":"Wiseman ","state":"AK","reporting":"No","[Registered Voters]":null,"Voted":null,"[Turnout (%)]":null,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-150.1075,67.41]}}
+,
+{"type":"Feature",
+"id":164,"properties":{"community":"Wrangell ","state":"AK","reporting":"Yes","[Registered Voters]":1931,"Voted":438,"[Turnout (%)]":0.230000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-132.37667,56.470833]}}
+,
+{"type":"Feature",
+"id":165,"properties":{"community":"Yakutat","state":"AK","reporting":"Yes","[Registered Voters]":489,"Voted":107,"[Turnout (%)]":0.220000,"F7":null,"F8":null,"F9":null,"[Geocoding Precision]":"Scattered within 1 Mile of the City Center Point"},
+"geometry":{"type":"Point","coordinates":[-139.72722,59.546944]}}
+
+]}

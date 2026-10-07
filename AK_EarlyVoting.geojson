@@ -1,0 +1,787 @@
+{"type":"FeatureCollection","name":"Early Voting Layer","map_layer_type":"Point","bounds":[[-176.613696,51.880683],[-130.087254,70.884551]],"center":[-153.350475,61.382617],"zoom":4,"median_zoom":14,"count":196,"property_names":["City","Location","Address","Hours","[Last Updated]","Elections","[Sample Ballot(s)]","[Sample Ballot URL(s)]","state","[Geocoding Precision]"],"features":
+[
+{"type":"Feature",
+"id":2,"properties":{"City":"Adak","Location":"Adak City Office","Address":"100 Mechanical Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 5:00pm","[Last Updated]":"September 23, 2026 at 3:55 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-176.64005,51.86992]}}
+,
+{"type":"Feature",
+"id":3,"properties":{"City":"Akiachak","Location":"Akiachak IRA Office","Address":"100 Main Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 5:00pm","[Last Updated]":"September 17, 2026 at 3:09 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-161.42651,60.901512]}}
+,
+{"type":"Feature",
+"id":4,"properties":{"City":"Akiak","Location":"Akiak City Hall","Address":"250 Doops Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 5:00pm","[Last Updated]":"October 2, 2026 at 9:07 am","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.21389,60.912222]}}
+,
+{"type":"Feature",
+"id":5,"properties":{"City":"Akutan","Location":"Akutan City Office","Address":"109 Windy Way","Hours":"Monday – Friday  October 19 – November 2  9:00am – 5:00pm","[Last Updated]":"September 22, 2026 at 1:53 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-165.77306,54.135556]}}
+,
+{"type":"Feature",
+"id":6,"properties":{"City":"Alakanuk","Location":"Alakanuk Tribal Council Building","Address":"no address","Hours":"Monday – Friday  October 19 – November 2  9:00 am – 5:00 pm","[Last Updated]":"September 22, 2026 at 1:54 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-164.61528,62.688889]}}
+,
+{"type":"Feature",
+"id":7,"properties":{"City":"Aleknagik","Location":"Native Village of Aleknagik Building","Address":"Lake Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 1:54 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-158.61778,59.273056]}}
+,
+{"type":"Feature",
+"id":8,"properties":{"City":"Allakaket","Location":"Allakaket Tribal Council","Address":"Tribal Council Office","Hours":"Tuesdays and Thursdays  October 20 – October 29  10:00am – 2:00pm","[Last Updated]":"September 16, 2026 at 5:13 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-152.64556,66.565556]}}
+,
+{"type":"Feature",
+"id":9,"properties":{"City":"Ambler","Location":"Ambler City Office","Address":"9 Ambler Ave","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 1:55 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD40-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD40-JD2.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-157.86098,67.084532]}}
+,
+{"type":"Feature",
+"id":10,"properties":{"City":"Anchorage","Location":"Ted Stevens Anchorage International Airport","Address":"First Floor – level one from the parking garage","Hours":"Tuesday, Election Day  Novemebr 3rd  7:00am – 8:00pm","[Last Updated]":"September 16, 2026 at 2:57 pm","Elections":"26GENR","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/sample-ballots/ballot/zk4o0/","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-149.90028,61.218056]}}
+,
+{"type":"Feature",
+"id":49,"properties":{"City":"Eagle River","Location":"Eagle River Town Center  Early Vote Location","Address":"12001 Business Blvd Room 170","Hours":"Monday-Friday  October 19 – November 2  8:00am – 5:00pm","[Last Updated]":"September 16, 2026 at 3:55 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD23-JD3; HD24-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD23-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD24-JD3.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.57204,61.329154]}}
+,
+{"type":"Feature",
+"id":13,"properties":{"City":"Anchorage","Location":"South Central Foundation","Address":"4175 Tudor Centre Drive","Hours":"Monday-Friday  October 27- November 2  9:00am – 4:00pm","[Last Updated]":"September 16, 2026 at 3:01 pm","Elections":"26GENR","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/sample-ballots/ballot/zk4o0/","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.79491,61.182686]}}
+,
+{"type":"Feature",
+"id":14,"properties":{"City":"Anchorage","Location":"UAA Student Union","Address":"2921 Spirit Drive","Hours":"Tuesday, Election Day  Novemebr 3rd  7:00am – 8:00pm","[Last Updated]":"September 16, 2026 at 3:04 pm","Elections":"26GENR","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/sample-ballots/ballot/zk4o0/","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.82572,61.189424]}}
+,
+{"type":"Feature",
+"id":12,"properties":{"City":"Anchorage","Location":"Anchorage City Hall  Early Vote Location","Address":"632 W 6th Ave, Room 105","Hours":"Monday – Friday  October 19 – November 2  8:00am – 5:00pm    Saturday  October 24  12:00pm – 3:00pm","[Last Updated]":"October 1, 2026 at 3:50 pm","Elections":"26GENR","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/sample-ballots/ballot/zk4o0/","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.89536,61.216522]}}
+,
+{"type":"Feature",
+"id":11,"properties":{"City":"Anchorage","Location":"Midtown Mall  Early Vote Location","Address":"600 E Northern Lights Blvd","Hours":"Monday – Friday  October 19 – November 2  8:00am – 5:00pm    Saturday  October 24 and 31  10:00am – 4:00pm    Sunday  October 25 and November 1  12:00pm – 4:00pm    Tuesday, Election Day  November 3  7:00am – 8:00pm","[Last Updated]":"September 16, 2026 at 2:52 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/sample-ballots/ballot/zk4o0/","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.8734,61.195222]}}
+,
+{"type":"Feature",
+"id":15,"properties":{"City":"Angoon","Location":"Angoon City Clerk’s Office","Address":"700 Aandeina Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 16, 2026 at 11:18 am","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":null,"state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-134.58132,57.499414]}}
+,
+{"type":"Feature",
+"id":16,"properties":{"City":"Aniak","Location":"Kuspuk School District Office","Address":"100 Boundary Avenue","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 22, 2026 at 1:56 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD4.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-159.52453,61.57729]}}
+,
+{"type":"Feature",
+"id":17,"properties":{"City":"Anvik","Location":"City of Anvik","Address":"Anvik City Building","Hours":"Monday – Friday  October 20 – November 2  12:00pm – 3:00pm","[Last Updated]":"September 16, 2026 at 5:28 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-160.20667,62.656111]}}
+,
+{"type":"Feature",
+"id":18,"properties":{"City":"Arctic Village","Location":"Tribal Council","Address":"Tribal Office","Hours":"Saturdays  October 24 and October 31  2:00pm- 4:00pm","[Last Updated]":"September 16, 2026 at 9:47 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-145.53778,68.126944]}}
+,
+{"type":"Feature",
+"id":19,"properties":{"City":"Atka","Location":"Atka City Office","Address":"800 Atxax Way","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 1:56 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-174.19393,52.19431]}}
+,
+{"type":"Feature",
+"id":20,"properties":{"City":"Atmautluak","Location":"Atmautluak Tribal Council Building","Address":"101 Boardwalk Lane","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 3:56 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.27306,60.866944]}}
+,
+{"type":"Feature",
+"id":21,"properties":{"City":"Atqasuk","Location":"Atqasuk North Slope Borough","Address":"421 Shugluk Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 5:00pm","[Last Updated]":"September 17, 2026 at 11:42 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD40-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD40-JD2.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-157.42201,70.480119]}}
+,
+{"type":"Feature",
+"id":22,"properties":{"City":"Beaver","Location":"Beaver Village Council","Address":"Clinton Victor Tribal Council","Hours":"Monday – Friday  October 19 – November 2  10:00am – 2:00pm","[Last Updated]":"September 16, 2026 at 9:51 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-147.39639,66.359444]}}
+,
+{"type":"Feature",
+"id":23,"properties":{"City":"Bethel","Location":"Bethel City Hall","Address":"300 Chief Eddie Hoffman Hwy","Hours":"Monday – Friday  October 2o – November 2  8:30am – 5:00pm","[Last Updated]":"October 2, 2026 at 9:07 am","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-161.77076,60.791578]}}
+,
+{"type":"Feature",
+"id":24,"properties":{"City":"Bettles Field","Location":"Bettles Fire Station","Address":null,"Hours":"Monday – Friday  October 19 – November 2  2:00pm – 4:00pm","[Last Updated]":"September 16, 2026 at 9:56 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":25,"properties":{"City":"Birch Creek","Location":"Birch Creek Tribal Council","Address":"Tribal Office","Hours":"Monday – Friday  October 19 – November 2  9:00am – 12:00pm","[Last Updated]":"September 16, 2026 at 9:58 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-145.81902,66.259035]}}
+,
+{"type":"Feature",
+"id":26,"properties":{"City":"Brevig Mission","Location":"Brevig Mission City Office","Address":"3 Mission Street","Hours":"Monday – Friday  August 3-17  9:00 am – 12:00 pm; 1:00 pm – 5:00 pm","[Last Updated]":"September 22, 2026 at 1:58 pm","Elections":"26GENR","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":null,"state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-166.48577,65.332123]}}
+,
+{"type":"Feature",
+"id":27,"properties":{"City":"Buckland","Location":"Buckland City Office","Address":"49 Hillside Road","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 11:19 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD40-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD40-JD2.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.12306,65.979722]}}
+,
+{"type":"Feature",
+"id":28,"properties":{"City":"Chalkyitsik","Location":"Chalkyitsik Village Council","Address":"Village Council Office","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm","[Last Updated]":"September 17, 2026 at 11:45 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-143.72222,66.654444]}}
+,
+{"type":"Feature",
+"id":29,"properties":{"City":"Cherfornak","Location":"Cherfornak Tribal Council Building","Address":null,"Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 17, 2026 at 3:06 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":30,"properties":{"City":"Chevak","Location":"Native Village of Chevak Building","Address":"140 Aurora Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 3:14 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-165.58902,61.52781]}}
+,
+{"type":"Feature",
+"id":31,"properties":{"City":"Chignik Bay","Location":"Chignik City Office","Address":"101 Woody Lane","Hours":"Monday – Friday  October 19 – November 2  11:00am – 5:00pm","[Last Updated]":"September 22, 2026 at 1:59 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":32,"properties":{"City":"Chignik Lagoon","Location":"Chignik Lagoon Council Building","Address":"427 Airport Road","Hours":"Monday – Friday  October 19 – November 3  9:00am – 4:00pm","[Last Updated]":"September 23, 2026 at 3:55 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-158.53024,56.308439]}}
+,
+{"type":"Feature",
+"id":33,"properties":{"City":"Chignik Lake","Location":"Chignik LakeSub Building","Address":"33 Lake Front Drive","Hours":"Monday – Thursday  October 19 – November 2  9:00am – 5:00pm","[Last Updated]":"September 22, 2026 at 2:00 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-158.7625,56.255556]}}
+,
+{"type":"Feature",
+"id":34,"properties":{"City":"Chistochina","Location":"Cheeshna Tribal Council","Address":"Mile 34 Tok Cutoff","Hours":"Monday – Friday  October 19 – November 2  8:00am – 4:30pm","[Last Updated]":"September 16, 2026 at 10:01 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-144.65417,62.571783]}}
+,
+{"type":"Feature",
+"id":35,"properties":{"City":"Chuathbaluk","Location":"Chuathbaluk Traditional Council Building","Address":"#1 Teen Center Trail","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:01 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-159.245,61.571944]}}
+,
+{"type":"Feature",
+"id":36,"properties":{"City":"Circle","Location":"Circle Tribal Council","Address":"Circle","Hours":"Mondays, Wednesdays, Fridays  October 19 – November 2  1:00pm – 3:00pm","[Last Updated]":"September 16, 2026 at 10:11 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-144.06056,65.825556]}}
+,
+{"type":"Feature",
+"id":37,"properties":{"City":"Clark’s Point","Location":"Clark’s Point Village Council Building","Address":"114 Swamp Road","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:01 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":38,"properties":{"City":"Coffman Cove","Location":"Coffman Cove City Clerk’s Office","Address":"310 Harbor Avenue","Hours":"Monday – Thursday  October 19 – Novemeber 2  10:00am – 2:00pm","[Last Updated]":"September 15, 2026 at 10:10 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD1-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD1-JD1.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-132.82734,56.01178]}}
+,
+{"type":"Feature",
+"id":39,"properties":{"City":"Cold Bay","Location":"Cold Bay City Office","Address":"10 Baranov Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:01 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-162.7071,55.20599]}}
+,
+{"type":"Feature",
+"id":40,"properties":{"City":"Coldfoot","Location":"Coldfoot Camp","Address":"Coldfoot Camp (South End Lobby of Hotel)","Hours":"Tuesdays and Thursdays  October 20 – October 29  4:00pm – 6:00pm","[Last Updated]":"September 16, 2026 at 10:13 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-150.18417,67.256389]}}
+,
+{"type":"Feature",
+"id":41,"properties":{"City":"Copper Center","Location":"Native Village of Kluti-Kaah","Address":"Kluti-Kaah Memorial Hall","Hours":"Monday – Friday  October 19 – November 2  8:00am – 4:00pm","[Last Updated]":"September 16, 2026 at 10:21 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-145.32973,61.97696]}}
+,
+{"type":"Feature",
+"id":42,"properties":{"City":"Cordova","Location":"The Cordova Center","Address":"601 First Street","Hours":"Monday – Friday  October 19 – November 2  8:00am – 4:30pm","[Last Updated]":"September 16, 2026 at 1:04 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD5-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD5-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-145.75942,60.541672]}}
+,
+{"type":"Feature",
+"id":43,"properties":{"City":"Craig","Location":"Craig City Clerk’s Office","Address":"500 3rd Street","Hours":"Monday -Friday  October 20 – November 2  8:00am – 5:00pm","[Last Updated]":"September 16, 2026 at 11:20 am","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-133.15142,55.476082]}}
+,
+{"type":"Feature",
+"id":44,"properties":{"City":"Crooked Creek","Location":"Crooked Creek Traditional Council Building","Address":"401 Main Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:02 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD37-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-158.11083,61.87]}}
+,
+{"type":"Feature",
+"id":45,"properties":{"City":"Delta Junction","Location":"City of Delta Junction","Address":"2287 Deborah St","Hours":"Tuesday  October 20 and 27  12:00pm – 8:00pm    Thursday  October 22 and 29  12:00pm – 8:00pm","[Last Updated]":"September 16, 2026 at 10:38 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-145.73808,64.046395]}}
+,
+{"type":"Feature",
+"id":46,"properties":{"City":"Dillingham","Location":"Dillingham City Hall","Address":"141 Main Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:03 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-158.46401,59.039103]}}
+,
+{"type":"Feature",
+"id":47,"properties":{"City":"Diomede","Location":"Diomede City Office","Address":"no address","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:03 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD2.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-168.952,65.7581]}}
+,
+{"type":"Feature",
+"id":48,"properties":{"City":"Eagle","Location":"Eagle Village Tribal Council","Address":"Tribal Council Office","Hours":"Monday – Friday  October 19 – November 2  12:00pm – 4:00pm","[Last Updated]":"September 17, 2026 at 11:47 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-141.2,64.788056]}}
+,
+{"type":"Feature",
+"id":50,"properties":{"City":"Eek","Location":"Eek Community Hall","Address":"1 Council Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 3:52 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.02444,60.218889]}}
+,
+{"type":"Feature",
+"id":51,"properties":{"City":"Egegik","Location":"Egegik City Hall","Address":"189 Airport Road","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:04 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-157.3735,58.19498]}}
+,
+{"type":"Feature",
+"id":52,"properties":{"City":"Ekwok","Location":"Ekwok City Hall","Address":"101 Main Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:04 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-157.47528,59.349722]}}
+,
+{"type":"Feature",
+"id":53,"properties":{"City":"Elfin Cove","Location":"Elfin Cove Gym","Address":null,"Hours":"Tuesday, Election Day  November 3  12:00pm – 4:00pm","[Last Updated]":"September 15, 2026 at 11:39 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-136.34333,58.194444]}}
+,
+{"type":"Feature",
+"id":54,"properties":{"City":"Elim","Location":"Elim City Office","Address":"101 Hillside Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 22, 2026 at 2:05 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD2.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-162.2604,64.6162]}}
+,
+{"type":"Feature",
+"id":55,"properties":{"City":"Emmonak","Location":"City of Emmonak","Address":"9 Karigak Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 5:00pm","[Last Updated]":"September 22, 2026 at 2:05 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-164.52306,62.777778]}}
+,
+{"type":"Feature",
+"id":56,"properties":{"City":"Fairbanks","Location":"Region III Elections Office  Early Vote Location","Address":"675 7th Avenue, Suite A2","Hours":"Monday – Friday  October 19 – November 2  8:00am – 5:00pm    Saturday  October 24 and 31  10:00am – 4:00pm    Sunday  October 25 and November 1  12:00pm – 4:00pm    Tuesday, Election Day  November 3  7:00am – 8:00pm","[Last Updated]":"September 16, 2026 at 11:00 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/sample-ballots/ballot/zk4o0/","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.72252,64.840574]}}
+,
+{"type":"Feature",
+"id":57,"properties":{"City":"Fairbanks","Location":"UAF Wood Center","Address":"1731 S Chandalar Dr","Hours":"Tuesday, Election Day  November 3rd  7:00am – 8:00pm","[Last Updated]":"September 16, 2026 at 11:03 pm","Elections":"26GENR","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/sample-ballots/ballot/zk4o0/","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-147.82474,64.857302]}}
+,
+{"type":"Feature",
+"id":58,"properties":{"City":"False Pass","Location":"False Pass Tribal Office","Address":"180 Unimak Drive","Hours":"Monday – Friday  October 19 – November 3  10:00am – 12:00pm; 1:00pm – 4:00pm","[Last Updated]":"September 22, 2026 at 2:05 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-163.41115,54.84942]}}
+,
+{"type":"Feature",
+"id":59,"properties":{"City":"Fort Yukon","Location":"City Office","Address":"City of Fort Yukon","Hours":"Monday – Friday  October 20 – November 2  8:00am – 5:00pm","[Last Updated]":"September 16, 2026 at 11:06 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-145.27389,66.564722]}}
+,
+{"type":"Feature",
+"id":60,"properties":{"City":"Galena","Location":"City of Galena City Office","Address":"Antoski Avenue","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 16, 2026 at 11:10 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-156.9275,64.733333]}}
+,
+{"type":"Feature",
+"id":61,"properties":{"City":"Gambell","Location":"City of Gambell","Address":"no address","Hours":"Monday – Friday  October 19 – November 2  9:00am – 5:00pm","[Last Updated]":"September 22, 2026 at 2:06 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD2.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-171.74111,63.779722]}}
+,
+{"type":"Feature",
+"id":62,"properties":{"City":"Glennallen","Location":"Old Paths Baptist Church","Address":"Mile 188 Glen Hwy","Hours":"Mondays, Wednesdays & Fridays  October 19 – November 2  1:00pm – 4:00pm","[Last Updated]":"September 16, 2026 at 11:11 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-145.48783,62.107363]}}
+,
+{"type":"Feature",
+"id":123,"properties":{"City":"Nome","Location":"Region IV Elections Office  Early Vote Location","Address":"214 Front Street, Suite 130","Hours":"Monday – Friday  October 19 – November 2  8:00am – 5:00pm    Saturday  October 24 and 31  10:00am – 4:00pm    Sunday  October 25 and November 1  12:00pm – 4:00pm    Tuesday, Election Day  November 3  7:00am-8:00pm","[Last Updated]":"September 17, 2026 at 11:43 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/sample-ballots/ballot/zk4o0/","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-165.41056,64.498026]}}
+,
+{"type":"Feature",
+"id":63,"properties":{"City":"Golovin","Location":"City of Golovin Offices","Address":"1 Amuktoolik Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 22, 2026 at 2:07 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD2.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-163.04385,64.5409]}}
+,
+{"type":"Feature",
+"id":64,"properties":{"City":"Goodnews Bay","Location":"Goodnews Bay Tribal Council Building","Address":"100 Caribou Lane","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:07 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.5875,59.118889]}}
+,
+{"type":"Feature",
+"id":65,"properties":{"City":"Grayling","Location":"Grayling Tribal Hall","Address":null,"Hours":"Wednesdays  October 21 and October 28  1:00pm – 4:00pm","[Last Updated]":"September 16, 2026 at 11:13 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-160.06472,62.903611]}}
+,
+{"type":"Feature",
+"id":66,"properties":{"City":"Gustavus","Location":"Gustavus City Clerk’s Office","Address":"1802 Gustavus Road","Hours":"Monday – Thursday  October 19-22, 26-29 & November 2  10:00am – 2:00pm","[Last Updated]":"September 23, 2026 at 11:42 am","Elections":"26GENR","[Sample Ballot(s)]":"HD3-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD3-JD1.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-135.7274,58.412562]}}
+,
+{"type":"Feature",
+"id":67,"properties":{"City":"Haines","Location":"Haines Borough Clerk’s Office","Address":"103 Third Avenue","Hours":"Monday – Friday  October 19 – November 2  9:00am – 5:00pm","[Last Updated]":"September 16, 2026 at 12:56 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD3-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD3-JD1.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-135.44777,59.234336]}}
+,
+{"type":"Feature",
+"id":93,"properties":{"City":"Klukwan","Location":"Chilkat Indian Village Office","Address":"32 Chilkat Avenue","Hours":"Monday – Friday  October 19 – November 2  1:00pm – 3:00pm","[Last Updated]":"September 16, 2026 at 12:57 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD3-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD3-JD1.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-135.89083,59.398767]}}
+,
+{"type":"Feature",
+"id":68,"properties":{"City":"Healy","Location":"Denali Borough Clerk’s Office","Address":"612 Healy Spur Rd STE 202","Hours":"Monday-Thursday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 18, 2026 at 1:44 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD30-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD30-JD4.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-149.01792,63.869329]}}
+,
+{"type":"Feature",
+"id":69,"properties":{"City":"Hollis","Location":"Hollis School","Address":"101 School Loop Rd","Hours":"Tuesday, Election Day  November 3  7:00am – 8:00pm","[Last Updated]":"September 16, 2026 at 11:24 am","Elections":"26GENR","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":null,"state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-132.63639,55.556667]}}
+,
+{"type":"Feature",
+"id":70,"properties":{"City":"Holy Cross","Location":"City of Holy Cross","Address":"Holy Cross City Office","Hours":"Monday – Friday  October 19 – November 2  9:00am – 3:00pm","[Last Updated]":"September 16, 2026 at 11:15 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-159.77139,62.199444]}}
+,
+{"type":"Feature",
+"id":71,"properties":{"City":"Homer","Location":"Homer City Clerk’s Office","Address":"491 E Pioneer Avenue","Hours":"Monday – Friday  October 20 – November 2  9:00am – 4:00pm","[Last Updated]":"September 16, 2026 at 2:34 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD5-JD3; HD6-JD3; HD7-JD3; HD8-JD3; HD37-JD3; HD37-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD5-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD6-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD7-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD8-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD4.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.53253,59.647368]}}
+,
+{"type":"Feature",
+"id":144,"properties":{"City":"Port Graham","Location":"Port Graham Community Hall","Address":"63795 Graham Road","Hours":"Monday – Friday  October 19 – November 3  9:00am – 12:00pm & 1:00pm – 3:00pm","[Last Updated]":"September 22, 2026 at 3:18 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.82543,59.347018]}}
+,
+{"type":"Feature",
+"id":72,"properties":{"City":"Hoonah","Location":"Hoonah City Clerk’s Office","Address":"300 Front Street","Hours":"Monday – Friday  October 20 – November 2  8:00am – 5:00pm","[Last Updated]":"September 23, 2026 at 11:36 am","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-135.44511,58.109163]}}
+,
+{"type":"Feature",
+"id":73,"properties":{"City":"Hooper Bay","Location":"Hooper Bay Traditional Council Building","Address":"2006 Airport Road","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:08 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD4.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-166.10054,61.53123]}}
+,
+{"type":"Feature",
+"id":74,"properties":{"City":"Houston","Location":"City of Houston Office","Address":"13878 W Armstrong Road","Hours":"Monday – Friday  October 19 – November 2  8:30am – 5:00pm","[Last Updated]":"September 17, 2026 at 12:08 am","Elections":"26GENR","[Sample Ballot(s)]":"HD30-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD30-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-149.81806,61.630278]}}
+,
+{"type":"Feature",
+"id":75,"properties":{"City":"Hughes","Location":"Hughes Village Council","Address":"Hughes Council Office","Hours":"Wednesdays  October 21 and 28  810:00am – 12:00pm","[Last Updated]":"September 17, 2026 at 11:49 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-154.25556,66.048889]}}
+,
+{"type":"Feature",
+"id":76,"properties":{"City":"Huslia","Location":"City of Huslia","Address":"Huslia City Office","Hours":"Monday – Friday  October 20 – November 2  1:00pm – 5:00pm","[Last Updated]":"September 16, 2026 at 11:19 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-156.39972,65.698611]}}
+,
+{"type":"Feature",
+"id":77,"properties":{"City":"Hydaburg","Location":"Hydaburg City Clerk’s Office","Address":"8th Street Extension","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:30pm","[Last Updated]":"September 23, 2026 at 11:39 am","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-132.82667,55.208056]}}
+,
+{"type":"Feature",
+"id":78,"properties":{"City":"Hyder","Location":"Hyder Public Library","Address":"50 Main St","Hours":"Tuesday, Election Day  November 3  7:00am – 8:00pm","[Last Updated]":"September 15, 2026 at 10:28 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD1-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD1-JD1.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-130.0609,55.95853]}}
+,
+{"type":"Feature",
+"id":79,"properties":{"City":"Igiugig","Location":"Igiugig Village Council Building","Address":"1 Airport Way","Hours":"Monday – Friday  October 19 – November 3  9:00am – 5:00pm","[Last Updated]":"September 22, 2026 at 2:08 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-155.89472,59.327778]}}
+,
+{"type":"Feature",
+"id":80,"properties":{"City":"Juneau","Location":"State Office Building  Early Vote Location","Address":"333 Willoughby Avenue, 8th Floor","Hours":"Monday – Friday  October 19 – November 2  8:00am – 5:00pm","[Last Updated]":"September 16, 2026 at 1:19 pm","Elections":"26GENR","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/sample-ballots/ballot/zk4o0/","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-134.41195,58.300487]}}
+,
+{"type":"Feature",
+"id":81,"properties":{"City":"Juneau","Location":"Region I Elections Office  Early Vote Location","Address":"Mendenhall Mall Annex","Hours":"Monday – Friday  October 19 – November 3  8:00am – 5:00pm    Saturdays  October 24 and 31  10:00am – 4:00pm    Sundays  October 25 and November 1  12:00pm – 4:00pm    Tuesday, Election Day  November 3  7:00am-8:00pm","[Last Updated]":"September 16, 2026 at 1:18 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/sample-ballots/ballot/zk4o0/","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-134.41972,58.301944]}}
+,
+{"type":"Feature",
+"id":82,"properties":{"City":"Kaktovik","Location":"Kaktovik City Clerk’s Office","Address":"2051 Barter Ave","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00=pm – 5:00pm","[Last Updated]":"September 17, 2026 at 11:15 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD40-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD40-JD2.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-143.61509,70.128275]}}
+,
+{"type":"Feature",
+"id":83,"properties":{"City":"Kaltag","Location":"City of Kaltag","Address":"Kaltag City Office","Hours":"Monday – Friday  October 19 – November 2  9:00am – 5:00pm","[Last Updated]":"September 16, 2026 at 11:20 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-158.72194,64.327222]}}
+,
+{"type":"Feature",
+"id":84,"properties":{"City":"Kasaan","Location":"Kasaan City Office","Address":"Eastern Prince Of Wales Island","Hours":"Tuesdays and Thursdays  October 20, 22, 27, 29  10am – 12:00pm","[Last Updated]":"September 16, 2026 at 11:50 am","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-132.40083,55.538889]}}
+,
+{"type":"Feature",
+"id":85,"properties":{"City":"Kasigluk","Location":"Akiuk Memorial School Office","Address":"104 Village Road","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 17, 2026 at 3:17 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.51806,60.895556]}}
+,
+{"type":"Feature",
+"id":86,"properties":{"City":"Kenai","Location":"Region V Elections Office  Early Vote Location","Address":"11312 Kenai Spur Rd. Ste. 24","Hours":"Monday – Friday  October 19 – November 2  8:00am – 5:00pm    Saturday  October 24 and 31  10:00am – 4:00pm    Sunday  October 25 and November 1  12:00pm – 4:00pm","[Last Updated]":"September 18, 2026 at 1:50 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD5-JD3f; HD6-JD3; HD7-JD3; HD8-JD3; HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD5-JD3.pdff; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD6-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD7-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD8-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-151.25548,60.554664]}}
+,
+{"type":"Feature",
+"id":87,"properties":{"City":"Ketchikan","Location":"Gateway Recreation Center","Address":"601 Schoenbar Rd","Hours":"Monday – Friday  October 20 – November 2  8:00am – 5:00pm","[Last Updated]":"September 15, 2026 at 10:35 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD1-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD1-JD1.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-131.63841,55.346995]}}
+,
+{"type":"Feature",
+"id":88,"properties":{"City":"Kiana","Location":"Kiana City Clerk’s Office","Address":"Casonoff Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 11:14 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD40-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD40-JD2.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-160.42278,66.975]}}
+,
+{"type":"Feature",
+"id":89,"properties":{"City":"King Cove","Location":"King Cove City Office","Address":"37 Main Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:10 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.31028,55.061667]}}
+,
+{"type":"Feature",
+"id":90,"properties":{"City":"King Salmon","Location":"SAVEC Building","Address":"123 Thelma Road","Hours":"Monday – Friday  October 19 – November 2  8:30am – 4:00pm","[Last Updated]":"September 22, 2026 at 2:10 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-156.66139,58.688333]}}
+,
+{"type":"Feature",
+"id":91,"properties":{"City":"Kivalina","Location":"City of Kivalina’s Conference Room","Address":"79 Bering Street","Hours":"Monday – Friday  October 19 – November 2  1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 11:32 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD40-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD40-JD2.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-164.53324,67.72535]}}
+,
+{"type":"Feature",
+"id":92,"properties":{"City":"Klawock","Location":"Klawock City Clerk’s Office","Address":"550 Summit Street","Hours":"Monday – Friday  October 19 – November 2  8:00am – 5:00pm","[Last Updated]":"September 23, 2026 at 11:39 am","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-133.09597,55.554886]}}
+,
+{"type":"Feature",
+"id":94,"properties":{"City":"Kobuk","Location":"City of Kobuk Assembly Room","Address":"20 Church Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 11:20 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD40-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD40-JD2.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-156.88111,66.907222]}}
+,
+{"type":"Feature",
+"id":95,"properties":{"City":"Kodiak","Location":"Kodiak Island Borough Assembly Chambers","Address":"710 Mill Bay Road","Hours":"Monday – Friday  October 19 – November 2  10:00am – 4:00pm","[Last Updated]":"September 16, 2026 at 1:06 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD5-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD5-JD3.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-152.39804,57.793322]}}
+,
+{"type":"Feature",
+"id":96,"properties":{"City":"Kokhanok","Location":"Kokhanok Village Council Building","Address":"2 Bayshore Drive","Hours":"Monday – Friday  October 19 – November 2  8:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:10 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-154.75583,59.441944]}}
+,
+{"type":"Feature",
+"id":97,"properties":{"City":"Koliganek","Location":"New Koliganek Village Council Building","Address":"5057 Main Road","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:11 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-158.45551,59.040139]}}
+,
+{"type":"Feature",
+"id":98,"properties":{"City":"Kongiganek","Location":"Kongiganak Community Center","Address":"150 West Multipurpose Room","Hours":"Monday – Friday  October 19 – November 2  10:00am – 5:00pm","[Last Updated]":"September 22, 2026 at 2:11 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":99,"properties":{"City":"Kotlik","Location":"Kotlik City Hall","Address":"Curry Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:11 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-163.55333,63.034167]}}
+,
+{"type":"Feature",
+"id":100,"properties":{"City":"Kotzebue","Location":"Northwest Arctic Borough Clerk’s Office","Address":"163 Lagoon Street","Hours":"Monday – Friday  October 19 – November 2  8:00am – 12:00pm; 1:00pm – 4:30pm","[Last Updated]":"September 17, 2026 at 11:12 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD40-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD40-JD2.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-162.60225,66.896258]}}
+,
+{"type":"Feature",
+"id":102,"properties":{"City":"Koyukuk","Location":"City of Koyukuk","Address":"Koyukuk City Office","Hours":"Wednesdays  October 21 and October 28  1:00pm – 3:00pm","[Last Updated]":"September 16, 2026 at 11:22 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-157.70083,64.880278]}}
+,
+{"type":"Feature",
+"id":103,"properties":{"City":"Kwethluk","Location":"Kwethluk City Office","Address":"254 4th Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 5:00pm","[Last Updated]":"September 17, 2026 at 3:12 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-161.42488,60.8098]}}
+,
+{"type":"Feature",
+"id":104,"properties":{"City":"Larsen Bay","Location":"Larsen Bay City Clerk’s Office","Address":null,"Hours":"Monday – Friday  October 19 – November 2  1:00PM-4:00PM","[Last Updated]":"September 16, 2026 at 1:08 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD5-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD5-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-153.97861,57.54]}}
+,
+{"type":"Feature",
+"id":105,"properties":{"City":"Levelock","Location":"Levelock Village Council Building","Address":"400 Main Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:14 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-156.85833,59.11411]}}
+,
+{"type":"Feature",
+"id":106,"properties":{"City":"Manokotak","Location":"Manokotak Village Council Building","Address":"263 Birch Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 5:00pm","[Last Updated]":"September 22, 2026 at 2:14 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-159.05833,58.981389]}}
+,
+{"type":"Feature",
+"id":107,"properties":{"City":"Marshall","Location":"City of Marshall","Address":"1104 Yukon Ave","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 22, 2026 at 2:15 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD39-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD4.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-162.0332,61.86627]}}
+,
+{"type":"Feature",
+"id":108,"properties":{"City":"McGrath","Location":"City of McGrath City Office","Address":"F Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 3:00pm","[Last Updated]":"September 16, 2026 at 11:24 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-155.59583,62.956389]}}
+,
+{"type":"Feature",
+"id":109,"properties":{"City":"Mekoryuk","Location":"Mekoryuk Village Council Building","Address":"100 Chase Road","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 4:27 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-166.18804,60.38825]}}
+,
+{"type":"Feature",
+"id":110,"properties":{"City":"Mertarvik","Location":"Mertarvik Tribal Office","Address":"no address","Hours":"Monday – Friday  October 19 – November 2  8:00am – 12:00pm; 1:00pm – 4:30pm","[Last Updated]":"September 17, 2026 at 3:11 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-164.49911,60.810993]}}
+,
+{"type":"Feature",
+"id":111,"properties":{"City":"Metlakatla","Location":"Metlakatla Council Chambers","Address":"900 Milton St","Hours":"Monday, Wednesday, Friday  Oct. 19, 21, 23, 26, 28, 30 & Nov. 2  10:00am – 2:00pm","[Last Updated]":"September 15, 2026 at 11:10 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD1-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD1-JD1.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-131.57324,55.126575]}}
+,
+{"type":"Feature",
+"id":112,"properties":{"City":"Mountain Village","Location":"City of Mountain Village","Address":"1 St. Mary’s Hwy","Hours":"Monday – Friday  October 19 – November 2  8:00am – 4:00pm","[Last Updated]":"September 22, 2026 at 2:15 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-163.72944,62.085556]}}
+,
+{"type":"Feature",
+"id":113,"properties":{"City":"Naknek","Location":"Bristol Bay Borough Building","Address":"1 Main Street","Hours":"Monday – Friday  October 19 – November 2  8:00am – 4:00pm","[Last Updated]":"September 22, 2026 at 2:15 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-157.01389,58.728333]}}
+,
+{"type":"Feature",
+"id":114,"properties":{"City":"Nanwalek","Location":"Nanwalek IRA Office/Community Center","Address":"100 Nikita Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 5:00pm    Tuesday, Election Day  November 3rd  9:000am – 8:00pm","[Last Updated]":"September 25, 2026 at 2:03 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-151.92071,59.358535]}}
+,
+{"type":"Feature",
+"id":115,"properties":{"City":"Napakiak","Location":"Napakiak City Office","Address":"26 Kusko Road","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 3:59 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.95194,60.696667]}}
+,
+{"type":"Feature",
+"id":116,"properties":{"City":"Napaskiak","Location":"City of Napaskiak Bingo Hall","Address":"6109 Main Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 3:00pm","[Last Updated]":"September 17, 2026 at 3:44 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-161.76397,60.797933]}}
+,
+{"type":"Feature",
+"id":117,"properties":{"City":"Naukati","Location":"Naukati General Store","Address":"Lot 2 Block 3","Hours":"Tuesday, Election Day  November 3  7:00am – 8:00pm","[Last Updated]":"September 16, 2026 at 11:17 am","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":118,"properties":{"City":"Nelson Lagoon","Location":"Nelson Lagoon Community Center","Address":"no address","Hours":"Monday – Friday  October 19 – November 2  1:00pm – 3:00pm","[Last Updated]":"September 22, 2026 at 2:16 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.20697,56.000615]}}
+,
+{"type":"Feature",
+"id":119,"properties":{"City":"Nenana","Location":"City of Nenana City Office","Address":"723 A St","Hours":"Monday – Thursday  October 19 – November 2  10:00am – 2:00pm","[Last Updated]":"September 16, 2026 at 11:25 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.09605,64.562686]}}
+,
+{"type":"Feature",
+"id":120,"properties":{"City":"Newhalen","Location":"Newhalen City Office","Address":"101 Fire Lane Drive","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 22, 2026 at 2:18 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-154.89722,59.72]}}
+,
+{"type":"Feature",
+"id":121,"properties":{"City":"Nikolai","Location":"Nikolai Edzeno Village Council","Address":null,"Hours":"Monday – Friday  October 19 – November 2  9:00am – 1:00pm","[Last Updated]":"September 16, 2026 at 11:48 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-154.375,63.013333]}}
+,
+{"type":"Feature",
+"id":122,"properties":{"City":"Nikolski","Location":"Nikolski Community Center","Address":"105 Lakeview Road","Hours":"Monday – Friday  October 19 – November 3  9:00am – 5:00pm","[Last Updated]":"September 22, 2026 at 2:18 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-168.86778,52.938056]}}
+,
+{"type":"Feature",
+"id":124,"properties":{"City":"Nondalton","Location":"Nondalton City Office","Address":"888 Boundary Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 2:19 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-154.84583,59.973611]}}
+,
+{"type":"Feature",
+"id":125,"properties":{"City":"Noorvik","Location":"City of Noorvik","Address":"20 Fireweed Drive","Hours":"Monday – Friday  October 19 – November 2  12:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 11:22 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD40-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD40-JD2.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-161.04208,66.83565]}}
+,
+{"type":"Feature",
+"id":126,"properties":{"City":"Northway","Location":"Northway Village Council","Address":"Council Office","Hours":"Monday – Friday  October 19 – November 2  9:00am – 3:00pm","[Last Updated]":"September 16, 2026 at 11:50 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-141.93722,62.961667]}}
+,
+{"type":"Feature",
+"id":127,"properties":{"City":"Nuiqsut","Location":"Nuiqsut City Hall","Address":"2230 2nd Aved","Hours":"Monday – Friday  October 19 – November 2  8:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 11:38 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD40-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD40-JD2.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-150.97639,70.2175]}}
+,
+{"type":"Feature",
+"id":128,"properties":{"City":"Nunam Iqua","Location":"Native Village of Nunam Iqua","Address":"27 Nunam Iqua Road","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 3:00pm","[Last Updated]":"September 22, 2026 at 2:19 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-164.8447,62.531856]}}
+,
+{"type":"Feature",
+"id":129,"properties":{"City":"Nunapitchuk","Location":"Nunapitchuk IRA Duplex","Address":"189 Johnson Loop","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 17, 2026 at 3:00 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.45944,60.896944]}}
+,
+{"type":"Feature",
+"id":130,"properties":{"City":"Oscarville","Location":"Oscarville Tribal Council Building","Address":"101 River Way","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 2:58 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-161.75228,60.793106]}}
+,
+{"type":"Feature",
+"id":131,"properties":{"City":"Ouzinkie","Location":"Ouzinkie Clerk’s Office","Address":"3rd and C Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 12:00pm and 1:00pm – 3:00pm","[Last Updated]":"September 16, 2026 at 1:11 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD5-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD5-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-152.50222,57.923611]}}
+,
+{"type":"Feature",
+"id":132,"properties":{"City":"Palmer","Location":"Mat-Su Borough Building  Early Vote Location","Address":"350 E Dahlia Avenue","Hours":"Monday – Friday  October 19 – November 2  8:00am – 5:00pm","[Last Updated]":"September 17, 2026 at 12:26 am","Elections":"26GENR","[Sample Ballot(s)]":"HD25-JD3f; HD26-JD3; HD27-JD3f; HD28-JD3; HD29-JD3; HD30-JD3; HD30-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD25-JD3.pdff; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD26-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD27-JD3.pdff; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD28-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD29-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD30-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD30-JD4.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.10805,61.600022]}}
+,
+{"type":"Feature",
+"id":133,"properties":{"City":"Pedro Bay","Location":"Pedro Bay Village Council Building","Address":"2510 Mountain Circle","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 22, 2026 at 2:19 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-154.10611,59.787222]}}
+,
+{"type":"Feature",
+"id":134,"properties":{"City":"Pelican","Location":"Pelican City Clerk’s Office","Address":"Salmon Way","Hours":"Monday – Friday  October 20 – November 2  8:00am – 3:30pm","[Last Updated]":"September 23, 2026 at 11:40 am","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-136.2275,57.960833]}}
+,
+{"type":"Feature",
+"id":135,"properties":{"City":"Perryville","Location":"Native Village of Perryville Building","Address":"101 1st Street","Hours":"Monday – Friday  October 19 – November 3  8:30pm – 4:00pm","[Last Updated]":"September 22, 2026 at 2:55 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-159.15133,55.91127]}}
+,
+{"type":"Feature",
+"id":136,"properties":{"City":"Petersburg","Location":"Municipal Training Room","Address":"12 South Nordic Drive","Hours":"Monday – Friday  October 20 – November 2  11:00am – 4:00pm","[Last Updated]":"September 23, 2026 at 11:40 am","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-132.95758,56.811038]}}
+,
+{"type":"Feature",
+"id":137,"properties":{"City":"Pilot Point","Location":"Pilot Point City Hall","Address":"2500 Main Street","Hours":"Monday – Friday  October 19 – November 3  12:00pm – 4:00pm","[Last Updated]":"September 22, 2026 at 3:17 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-157.57694,57.55803]}}
+,
+{"type":"Feature",
+"id":138,"properties":{"City":"Pilot Station","Location":"Pilot Station Traditional Council Building","Address":"119 Main Airport Road","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:17 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.875,61.938889]}}
+,
+{"type":"Feature",
+"id":139,"properties":{"City":"Pitka’s Point","Location":"Pikta’s Point Tribal Council Building","Address":"36 Riverfront Road","Hours":"Monday – Friday  October 19 – November 3  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:17 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD39-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD4.pdf","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":140,"properties":{"City":"Platinum","Location":"Platinum Tribal Council","Address":"1 Small Creek","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:18 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.81817,59.012851]}}
+,
+{"type":"Feature",
+"id":141,"properties":{"City":"Point Hope","Location":"City of Point Hope","Address":"750 Tasiq Street","Hours":"Monday – Friday  October 19 – November 2  8:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 11:35 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD40-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD40-JD2.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-166.73678,68.350253]}}
+,
+{"type":"Feature",
+"id":142,"properties":{"City":"Port Alexander","Location":"Bear Hall Community Center","Address":null,"Hours":"Mondays  October 19, 29 & Nov 2  9:00am – 2:00pm","[Last Updated]":"September 16, 2026 at 12:43 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-134.64444,56.249722]}}
+,
+{"type":"Feature",
+"id":143,"properties":{"City":"Port Alsworth","Location":"Ledford Residence","Address":"1 Flight Line Road","Hours":"Monday – Friday  October 19 – November 3  8:30am – 12:00pm; 1:00pm – 3:30pm","[Last Updated]":"September 22, 2026 at 3:18 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-154.31278,60.2025]}}
+,
+{"type":"Feature",
+"id":145,"properties":{"City":"Port Heiden","Location":"Port Heiden Village Office","Address":"2200 James Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:19 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-158.62497,56.932561]}}
+,
+{"type":"Feature",
+"id":146,"properties":{"City":"Port Lions","Location":"Port Lions Clerk’s Office","Address":"207 Spruce Drive","Hours":"Monday – Friday  October 19 – November 2  10:00am – 2:00 pm","[Last Updated]":"September 16, 2026 at 1:12 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD5-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD5-JD3.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-152.88458,57.866399]}}
+,
+{"type":"Feature",
+"id":147,"properties":{"City":"Prudhoe Bay","Location":"Service Area 10 Camp Building 8","Address":"1234 Drillsite Road","Hours":"Saturday  October 31  11:00am 5:00pm    Sunday  November 1  8:00am – 5:00pm    Mon-Tues  November 2 and 3  8:00am-8:00pm","[Last Updated]":"September 18, 2026 at 1:47 pm","Elections":"26GENR","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/sample-ballots/ballot/zk4o0/","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-148.33722,70.255278]}}
+,
+{"type":"Feature",
+"id":148,"properties":{"City":"Quinhagak","Location":"Quinhagak City Office","Address":"75 Qanrituuq Drive","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 17, 2026 at 3:02 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.91583,59.748889]}}
+,
+{"type":"Feature",
+"id":149,"properties":{"City":"Rampart","Location":"Rampart Village Council","Address":"101 First Street","Hours":"Monday  October 26  11:00am – 1:00pm","[Last Updated]":"September 16, 2026 at 11:52 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-150.15278,65.512055]}}
+,
+{"type":"Feature",
+"id":150,"properties":{"City":"Ruby","Location":"City of Ruby","Address":"Ruby City Office","Hours":"Thursday  October 22  11:00am – 1:00pm    Friday  October 23  11:00am – 1:00pm","[Last Updated]":"September 16, 2026 at 11:59 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-155.48694,64.739444]}}
+,
+{"type":"Feature",
+"id":151,"properties":{"City":"Russian Mission","Location":"Russian Mission City Office Building","Address":"5111 Main Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:19 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.32028,61.785]}}
+,
+{"type":"Feature",
+"id":152,"properties":{"City":"Sand Point","Location":"Sand Point City Hall","Address":"249 Main Street","Hours":"Monday – Friday  October 19 – November 2  8:30 am – 4:30 pm","[Last Updated]":"September 22, 2026 at 3:20 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-160.50065,55.335722]}}
+,
+{"type":"Feature",
+"id":153,"properties":{"City":"Savoonga","Location":"Savoonga City Office","Address":"11 Airport Road","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:20 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD2.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-170.48608,63.69104]}}
+,
+{"type":"Feature",
+"id":154,"properties":{"City":"Scammon Bay","Location":"Scammon Bay Tribal Council Building","Address":"103 Askunuk Road","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:30 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-165.58167,61.842778]}}
+,
+{"type":"Feature",
+"id":155,"properties":{"City":"Selawik","Location":"Selawik City Office","Address":"99 North Tundra Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 11:31 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD40-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD40-JD2.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-160.01401,66.5923]}}
+,
+{"type":"Feature",
+"id":156,"properties":{"City":"Seldovia","Location":"Seldovia City Clerk’s Office","Address":"245 Dock Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 3:00pm","[Last Updated]":"September 16, 2026 at 1:16 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD6-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD6-JD3.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.71769,59.440856]}}
+,
+{"type":"Feature",
+"id":157,"properties":{"City":"Seward","Location":"Seward City Clerk’s Office","Address":"410 Adams Street","Hours":"Monday – Friday  October 20 – November 2  8:30am – 4:30pm","[Last Updated]":"September 16, 2026 at 1:24 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD5-JD3; HD6-JD3; HD7-JD3; HD8-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD5-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD6-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD7-JD3.pdf; https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD8-JD3.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.43949,60.102898]}}
+,
+{"type":"Feature",
+"id":158,"properties":{"City":"Shageluk","Location":"City of Shageluk","Address":"City Office","Hours":"Friday  October 23  2:00pm – 4:00pm","[Last Updated]":"September 16, 2026 at 11:56 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-159.56194,62.682222]}}
+,
+{"type":"Feature",
+"id":159,"properties":{"City":"Shaktoolik","Location":"Shaktoolik City Hall","Address":"10 Main Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 12:00pm; 1:00pm – 4:00pm","[Last Updated]":"September 22, 2026 at 3:31 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD2.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.15389,64.333889]}}
+,
+{"type":"Feature",
+"id":160,"properties":{"City":"Shishmaref","Location":"Shishmaref City Office","Address":"1 Seaview Lane","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:31 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD2.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-166.07194,66.256667]}}
+,
+{"type":"Feature",
+"id":161,"properties":{"City":"Shungnak","Location":"Shungnak IRA Office","Address":"64 Andy Lane","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 11:26 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD40-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD40-JD2.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-157.14231,66.88701]}}
+,
+{"type":"Feature",
+"id":162,"properties":{"City":"Sitka","Location":"Harrigan Centennial Hall","Address":"330 Harbor Dr","Hours":"Monday – Friday  October 20 – November 2  10:00am – 4:00pm","[Last Updated]":"September 23, 2026 at 11:41 am","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-135.33266,57.050427]}}
+,
+{"type":"Feature",
+"id":163,"properties":{"City":"Skagway","Location":"Skagway Municipal Clerk’s Office","Address":"700 Spring Street","Hours":"Monday – Friday  October 20 – November 2  9:00am – 5:00pm","[Last Updated]":"September 16, 2026 at 12:59 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD3-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD3-JD1.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-135.31184,59.455832]}}
+,
+{"type":"Feature",
+"id":164,"properties":{"City":"Sleetmute","Location":"Sleetmute Community Building","Address":"Main Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:32 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-157.16972,61.7025]}}
+,
+{"type":"Feature",
+"id":165,"properties":{"City":"South Naknek","Location":"South Naknek Recreational Hall","Address":"13 Airport Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:32 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-157.00324,58.71567]}}
+,
+{"type":"Feature",
+"id":166,"properties":{"City":"South Thorne Bay","Location":"Davidson Landing Harbor","Address":"Tract A – Thorne Bay Road","Hours":"Tuesday, Election Day  November 3  7:00am – 6:00pm","[Last Updated]":"September 16, 2026 at 12:46 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":167,"properties":{"City":"St. George","Location":"St. George City Office","Address":"100 Waterfront Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:33 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-169.54884,56.60228]}}
+,
+{"type":"Feature",
+"id":168,"properties":{"City":"St. Mary’s","Location":"St. Mary’s City Office","Address":"174 Paukan Ave","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:34 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD4.pdf","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":169,"properties":{"City":"St. Michael","Location":"St. Michael City Office","Address":"100 Baker Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 5:00pm","[Last Updated]":"September 22, 2026 at 3:35 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD39-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD2.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-162.04648,63.47597]}}
+,
+{"type":"Feature",
+"id":170,"properties":{"City":"St. Paul","Location":"City of St. Paul Island","Address":"950 Gorbatch Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 22, 2026 at 3:35 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-170.28297,57.1208]}}
+,
+{"type":"Feature",
+"id":171,"properties":{"City":"Stebbins","Location":"City of Stebbins","Address":"1 Main Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:35 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD2.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.28806,63.522222]}}
+,
+{"type":"Feature",
+"id":172,"properties":{"City":"Talkeetna","Location":"Talkeetna Public Library","Address":"24645 S Talkeetna Spur Road","Hours":"Monday – Saturday  October 19 – November 2  11:00am – 6:00pm","[Last Updated]":"September 17, 2026 at 12:11 am","Elections":"26GENR","[Sample Ballot(s)]":"HD30-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD30-JD3.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-150.07883,62.296545]}}
+,
+{"type":"Feature",
+"id":173,"properties":{"City":"Tanana","Location":"City of Tanana","Address":"City Office","Hours":"Monday – Friday  October 19 – November 2  8:00am – 5:00pm","[Last Updated]":"September 17, 2026 at 11:50 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-152.07889,65.171944]}}
+,
+{"type":"Feature",
+"id":174,"properties":{"City":"Teller","Location":"Teller City Hall","Address":"100 Airport Ave","Hours":"Monday – Friday  October 19 – November 2  9:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:37 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD2.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-166.31659,65.24079]}}
+,
+{"type":"Feature",
+"id":175,"properties":{"City":"Tenakee Springs","Location":"Tenakee City Clerk’s Office","Address":"Tenakee Avenue","Hours":"Monday – Wednesday  October 19-21, 26-28 & November 2  10:00am – 1:00pm","[Last Updated]":"September 16, 2026 at 12:48 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-135.21889,57.780833]}}
+,
+{"type":"Feature",
+"id":176,"properties":{"City":"Thorne Bay","Location":"Thorne Bay City Clerk’s Office","Address":"120 Freeman Drive","Hours":"Monday – Thursday  October 19-22, 26-29 & November 2  9:00am – 4:00pm","[Last Updated]":"September 23, 2026 at 11:41 am","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-132.52729,55.686251]}}
+,
+{"type":"Feature",
+"id":178,"properties":{"City":"Tok","Location":"Tok Library","Address":"Mile 1314 Alaska Highway","Hours":"Thursdays  October 22 and 29  12:00pm – 8:00pm    Wednesday, Friday, Saturday & Sunday  October 19 – November 2  12:00pm – 4:00pm","[Last Updated]":"September 16, 2026 at 11:57 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-142.98388,63.33574]}}
+,
+{"type":"Feature",
+"id":179,"properties":{"City":"Toksook Bay","Location":"Nunakauyarmiut Council Building","Address":"122 Sunny Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 4:25 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-165.11071,60.52998]}}
+,
+{"type":"Feature",
+"id":180,"properties":{"City":"Trapper Creek","Location":"Trapper Creek Public Library","Address":"8901 E Devonshire Drive","Hours":"Monday and Wednesday  October 19, 21, 26, 28  11:00am – 6:00pm    Thursday  October 22 and 29  10:00am – 3:00pm    Saturday  October 24 and October 31  12:00pm – 6:00pm","[Last Updated]":"September 17, 2026 at 12:14 am","Elections":"26GENR","[Sample Ballot(s)]":"HD30-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD30-JD3.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-150.23615,62.307278]}}
+,
+{"type":"Feature",
+"id":181,"properties":{"City":"Tuluksak","Location":"Tuluksak Native Community Center","Address":"23 Tuluksak Heights","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 3:54 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-160.96167,61.1025]}}
+,
+{"type":"Feature",
+"id":182,"properties":{"City":"Tuntutuliak","Location":"Tuntutuliak Community Center","Address":"99 Church Ln","Hours":"Monday – Friday  October 19 – November 2  9:00am – 12:00pm; 1:00pm – 4:00pm","[Last Updated]":"September 17, 2026 at 3:46 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.66306,60.343056]}}
+,
+{"type":"Feature",
+"id":183,"properties":{"City":"Tununak","Location":"Tununak Tribal Council Building","Address":"29 Main Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 3:58 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD38-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD38-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-165.25583,60.585556]}}
+,
+{"type":"Feature",
+"id":184,"properties":{"City":"Twin Hills","Location":"Twin Hills Village Council","Address":"104 Aurora St.","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:37 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-160.28112,59.07653]}}
+,
+{"type":"Feature",
+"id":185,"properties":{"City":"Tyonek","Location":"Tyonek Communty Hall","Address":"100 A Street","Hours":"Monday – Friday  October 19 – November 2  10:00am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 22, 2026 at 3:38 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-151.13712,61.06828]}}
+,
+{"type":"Feature",
+"id":186,"properties":{"City":"Unalakleet","Location":"Unalakleet City Office","Address":"28 Ocean Road","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00pm","[Last Updated]":"September 22, 2026 at 3:38 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD39-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD2.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-160.79412,63.87484]}}
+,
+{"type":"Feature",
+"id":187,"properties":{"City":"Unalaska","Location":"Unalaska City Clerk’s Office","Address":"43 Raven Way","Hours":"Monday – Friday  October 19 – November 2  8:00am – 5:00pm","[Last Updated]":"September 22, 2026 at 3:38 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-166.53757,53.872536]}}
+,
+{"type":"Feature",
+"id":188,"properties":{"City":"Upper Kalskag","Location":"Multi Purpose Building","Address":"LOT 1 BLK 1","Hours":"Monday – Friday  October 19 – November 2  9:00am – 4:00 pm","[Last Updated]":"September 22, 2026 at 3:38 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-160.30528,61.537222]}}
+,
+{"type":"Feature",
+"id":189,"properties":{"City":"Utqiagvik","Location":"North Slope Borough Clerk’s Office","Address":"1274 Agvik Street","Hours":"Monday – Friday  October 19 – November 2  8:30am – 12:00pm; 1:00pm – 5:00pm","[Last Updated]":"September 17, 2026 at 11:10 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD40-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD40-JD2.pdf","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":190,"properties":{"City":"Valdez","Location":"City of Valdez City Office","Address":"212 Chenega Ave","Hours":"Monday – Friday  October 20- November 2  8:30am – 5:00pm","[Last Updated]":"September 18, 2026 at 1:45 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD29-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD29-JD3.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-146.35411,61.129912]}}
+,
+{"type":"Feature",
+"id":191,"properties":{"City":"Venetie","Location":"Venetie Village Council","Address":"Council Office","Hours":"Tuesday  October 20  2:00pm – 4:00pm    Wednesday  October 21  2:00pm – 4:00pm","[Last Updated]":"September 18, 2026 at 1:54 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD36-JD4","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD36-JD4.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-146.41861,67.013889]}}
+,
+{"type":"Feature",
+"id":192,"properties":{"City":"Wasilla","Location":"Menard Sports Center  Early Vote Location","Address":"1001 S Clapp St","Hours":"Monday – Friday  October 19 – November 2  8:00am – 5:00pm    Saturday  October 24 and 31  10:00am – 4:00pm    Sunday  October 25 and November 1  12:00pm – 4:00pm    Tuesday, Election Day  November 3  7:00am – 8:00pm","[Last Updated]":"September 18, 2026 at 1:46 pm","Elections":"26GENR, 26PRIM","[Sample Ballot(s)]":null,"[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/sample-ballots/ballot/zk4o0/","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.52158,61.572349]}}
+,
+{"type":"Feature",
+"id":193,"properties":{"City":"Whale Pass","Location":"Whale Pass City Clerk’s Office","Address":"The Library","Hours":"Monday, Wednesday, and Thursday  Oct. 19, 21, 22, 26, 28, 29 & Nov. 2  9:00am – 1:00pm    Election Day  November 3  8:00am -8:00pm","[Last Updated]":"September 15, 2026 at 11:17 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD1-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD1-JD1.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-133.12083,56.115278]}}
+,
+{"type":"Feature",
+"id":194,"properties":{"City":"White Mountain","Location":"White Mountain IRA Office","Address":"no address","Hours":"Monday – Friday  October 19 – November 2  8:30am – 3:30pm","[Last Updated]":"September 22, 2026 at 3:38 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD39-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD2.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-163.40556,64.681389]}}
+,
+{"type":"Feature",
+"id":195,"properties":{"City":"Whittier","Location":"City of Whittier","Address":"360 Whittier St","Hours":"Monday – Friday  October 20 – November 2  8:00am – 5:00pm","[Last Updated]":"September 16, 2026 at 2:47 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD9-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD9-JD3.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-148.68562,60.774497]}}
+,
+{"type":"Feature",
+"id":196,"properties":{"City":"Wrangell","Location":"Wrangell Borough Clerk’s Office","Address":"205 Brueger","Hours":"Monday – Friday  October 19 – November 2  8:00am – 4:00pm","[Last Updated]":"September 15, 2026 at 11:15 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD1-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD1-JD1.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-132.38449,56.470896]}}
+,
+{"type":"Feature",
+"id":197,"properties":{"City":"Yakutat","Location":"Yakutat Borough Clerk’s Office","Address":"309 Max Italio Drive","Hours":"Monday – Friday  October 19 – November 2  9:00am – Noon and 1:00pm – 5:00pm","[Last Updated]":"September 16, 2026 at 12:52 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD2-JD1","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD2-JD1.pdf","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-139.73671,59.549763]}}
+,
+{"type":"Feature",
+"id":101,"properties":{"City":"Koyuk","Location":"Koyuk City Clerk’s Office","Address":"3rd & Birch Street","Hours":"Monday – Friday  October 19 – November 2  8:00am – 12:00pm; 1:00pm – 4:00pm","[Last Updated]":"September 22, 2026 at 2:14 pm","Elections":"26GENR, 26PRIM, 26REAA","[Sample Ballot(s)]":"HD39-JD2","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD39-JD2.pdf","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-161.16532,64.93075]}}
+,
+{"type":"Feature",
+"id":177,"properties":{"City":"Togiak","Location":"Togiak City Office","Address":"2nd & G Street","Hours":"Monday – Friday  October 19 – November 2  9:00am – 5:00pm","[Last Updated]":"September 22, 2026 at 3:37 pm","Elections":"26GENR","[Sample Ballot(s)]":"HD37-JD3","[Sample Ballot URL(s)]":"https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD37-JD3.pdf","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-160.37639,59.061944]}}
+
+]}

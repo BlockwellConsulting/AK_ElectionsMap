@@ -1,0 +1,1611 @@
+{"type":"FeatureCollection","name":"Polling Places Layer","map_layer_type":"Point","bounds":[[-176.612863,51.881158],[-128.619117,71.723324]],"center":[-152.61599,61.802241],"zoom":4,"median_zoom":14,"count":402,"property_names":["[House District]","[Precinct Number]","[Precinct Name]","[Polling Place Name]","Address","City","[Last Updated]","state","[Geocoding Precision]"],"features":
+[
+{"type":"Feature",
+"id":2,"properties":{"[House District]":"01","[Precinct Number]":"01-600","[Precinct Name]":"Ketchikan No. 1","[Polling Place Name]":"Gateway Recreation Center","Address":null,"City":"Ketchikan","[Last Updated]":"February 8, 2023 at 4:56 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-131.64611,55.342222]}}
+,
+{"type":"Feature",
+"id":3,"properties":{"[House District]":"01","[Precinct Number]":"01-610","[Precinct Name]":"Ketchikan No. 2","[Polling Place Name]":"Plaza Mall","Address":"2417 Tongass Avenue","City":"Ketchikan","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-131.67421,55.34944]}}
+,
+{"type":"Feature",
+"id":4,"properties":{"[House District]":"01","[Precinct Number]":"01-620","[Precinct Name]":"Ketchikan No. 3","[Polling Place Name]":"Ketchikan Ferry Terminal","Address":"3501 Tongass Avenue","City":"Ketchikan","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-131.69262,55.355322]}}
+,
+{"type":"Feature",
+"id":5,"properties":{"[House District]":"01","[Precinct Number]":"01-640","[Precinct Name]":"North Tongass No. 1","[Polling Place Name]":"North Tongass Fire Station No 6","Address":"7550 N Tongass Highway","City":"Ketchikan","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-131.79059,55.431597]}}
+,
+{"type":"Feature",
+"id":6,"properties":{"[House District]":"01","[Precinct Number]":"01-650","[Precinct Name]":"North Tongass No. 2","[Polling Place Name]":"North Tongass Fire Station No 8","Address":"13110 N Tongass Highway","City":"Ketchikan","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-131.80464,55.464625]}}
+,
+{"type":"Feature",
+"id":7,"properties":{"[House District]":"01","[Precinct Number]":"01-660","[Precinct Name]":"Saxman","[Polling Place Name]":"Saxman Community Hall","Address":"2841 S Tongass Hwy","City":"Saxman","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-131.58484,55.31083]}}
+,
+{"type":"Feature",
+"id":8,"properties":{"[House District]":"01","[Precinct Number]":"01-670","[Precinct Name]":"South Tongass","[Polling Place Name]":"South Tongass Alliance Church","Address":"376 Old Homestead Rd","City":"Ketchikan","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-131.56885,55.309875]}}
+,
+{"type":"Feature",
+"id":9,"properties":{"[House District]":"01","[Precinct Number]":"01-675","[Precinct Name]":"Coffman Cove","[Polling Place Name]":"City Library","Address":"106 Denali Alley","City":"Coffman Cove","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-132.82778,56.013889]}}
+,
+{"type":"Feature",
+"id":10,"properties":{"[House District]":"01","[Precinct Number]":"01-680","[Precinct Name]":"Metlakatla","[Polling Place Name]":"Metlakatla Town Hall","Address":"317 3rd Ave.","City":"Metlakatla","[Last Updated]":"April 26, 2023 at 10:51 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-131.57858,55.127631]}}
+,
+{"type":"Feature",
+"id":11,"properties":{"[House District]":"01","[Precinct Number]":"01-690","[Precinct Name]":"Wrangell","[Polling Place Name]":"James & Elsie Nolan Civic Center","Address":"296 Campbell Dr","City":"Wrangell","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-132.38202,56.469767]}}
+,
+{"type":"Feature",
+"id":12,"properties":{"[House District]":"02","[Precinct Number]":"02-700","[Precinct Name]":"Angoon","[Polling Place Name]":"Angoon City Office Court Room","Address":"700 Aan Deina Aat St","City":"Angoon","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-134.58389,57.503333]}}
+,
+{"type":"Feature",
+"id":13,"properties":{"[House District]":"02","[Precinct Number]":"02-705","[Precinct Name]":"Craig","[Polling Place Name]":"Craig City Hall","Address":"500 Third St","City":"Craig","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-133.15142,55.476082]}}
+,
+{"type":"Feature",
+"id":14,"properties":{"[House District]":"02","[Precinct Number]":"02-720","[Precinct Name]":"Hoonah","[Polling Place Name]":"Hoonah City Hall","Address":"300 Front St","City":"Hoonah","[Last Updated]":"September 28, 2026 at 11:16 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-135.44511,58.109163]}}
+,
+{"type":"Feature",
+"id":15,"properties":{"[House District]":"02","[Precinct Number]":"02-725","[Precinct Name]":"Hydaburg","[Polling Place Name]":"Hydaburg City Hall","Address":"101 8th St Extension","City":"Hydaburg","[Last Updated]":"May 12, 2026 at 12:21 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-132.82667,55.208056]}}
+,
+{"type":"Feature",
+"id":16,"properties":{"[House District]":"02","[Precinct Number]":"02-730","[Precinct Name]":"Kake","[Polling Place Name]":"Kake City Hall","Address":"264 Front St","City":"Kake","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-133.94722,56.975833]}}
+,
+{"type":"Feature",
+"id":18,"properties":{"[House District]":"02","[Precinct Number]":"02-740","[Precinct Name]":"Klawock","[Polling Place Name]":"Klawock City Hall","Address":"550 Summit Street","City":"Klawock","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-133.09597,55.554886]}}
+,
+{"type":"Feature",
+"id":19,"properties":{"[House District]":"02","[Precinct Number]":"02-750","[Precinct Name]":"Pelican/Elfin Cove","[Polling Place Name]":"Pelican City Hall","Address":"Salmon Way","City":"Pelican","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-136.2275,57.960833]}}
+,
+{"type":"Feature",
+"id":20,"properties":{"[House District]":"02","[Precinct Number]":"02-755","[Precinct Name]":"Petersburg/Kupreanof","[Polling Place Name]":"Community Center","Address":"105 Charles W Street","City":"Petersburg","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-132.95504,56.814738]}}
+,
+{"type":"Feature",
+"id":21,"properties":{"[House District]":"02","[Precinct Number]":"02-760","[Precinct Name]":"Port Alexander","[Polling Place Name]":"Bear Hall Community Center","Address":null,"City":"Port Alexander","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-134.64444,56.249722]}}
+,
+{"type":"Feature",
+"id":22,"properties":{"[House District]":"02","[Precinct Number]":"02-765","[Precinct Name]":"Sitka No. 1","[Polling Place Name]":"Harrigan Centennial Hall","Address":"330 Harbor Dr","City":"Sitka","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-135.33266,57.050427]}}
+,
+{"type":"Feature",
+"id":23,"properties":{"[House District]":"02","[Precinct Number]":"02-770","[Precinct Name]":"Sitka No. 2","[Polling Place Name]":"Harrigan Centennial Hall","Address":"330 Harbor Dr","City":"Sitka","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-135.33266,57.050427]}}
+,
+{"type":"Feature",
+"id":24,"properties":{"[House District]":"02","[Precinct Number]":"02-775","[Precinct Name]":"Tenakee Springs","[Polling Place Name]":"Tenakee Community Center","Address":"Tenakee Avenue","City":"Tenakee Springs","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-135.21889,57.780833]}}
+,
+{"type":"Feature",
+"id":25,"properties":{"[House District]":"02","[Precinct Number]":"02-780","[Precinct Name]":"Thorne Bay","[Polling Place Name]":"Thorne Bay City Hall","Address":"120 Freeman Dr","City":"Thorne Bay","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-132.52729,55.686251]}}
+,
+{"type":"Feature",
+"id":26,"properties":{"[House District]":"02","[Precinct Number]":"02-785","[Precinct Name]":"Yakutat","[Polling Place Name]":"Yakutat Public Safety Bldg","Address":"609 Forest Hwy 10","City":"Yakutat","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-139.72722,59.546944]}}
+,
+{"type":"Feature",
+"id":37,"properties":{"[House District]":"04","[Precinct Number]":"04-100","[Precinct Name]":"Douglas","[Polling Place Name]":"Douglas Public Library","Address":"1016 3rd Street","City":"Douglas","[Last Updated]":"August 5, 2022 at 11:02 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-134.39492,58.276746]}}
+,
+{"type":"Feature",
+"id":27,"properties":{"[House District]":"03","[Precinct Number]":"03-300","[Precinct Name]":"Auke Bay","[Polling Place Name]":"UAS Recreation Center","Address":"12300 Mendenhall Loop Rd","City":"Juneau","[Last Updated]":"July 15, 2022 at 3:20 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-134.64118,58.389347]}}
+,
+{"type":"Feature",
+"id":28,"properties":{"[House District]":"03","[Precinct Number]":"03-305","[Precinct Name]":"Lynn Canal","[Polling Place Name]":"Auke Bay Ferry Terminal","Address":"13485 Glacier Highway","City":"Juneau","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-134.68805,58.382246]}}
+,
+{"type":"Feature",
+"id":29,"properties":{"[House District]":"03","[Precinct Number]":"03-310","[Precinct Name]":"Melvin Park","[Polling Place Name]":"Glacier Valley Baptist Church","Address":"3921 Mendenhall Loop Rd","City":"Juneau","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-134.56989,58.389486]}}
+,
+{"type":"Feature",
+"id":30,"properties":{"[House District]":"03","[Precinct Number]":"03-315","[Precinct Name]":"Mendenhall Glacier","[Polling Place Name]":"St Brendan’s Episcopal Church","Address":"4207 Mendenhall Loop Rd","City":"Juneau","[Last Updated]":"May 7, 2026 at 11:45 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-134.56275,58.395532]}}
+,
+{"type":"Feature",
+"id":38,"properties":{"[House District]":"04","[Precinct Number]":"04-105","[Precinct Name]":"Juneau Airport Area","[Polling Place Name]":"Juneau Christian Center","Address":"8001 Glacier Hwy","City":"Juneau","[Last Updated]":"May 7, 2026 at 11:45 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-134.558,58.36003]}}
+,
+{"type":"Feature",
+"id":39,"properties":{"[House District]":"04","[Precinct Number]":"04-110","[Precinct Name]":"Juneau No. 1","[Polling Place Name]":"State Of Alaska Library Archives Museum","Address":"395 Whittier St","City":"Juneau","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-134.41427,58.299791]}}
+,
+{"type":"Feature",
+"id":40,"properties":{"[House District]":"04","[Precinct Number]":"04-115","[Precinct Name]":"Juneau No. 2","[Polling Place Name]":"New Location State Office Building","Address":"New Location 333 Willoughby Ave","City":"Juneau","[Last Updated]":"June 26, 2026 at 9:43 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-134.41195,58.300487]}}
+,
+{"type":"Feature",
+"id":41,"properties":{"[House District]":"04","[Precinct Number]":"04-120","[Precinct Name]":"Juneau No. 3","[Polling Place Name]":"New Location Juneau Tlingit & Haida Community Council","Address":"New Location 3235 Hospital Dr","City":"Juneau","[Last Updated]":"June 12, 2026 at 1:28 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-134.47113,58.330445]}}
+,
+{"type":"Feature",
+"id":42,"properties":{"[House District]":"04","[Precinct Number]":"04-125","[Precinct Name]":"Lemon Creek","[Polling Place Name]":"Alaska Electrical Light & Power","Address":"5601 Tonsgard Ct","City":"Juneau","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-134.49742,58.354468]}}
+,
+{"type":"Feature",
+"id":43,"properties":{"[House District]":"04","[Precinct Number]":"04-130","[Precinct Name]":"Glacier Valley Area","[Polling Place Name]":"Mendenhall Mall","Address":"9107 Mendenhall Mall Rd Ste. 325","City":"Juneau","[Last Updated]":"November 5, 2024 at 11:30 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-134.58553,58.371963]}}
+,
+{"type":"Feature",
+"id":44,"properties":{"[House District]":"04","[Precinct Number]":"04-135","[Precinct Name]":"North Douglas","[Polling Place Name]":"Juneau Fire Station","Address":"820 Glacier Avenue","City":"Juneau","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-134.42102,58.301021]}}
+,
+{"type":"Feature",
+"id":31,"properties":{"[House District]":"03","[Precinct Number]":"03-320","[Precinct Name]":"Thunder Mountain","[Polling Place Name]":"Mendenhall Valley Public Library","Address":"3025 Dimond Park Loop","City":"Juneau","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-134.41972,58.301944]}}
+,
+{"type":"Feature",
+"id":32,"properties":{"[House District]":"03","[Precinct Number]":"03-325","[Precinct Name]":"Gustavus","[Polling Place Name]":"Gustavus Community Center","Address":"1295 Gustavus Rd","City":"Gustavus","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-135.72785,58.412698]}}
+,
+{"type":"Feature",
+"id":33,"properties":{"[House District]":"03","[Precinct Number]":"03-330","[Precinct Name]":"Haines No. 1","[Polling Place Name]":"Alaska Native Brotherhood Hall","Address":"111 First Ave S","City":"Haines","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-135.44404,59.234242]}}
+,
+{"type":"Feature",
+"id":34,"properties":{"[House District]":"03","[Precinct Number]":"03-335","[Precinct Name]":"Haines No. 2","[Polling Place Name]":"Klehini Valley Fire Department","Address":"Mosquito Lake Road","City":"Haines","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-135.44411,59.228589]}}
+,
+{"type":"Feature",
+"id":35,"properties":{"[House District]":"03","[Precinct Number]":"03-340","[Precinct Name]":"Klukwan","[Polling Place Name]":"Klukwan ANS Hall","Address":null,"City":"Klukwan","[Last Updated]":"July 15, 2022 at 3:21 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-135.88444,59.403889]}}
+,
+{"type":"Feature",
+"id":36,"properties":{"[House District]":"03","[Precinct Number]":"03-345","[Precinct Name]":"Skagway","[Polling Place Name]":"Skagway Borough Office","Address":"700 Spring Street","City":"Skagway","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-135.31184,59.455832]}}
+,
+{"type":"Feature",
+"id":45,"properties":{"[House District]":"05","[Precinct Number]":"05-800","[Precinct Name]":"Chiniak","[Polling Place Name]":"Chiniak Public Library","Address":"43318 Spruce Way","City":"Chiniak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-152.23432,57.612207]}}
+,
+{"type":"Feature",
+"id":46,"properties":{"[House District]":"05","[Precinct Number]":"05-810","[Precinct Name]":"Flats","[Polling Place Name]":"Women’s Bay Fire Hall","Address":"538 Sargent Creek Road","City":"Kodiak","[Last Updated]":"August 20, 2025 at 10:40 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-152.57959,57.714544]}}
+,
+{"type":"Feature",
+"id":49,"properties":{"[House District]":"05","[Precinct Number]":"05-825","[Precinct Name]":"Kodiak No. 2","[Polling Place Name]":"Community Teen Center","Address":"410 Cedar Street","City":"Kodiak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-152.40601,57.791991]}}
+,
+{"type":"Feature",
+"id":50,"properties":{"[House District]":"05","[Precinct Number]":"05-830","[Precinct Name]":"Mission Road","[Polling Place Name]":"Bayside Fire Hall","Address":"4606 E Rezanof Drive","City":"Kodiak","[Last Updated]":"June 26, 2026 at 1:52 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-152.35591,57.825706]}}
+,
+{"type":"Feature",
+"id":47,"properties":{"[House District]":"05","[Precinct Number]":"05-815","[Precinct Name]":"Kodiak Island South","[Polling Place Name]":"Larsen Bay Senior Center","Address":null,"City":"Larsen Bay","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-153.97861,57.54]}}
+,
+{"type":"Feature",
+"id":48,"properties":{"[House District]":"05","[Precinct Number]":"05-820","[Precinct Name]":"Kodiak No. 1","[Polling Place Name]":"Harbor Master Office","Address":"403 Marine Way West","City":"Kodiak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-152.40672,57.787182]}}
+,
+{"type":"Feature",
+"id":51,"properties":{"[House District]":"05","[Precinct Number]":"05-835","[Precinct Name]":"Old Harbor","[Polling Place Name]":"New Location Alutiiq Tribe of Old Harbor Nuniaq Center","Address":"New Location 12 Tsunami Dr","City":"Old Harbor","[Last Updated]":"June 30, 2026 at 9:50 am","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-153.30389,57.202778]}}
+,
+{"type":"Feature",
+"id":52,"properties":{"[House District]":"05","[Precinct Number]":"05-840","[Precinct Name]":"Ouzinkie","[Polling Place Name]":"Ouzinkie Tribal Offices","Address":"3rd Street","City":"Ouzinkie","[Last Updated]":"August 5, 2022 at 11:00 am","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-152.50222,57.923611]}}
+,
+{"type":"Feature",
+"id":53,"properties":{"[House District]":"05","[Precinct Number]":"05-845","[Precinct Name]":"Port Lions","[Polling Place Name]":"Port Lions Community Building","Address":"207 Spruce Drive","City":"Port Lions","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-152.88458,57.866399]}}
+,
+{"type":"Feature",
+"id":54,"properties":{"[House District]":"05","[Precinct Number]":"05-860","[Precinct Name]":"Cordova","[Polling Place Name]":"The Cordova Center","Address":"601 First Street","City":"Cordova","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-145.75942,60.541672]}}
+,
+{"type":"Feature",
+"id":55,"properties":{"[House District]":"05","[Precinct Number]":"05-865","[Precinct Name]":"Seward/Lowell Point","[Polling Place Name]":"New Location City of Seward Library & Museum","Address":"New Location 239 6th Ave","City":"Seward","[Last Updated]":"May 26, 2026 at 10:26 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.43736,60.102737]}}
+,
+{"type":"Feature",
+"id":72,"properties":{"[House District]":"08","[Precinct Number]":"08-035","[Precinct Name]":"Bear Creek","[Polling Place Name]":"Bear Creek Fire Hall","Address":"13105 Seward Hwy","City":"Seward","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.40144,60.169521]}}
+,
+{"type":"Feature",
+"id":56,"properties":{"[House District]":"05","[Precinct Number]":"05-870","[Precinct Name]":"Tatitlek","[Polling Place Name]":"Tatitlek Community Center","Address":"411 Old Village Rd","City":"Tatitlek","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-146.67806,60.86434]}}
+,
+{"type":"Feature",
+"id":57,"properties":{"[House District]":"06","[Precinct Number]":"06-200","[Precinct Name]":"Anchor Point","[Polling Place Name]":"Anchor Point Senior Center","Address":"Mi .25 Milo Fritz Avenue","City":"Anchor Point","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-151.85438,59.779526]}}
+,
+{"type":"Feature",
+"id":58,"properties":{"[House District]":"06","[Precinct Number]":"06-210","[Precinct Name]":"Diamond Ridge","[Polling Place Name]":"New Location Homer Chamber of Commerce","Address":"New Location 201 Sterling Hwy","City":"Homer","[Last Updated]":"June 26, 2026 at 9:43 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.54783,59.641373]}}
+,
+{"type":"Feature",
+"id":59,"properties":{"[House District]":"06","[Precinct Number]":"06-220","[Precinct Name]":"Fox River","[Polling Place Name]":"Kachemak Emergency Services","Address":"53048 Ashwood Ave","City":"Homer","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.25998,59.743543]}}
+,
+{"type":"Feature",
+"id":60,"properties":{"[House District]":"06","[Precinct Number]":"06-230","[Precinct Name]":"Homer No. 1","[Polling Place Name]":"New Location Kachemak Bay Campus","Address":"New Location 533 E Pioneer Ave","City":"Homer","[Last Updated]":"May 28, 2026 at 11:15 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.53194,59.647507]}}
+,
+{"type":"Feature",
+"id":61,"properties":{"[House District]":"06","[Precinct Number]":"06-240","[Precinct Name]":"Homer No. 2","[Polling Place Name]":"Homer United Methodist Church","Address":"770 East End Rd","City":"Homer","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.52448,59.649612]}}
+,
+{"type":"Feature",
+"id":62,"properties":{"[House District]":"06","[Precinct Number]":"06-250","[Precinct Name]":"Kachemak/Fritz Creek","[Polling Place Name]":"Kachemak Community Center","Address":"59906 Bear Creek Drive","City":"Homer","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.45299,59.666561]}}
+,
+{"type":"Feature",
+"id":63,"properties":{"[House District]":"06","[Precinct Number]":"06-260","[Precinct Name]":"Kasilof","[Polling Place Name]":"Kasilof Community Church","Address":"51540 Mercantile Ave","City":"Kasilof","[Last Updated]":"August 6, 2024 at 11:47 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.25837,60.320881]}}
+,
+{"type":"Feature",
+"id":64,"properties":{"[House District]":"06","[Precinct Number]":"06-270","[Precinct Name]":"Ninilchik","[Polling Place Name]":"Ninilchik Community Center","Address":"15763 Kingsley Road","City":"Ninilchik","[Last Updated]":"October 2, 2023 at 9:47 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.66719,60.043217]}}
+,
+{"type":"Feature",
+"id":65,"properties":{"[House District]":"06","[Precinct Number]":"06-280","[Precinct Name]":"Seldovia/Kachemak","[Polling Place Name]":"Seldovia Library","Address":"260 Seldovia Street","City":"Seldovia","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.7146,59.438709]}}
+,
+{"type":"Feature",
+"id":66,"properties":{"[House District]":"07","[Precinct Number]":"07-005","[Precinct Name]":"Central","[Polling Place Name]":"Soldotna Sports Center","Address":"538 Arena Ave","City":"Soldotna","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.10163,60.475458]}}
+,
+{"type":"Feature",
+"id":67,"properties":{"[House District]":"07","[Precinct Number]":"07-010","[Precinct Name]":"K Beach","[Polling Place Name]":"Soldotna Sports Center","Address":"538 Arena Ave","City":"Soldotna","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.10163,60.475458]}}
+,
+{"type":"Feature",
+"id":71,"properties":{"[House District]":"07","[Precinct Number]":"07-030","[Precinct Name]":"Soldotna","[Polling Place Name]":"New Location Soldotna Field House","Address":"New Location 526 Arena Ave","City":"Soldotna","[Last Updated]":"June 18, 2026 at 2:58 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.10301,60.475458]}}
+,
+{"type":"Feature",
+"id":77,"properties":{"[House District]":"08","[Precinct Number]":"08-060","[Precinct Name]":"Mackey Lake","[Polling Place Name]":"New Location Soldotna Field House","Address":"New Location 526 Arena Ave","City":"Soldotna","[Last Updated]":"June 18, 2026 at 3:00 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.10301,60.475458]}}
+,
+{"type":"Feature",
+"id":68,"properties":{"[House District]":"07","[Precinct Number]":"07-015","[Precinct Name]":"Kenai No. 1","[Polling Place Name]":"Kenai Mall","Address":"11312 Kenai Spur Hwy","City":"Kenai","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.25548,60.554664]}}
+,
+{"type":"Feature",
+"id":69,"properties":{"[House District]":"07","[Precinct Number]":"07-020","[Precinct Name]":"Kenai No. 2","[Polling Place Name]":"New Location Kenai Central High School","Address":"New Location 9583 Kenai Spur Highway","City":"Kenai","[Last Updated]":"June 18, 2026 at 2:31 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.21157,60.563296]}}
+,
+{"type":"Feature",
+"id":70,"properties":{"[House District]":"07","[Precinct Number]":"07-025","[Precinct Name]":"Kenai No. 3","[Polling Place Name]":"New Location Kenai Visitors Center","Address":"New Location 11471 Kenai Spur Highway","City":"Kenai","[Last Updated]":"June 18, 2026 at 4:02 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.25993,60.554877]}}
+,
+{"type":"Feature",
+"id":79,"properties":{"[House District]":"08","[Precinct Number]":"08-070","[Precinct Name]":"Nikiski","[Polling Place Name]":"Nikiski Community Rec Center","Address":"50097 Kenai Spur Hwy","City":"Nikiski","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.38046,60.70296]}}
+,
+{"type":"Feature",
+"id":80,"properties":{"[House District]":"08","[Precinct Number]":"08-075","[Precinct Name]":"Salamatof","[Polling Place Name]":"Nikiski Community Rec Center","Address":"50097 Kenai Spur Hwy","City":"Nikiski","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.38046,60.70296]}}
+,
+{"type":"Feature",
+"id":73,"properties":{"[House District]":"08","[Precinct Number]":"08-040","[Precinct Name]":"Cooper Landing","[Polling Place Name]":"Cooper Landing Community Hall","Address":"Bean Creek Rd","City":"Cooper Landing","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-149.83417,60.49]}}
+,
+{"type":"Feature",
+"id":74,"properties":{"[House District]":"08","[Precinct Number]":"08-045","[Precinct Name]":"Funny River No. 1","[Polling Place Name]":"Funny River Community Center","Address":"35850 Pioneer Access","City":"Soldotna","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-150.83797,60.498742]}}
+,
+{"type":"Feature",
+"id":75,"properties":{"[House District]":"08","[Precinct Number]":"08-050","[Precinct Name]":"Funny River No. 2","[Polling Place Name]":"New Location Donald E Gilman River Center","Address":"New Location 514 Funny River Rd","City":"Soldotna","[Last Updated]":"June 18, 2026 at 2:59 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-150.71898,60.51666]}}
+,
+{"type":"Feature",
+"id":76,"properties":{"[House District]":"08","[Precinct Number]":"08-055","[Precinct Name]":"Hope","[Polling Place Name]":"Hope Retreat Center","Address":"A Ave","City":"Hope","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-149.64028,60.920278]}}
+,
+{"type":"Feature",
+"id":78,"properties":{"[House District]":"08","[Precinct Number]":"08-065","[Precinct Name]":"Moose Pass","[Polling Place Name]":"Moose Pass Community Hall","Address":"Mi 29.5 Seward Hwy","City":"Moose Pass","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-149.37174,60.502066]}}
+,
+{"type":"Feature",
+"id":81,"properties":{"[House District]":"08","[Precinct Number]":"08-080","[Precinct Name]":"Sterling No. 1","[Polling Place Name]":"Sterling Community Center","Address":"38377 Swanson River Rd","City":"Sterling","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-150.79449,60.536092]}}
+,
+{"type":"Feature",
+"id":82,"properties":{"[House District]":"08","[Precinct Number]":"08-085","[Precinct Name]":"Sterling No. 2","[Polling Place Name]":"Sterling Community Center","Address":"38377 Swanson River Rd","City":"Sterling","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-150.79449,60.536092]}}
+,
+{"type":"Feature",
+"id":83,"properties":{"[House District]":"09","[Precinct Number]":"09-105","[Precinct Name]":"Girdwood","[Polling Place Name]":"Girdwood Community Center","Address":"250 Egloff St","City":"Girdwood","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-149.13683,60.959831]}}
+,
+{"type":"Feature",
+"id":84,"properties":{"[House District]":"09","[Precinct Number]":"09-110","[Precinct Name]":"Indian","[Polling Place Name]":"Valley Bible Chalet","Address":"29135 Seward Hwy","City":"Indian","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.4929,60.983773]}}
+,
+{"type":"Feature",
+"id":174,"properties":{"[House District]":"24","[Precinct Number]":"24-855","[Precinct Name]":"Chugiak","[Polling Place Name]":"Chugiak High School","Address":"16525 Birchwood Loop Rd","City":"Chugiak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.53872,61.369491]}}
+,
+{"type":"Feature",
+"id":176,"properties":{"[House District]":"24","[Precinct Number]":"24-865","[Precinct Name]":"Eklutna","[Polling Place Name]":"Mirror Lake Middle School","Address":"22901 Lake Hill Dr","City":"Chugiak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.42747,61.426712]}}
+,
+{"type":"Feature",
+"id":178,"properties":{"[House District]":"24","[Precinct Number]":"24-875","[Precinct Name]":"Peters Creek No. 1","[Polling Place Name]":"Bridge Of Hope Apostolic Center","Address":"20640 Chapel Dr","City":"Chugiak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.45037,61.406091]}}
+,
+{"type":"Feature",
+"id":179,"properties":{"[House District]":"24","[Precinct Number]":"24-880","[Precinct Name]":"Peters Creek No. 2","[Polling Place Name]":"Bridge Of Hope Apostolic Center","Address":"20640 Chapel Dr","City":"Chugiak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.45037,61.406091]}}
+,
+{"type":"Feature",
+"id":167,"properties":{"[House District]":"23","[Precinct Number]":"23-805","[Precinct Name]":"Chugach Park No. 1","[Polling Place Name]":"Ravenwood Elementary School","Address":"9500 Wren Cir","City":"Eagle River","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.50239,61.306152]}}
+,
+{"type":"Feature",
+"id":168,"properties":{"[House District]":"23","[Precinct Number]":"23-810","[Precinct Name]":"Eagle River No. 1","[Polling Place Name]":"Eagle River Elementary School","Address":"10900 Old Eagle River Rd","City":"Eagle River","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.56907,61.319835]}}
+,
+{"type":"Feature",
+"id":169,"properties":{"[House District]":"23","[Precinct Number]":"23-815","[Precinct Name]":"Eagle River No. 2","[Polling Place Name]":"Alpenglow Elementary School","Address":"19201 Driftwood Bay Dr","City":"Eagle River","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.52688,61.300794]}}
+,
+{"type":"Feature",
+"id":170,"properties":{"[House District]":"23","[Precinct Number]":"23-820","[Precinct Name]":"Hiland","[Polling Place Name]":"Eagle River High School","Address":"8701 Wolf Den Dr","City":"Eagle River","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.5761,61.299119]}}
+,
+{"type":"Feature",
+"id":171,"properties":{"[House District]":"23","[Precinct Number]":"23-825","[Precinct Name]":"Meadow Creek No. 1","[Polling Place Name]":"Homestead Elementary School","Address":"18001 Baronoff Ave","City":"Eagle River","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.54632,61.314418]}}
+,
+{"type":"Feature",
+"id":172,"properties":{"[House District]":"23","[Precinct Number]":"23-830","[Precinct Name]":"Meadow Creek No. 2","[Polling Place Name]":"Joy Lutheran Church","Address":"10111 E Eagle River Loop Rd","City":"Eagle River","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.53865,61.311654]}}
+,
+{"type":"Feature",
+"id":173,"properties":{"[House District]":"24","[Precinct Number]":"24-850","[Precinct Name]":"Chugach Park No. 2","[Polling Place Name]":"Skyline Family Fellowship","Address":"18239 N Eagle River Loop Rd","City":"Eagle River","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.54055,61.322845]}}
+,
+{"type":"Feature",
+"id":177,"properties":{"[House District]":"24","[Precinct Number]":"24-870","[Precinct Name]":"Fire Lake","[Polling Place Name]":"Fire Lake Elementary School","Address":"13801 Harry Mcdonald Rd","City":"Eagle River","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.55194,61.344684]}}
+,
+{"type":"Feature",
+"id":144,"properties":{"[House District]":"18","[Precinct Number]":"18-555","[Precinct Name]":"JBER No. 1","[Polling Place Name]":"Ursa Minor Elementary School","Address":"336 Hoonah Ave","City":"JBER","[Last Updated]":"May 7, 2026 at 11:43 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.69131,61.247142]}}
+,
+{"type":"Feature",
+"id":122,"properties":{"[House District]":"14","[Precinct Number]":"14-380","[Precinct Name]":"North Midtown No. 7","[Polling Place Name]":"Rogers Park Elementary School","Address":"1400 E Northern Lights Blvd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.85657,61.195302]}}
+,
+{"type":"Feature",
+"id":148,"properties":{"[House District]":"19","[Precinct Number]":"19-605","[Precinct Name]":"Airport Heights No. 1","[Polling Place Name]":"Airport Heights Elementary School","Address":"1510 Alder Dr","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.82905,61.206442]}}
+,
+{"type":"Feature",
+"id":149,"properties":{"[House District]":"19","[Precinct Number]":"19-610","[Precinct Name]":"Airport Heights No. 2","[Polling Place Name]":"Williwaw Elementary School","Address":"1200 San Antonio St","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.79536,61.210882]}}
+,
+{"type":"Feature",
+"id":150,"properties":{"[House District]":"19","[Precinct Number]":"19-615","[Precinct Name]":"Mountainview No. 1","[Polling Place Name]":"Mt View Elementary School","Address":"4005 Mcphee Ave","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.80632,61.231448]}}
+,
+{"type":"Feature",
+"id":151,"properties":{"[House District]":"19","[Precinct Number]":"19-620","[Precinct Name]":"Mountainview No. 2","[Polling Place Name]":"New Location Mountain View Community Center","Address":"New Location 315 Price St","City":"Anchorage","[Last Updated]":"May 7, 2026 at 1:19 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.812,61.226032]}}
+,
+{"type":"Feature",
+"id":152,"properties":{"[House District]":"19","[Precinct Number]":"19-625","[Precinct Name]":"South Mountainview","[Polling Place Name]":"Clark Middle School","Address":"150 Bragaw St","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.80866,61.222817]}}
+,
+{"type":"Feature",
+"id":153,"properties":{"[House District]":"20","[Precinct Number]":"20-650","[Precinct Name]":"University No. 1","[Polling Place Name]":"East High School","Address":"4025 E Northern Lights Blvd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.80573,61.199018]}}
+,
+{"type":"Feature",
+"id":155,"properties":{"[House District]":"20","[Precinct Number]":"20-660","[Precinct Name]":"University No. 3","[Polling Place Name]":"College Gate Elementary School","Address":"3101 Sunflower St","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.78497,61.191811]}}
+,
+{"type":"Feature",
+"id":163,"properties":{"[House District]":"22","[Precinct Number]":"22-750","[Precinct Name]":"Northeast Anchorage No. 1","[Polling Place Name]":"Wonder Park Elementary School","Address":"5101 E 4th Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:49 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.78465,61.218728]}}
+,
+{"type":"Feature",
+"id":146,"properties":{"[House District]":"18","[Precinct Number]":"18-560","[Precinct Name]":"North Muldoon","[Polling Place Name]":"Bartlett High School","Address":"1101 Golden Bear Dr","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.73691,61.231641]}}
+,
+{"type":"Feature",
+"id":156,"properties":{"[House District]":"20","[Precinct Number]":"20-665","[Precinct Name]":"University No. 4","[Polling Place Name]":"Alaska Housing Finance Corporation Bldg","Address":"4300 Boniface Pkwy","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.77849,61.181541]}}
+,
+{"type":"Feature",
+"id":157,"properties":{"[House District]":"20","[Precinct Number]":"20-670","[Precinct Name]":"University No. 5","[Polling Place Name]":"Anchorage School District Bldg","Address":"5530 E Northern Lights Blvd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.77742,61.195113]}}
+,
+{"type":"Feature",
+"id":158,"properties":{"[House District]":"21","[Precinct Number]":"21-705","[Precinct Name]":"East Anchorage No. 1","[Polling Place Name]":"Anchorage STREAM Academy Charter School","Address":"1905 Twining Dr","City":"Anchorage","[Last Updated]":"July 2, 2026 at 12:24 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.77686,61.202912]}}
+,
+{"type":"Feature",
+"id":159,"properties":{"[House District]":"21","[Precinct Number]":"21-710","[Precinct Name]":"East Anchorage No. 2","[Polling Place Name]":"Begich Middle School","Address":"7440 Creekside Center Dr","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.74078,61.20763]}}
+,
+{"type":"Feature",
+"id":160,"properties":{"[House District]":"21","[Precinct Number]":"21-715","[Precinct Name]":"East Anchorage No. 3","[Polling Place Name]":"St Patrick’s Parish","Address":"2111 Muldoon Rd","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:18 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.73331,61.201742]}}
+,
+{"type":"Feature",
+"id":161,"properties":{"[House District]":"21","[Precinct Number]":"21-720","[Precinct Name]":"East Anchorage No. 4","[Polling Place Name]":"Baxter Elementary School","Address":"2991 Baxter Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.76327,61.19354]}}
+,
+{"type":"Feature",
+"id":162,"properties":{"[House District]":"21","[Precinct Number]":"21-725","[Precinct Name]":"East Anchorage No. 5","[Polling Place Name]":"Scenic Park Elementary School","Address":"3933 Patterson St","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.74828,61.185322]}}
+,
+{"type":"Feature",
+"id":164,"properties":{"[House District]":"22","[Precinct Number]":"22-755","[Precinct Name]":"Northeast Anchorage No. 2","[Polling Place Name]":"Ptarmigan Elementary School","Address":"888 Edward St","City":"Anchorage","[Last Updated]":"August 13, 2024 at 11:40 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.76355,61.214172]}}
+,
+{"type":"Feature",
+"id":165,"properties":{"[House District]":"22","[Precinct Number]":"22-760","[Precinct Name]":"Northeast Anchorage No. 3","[Polling Place Name]":"Creekside Park Elementary School","Address":"7500 E 6th Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:48 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.74455,61.216872]}}
+,
+{"type":"Feature",
+"id":166,"properties":{"[House District]":"22","[Precinct Number]":"22-765","[Precinct Name]":"Northeast Anchorage No. 4","[Polling Place Name]":"Muldoon Elementary School","Address":"525 Cherry St","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.72208,61.217042]}}
+,
+{"type":"Feature",
+"id":85,"properties":{"[House District]":"09","[Precinct Number]":"09-115","[Precinct Name]":"South Anchorage No. 1","[Polling Place Name]":"Rabbit Creek Elementary School","Address":"13650 Lake Otis Pkwy","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.83409,61.095896]}}
+,
+{"type":"Feature",
+"id":86,"properties":{"[House District]":"09","[Precinct Number]":"09-120","[Precinct Name]":"South Anchorage No. 2","[Polling Place Name]":"South High School","Address":"13400 Elmore Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.80426,61.099592]}}
+,
+{"type":"Feature",
+"id":87,"properties":{"[House District]":"09","[Precinct Number]":"09-125","[Precinct Name]":"South Anchorage No. 3","[Polling Place Name]":"Rabbit Creek Community Church","Address":"3401 Rabbit Creek Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.81883,61.083398]}}
+,
+{"type":"Feature",
+"id":88,"properties":{"[House District]":"09","[Precinct Number]":"09-130","[Precinct Name]":"South Anchorage No. 4","[Polling Place Name]":"Goldenview Middle School","Address":"15800 Golden View Dr","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.77443,61.077861]}}
+,
+{"type":"Feature",
+"id":89,"properties":{"[House District]":"09","[Precinct Number]":"09-135","[Precinct Name]":"South Anchorage No. 5","[Polling Place Name]":"Bear Valley Elementary School","Address":"15001 Mountain Air Dr","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.7521,61.085258]}}
+,
+{"type":"Feature",
+"id":100,"properties":{"[House District]":"11","[Precinct Number]":"11-215","[Precinct Name]":"Hillside No. 3","[Polling Place Name]":"Bowman Elementary School","Address":"11700 Gregory Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.84535,61.11408]}}
+,
+{"type":"Feature",
+"id":103,"properties":{"[House District]":"11","[Precinct Number]":"11-230","[Precinct Name]":"Hillside No. 6","[Polling Place Name]":"O’Malley Elementary School","Address":"11100 Rockridge Dr","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.76704,61.120272]}}
+,
+{"type":"Feature",
+"id":145,"properties":{"[House District]":"18","[Precinct Number]":"18-556","[Precinct Name]":"JBER No. 2","[Polling Place Name]":"Orion Elementary School","Address":"5112 Arctic Warrior Dr.","City":"JBER","[Last Updated]":"May 7, 2026 at 11:45 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.82937,61.237207]}}
+,
+{"type":"Feature",
+"id":136,"properties":{"[House District]":"17","[Precinct Number]":"17-505","[Precinct Name]":"Downtown Anchorage No. 1","[Polling Place Name]":"First United Methodist Church","Address":"725 W 9th Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:50 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.89737,61.213698]}}
+,
+{"type":"Feature",
+"id":137,"properties":{"[House District]":"17","[Precinct Number]":"17-510","[Precinct Name]":"Downtown Anchorage No. 2","[Polling Place Name]":"Central Middle School","Address":"1405 E St","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.8913,61.208772]}}
+,
+{"type":"Feature",
+"id":140,"properties":{"[House District]":"17","[Precinct Number]":"17-525","[Precinct Name]":"Downtown Anchorage No. 5","[Polling Place Name]":"Denali Montessori School","Address":"952 Cordova St","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.87933,61.212722]}}
+,
+{"type":"Feature",
+"id":141,"properties":{"[House District]":"17","[Precinct Number]":"17-530","[Precinct Name]":"Downtown Anchorage No. 6","[Polling Place Name]":"Fairview Recreation Center","Address":"1121 E 10th Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:50 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.86269,61.212698]}}
+,
+{"type":"Feature",
+"id":142,"properties":{"[House District]":"17","[Precinct Number]":"17-535","[Precinct Name]":"Downtown Anchorage No. 7","[Polling Place Name]":"Fairview Elementary School","Address":"1327 Nelchina St","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.85657,61.209369]}}
+,
+{"type":"Feature",
+"id":143,"properties":{"[House District]":"18","[Precinct Number]":"18-550","[Precinct Name]":"Government Hill","[Polling Place Name]":"Government Hill Elementary School","Address":"525 E Bluff Dr","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.87029,61.23103]}}
+,
+{"type":"Feature",
+"id":147,"properties":{"[House District]":"18","[Precinct Number]":"18-565","[Precinct Name]":"Ship Creek","[Polling Place Name]":"Moa Voting Center","Address":"619 E Ship Creek Ave","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.87203,61.222792]}}
+,
+{"type":"Feature",
+"id":90,"properties":{"[House District]":"09","[Precinct Number]":"09-140","[Precinct Name]":"Stuckagain Heights","[Polling Place Name]":"Benny Benson School","Address":"4515 Campbell Airstrip Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.76284,61.179026]}}
+,
+{"type":"Feature",
+"id":98,"properties":{"[House District]":"11","[Precinct Number]":"11-205","[Precinct Name]":"Hillside No. 1","[Polling Place Name]":"Hanshew Middle School","Address":"10121 Lake Otis Pkwy","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.83367,61.130063]}}
+,
+{"type":"Feature",
+"id":99,"properties":{"[House District]":"11","[Precinct Number]":"11-210","[Precinct Name]":"Hillside No. 2","[Polling Place Name]":"Spring Hill Elementary School","Address":"9911 Lake Otis Pkwy","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.83357,61.131904]}}
+,
+{"type":"Feature",
+"id":105,"properties":{"[House District]":"12","[Precinct Number]":"12-250","[Precinct Name]":"Southeast Anchorage No. 1","[Polling Place Name]":"Northern Lights Abc","Address":"2424 E Dowling Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.83559,61.166322]}}
+,
+{"type":"Feature",
+"id":106,"properties":{"[House District]":"12","[Precinct Number]":"12-255","[Precinct Name]":"Southeast Anchorage No. 2","[Polling Place Name]":"Trailside Elementary School","Address":"5151 Abbott Rd","City":"Anchorage","[Last Updated]":"May 7, 2026 at 11:45 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.78537,61.137578]}}
+,
+{"type":"Feature",
+"id":107,"properties":{"[House District]":"12","[Precinct Number]":"12-260","[Precinct Name]":"Southeast Anchorage No. 3","[Polling Place Name]":"Moa Public Works Dept","Address":"4700 Elmore Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.80837,61.178092]}}
+,
+{"type":"Feature",
+"id":108,"properties":{"[House District]":"12","[Precinct Number]":"12-265","[Precinct Name]":"Southeast Anchorage No. 4","[Polling Place Name]":"Kasuun Elementary School","Address":"4000 E 68th Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:58 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.80907,61.159112]}}
+,
+{"type":"Feature",
+"id":109,"properties":{"[House District]":"12","[Precinct Number]":"12-270","[Precinct Name]":"Southeast Anchorage No. 5","[Polling Place Name]":"Service High School","Address":"5577 Abbott Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.77836,61.137578]}}
+,
+{"type":"Feature",
+"id":110,"properties":{"[House District]":"12","[Precinct Number]":"12-275","[Precinct Name]":"Southeast Anchorage No. 6","[Polling Place Name]":"Service High School","Address":"5577 Abbott Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.77836,61.137578]}}
+,
+{"type":"Feature",
+"id":115,"properties":{"[House District]":"13","[Precinct Number]":"13-325","[Precinct Name]":"South Midtown No. 5","[Polling Place Name]":"Tudor Elementary School","Address":"1666 Cache Dr","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.84867,61.174602]}}
+,
+{"type":"Feature",
+"id":154,"properties":{"[House District]":"20","[Precinct Number]":"20-655","[Precinct Name]":"University No. 2","[Polling Place Name]":"YMCA","Address":"5353 Lake Otis Pkwy","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:50 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.83802,61.172101]}}
+,
+{"type":"Feature",
+"id":91,"properties":{"[House District]":"09","[Precinct Number]":"09-145","[Precinct Name]":"Whittier","[Polling Place Name]":"3rd Floor City Council Chambers Whittier Public Safety Building","Address":"660 Whittier St","City":"Whittier","[Last Updated]":"May 7, 2026 at 11:44 am","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-148.68562,60.774497]}}
+,
+{"type":"Feature",
+"id":92,"properties":{"[House District]":"10","[Precinct Number]":"10-150","[Precinct Name]":"Dimond","[Polling Place Name]":"Kingdom Life Church","Address":"1301 W 100th Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 11:00 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.90421,61.13035]}}
+,
+{"type":"Feature",
+"id":93,"properties":{"[House District]":"10","[Precinct Number]":"10-155","[Precinct Name]":"Oceanview No. 1","[Polling Place Name]":"Christ Community Church","Address":"2222 W 100th Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:59 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.92144,61.130142]}}
+,
+{"type":"Feature",
+"id":94,"properties":{"[House District]":"10","[Precinct Number]":"10-160","[Precinct Name]":"Oceanview No. 2","[Polling Place Name]":"Klatt Elementary School","Address":"11900 Puma St","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.9071,61.112333]}}
+,
+{"type":"Feature",
+"id":95,"properties":{"[House District]":"10","[Precinct Number]":"10-165","[Precinct Name]":"Oceanview No. 3","[Polling Place Name]":"Ocean View Elementary School","Address":"11911 Johns Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.87864,61.112312]}}
+,
+{"type":"Feature",
+"id":96,"properties":{"[House District]":"10","[Precinct Number]":"10-170","[Precinct Name]":"Oceanview No. 4","[Polling Place Name]":"Christ Our Savior Lutheran Church","Address":"1612 Oceanview Dr","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.85245,61.099542]}}
+,
+{"type":"Feature",
+"id":97,"properties":{"[House District]":"10","[Precinct Number]":"10-175","[Precinct Name]":"Oceanview No. 5","[Polling Place Name]":"Sunset Hills Baptist Church","Address":"12130 Old Seward Hwy","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.86409,61.110812]}}
+,
+{"type":"Feature",
+"id":127,"properties":{"[House District]":"15","[Precinct Number]":"15-425","[Precinct Name]":"Southwest Anchorage No. 5","[Polling Place Name]":"Mears Middle School","Address":"2700 W 100th Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:52 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.93246,61.130172]}}
+,
+{"type":"Feature",
+"id":128,"properties":{"[House District]":"15","[Precinct Number]":"15-430","[Precinct Name]":"Southwest Anchorage No. 6","[Polling Place Name]":"Bayshore Elementary School","Address":"10500 Bayshore Dr","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.93906,61.126171]}}
+,
+{"type":"Feature",
+"id":116,"properties":{"[House District]":"14","[Precinct Number]":"14-350","[Precinct Name]":"North Midtown No. 1","[Polling Place Name]":"Romig Middle School","Address":"2500 Minnesota Dr","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.91336,61.198182]}}
+,
+{"type":"Feature",
+"id":119,"properties":{"[House District]":"14","[Precinct Number]":"14-365","[Precinct Name]":"North Midtown No. 4","[Polling Place Name]":"Steller Secondary School","Address":"2508 Blueberry Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.89216,61.197159]}}
+,
+{"type":"Feature",
+"id":120,"properties":{"[House District]":"14","[Precinct Number]":"14-370","[Precinct Name]":"North Midtown No. 5","[Polling Place Name]":"Willow Crest Elementary School","Address":"1004 W Tudor Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.90332,61.180615]}}
+,
+{"type":"Feature",
+"id":121,"properties":{"[House District]":"14","[Precinct Number]":"14-375","[Precinct Name]":"North Midtown No. 6","[Polling Place Name]":"Loussac Library","Address":"3600 Denali St","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.87678,61.187386]}}
+,
+{"type":"Feature",
+"id":139,"properties":{"[House District]":"17","[Precinct Number]":"17-520","[Precinct Name]":"Downtown Anchorage No. 4","[Polling Place Name]":"North Star Elementary School","Address":"605 W Fireweed Ln","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.89402,61.198684]}}
+,
+{"type":"Feature",
+"id":111,"properties":{"[House District]":"13","[Precinct Number]":"13-305","[Precinct Name]":"South Midtown No. 1","[Polling Place Name]":"Plumbers And Steamfitters Hall","Address":"610 W 54th Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:57 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.89402,61.171662]}}
+,
+{"type":"Feature",
+"id":112,"properties":{"[House District]":"13","[Precinct Number]":"13-310","[Precinct Name]":"South Midtown No. 2","[Polling Place Name]":"Campbell Elementary School","Address":"7206 Rovenna St","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.89972,61.154842]}}
+,
+{"type":"Feature",
+"id":113,"properties":{"[House District]":"13","[Precinct Number]":"13-315","[Precinct Name]":"South Midtown No. 3","[Polling Place Name]":"ChangePoint","Address":"6689 Changepoint Dr","City":"Anchorage","[Last Updated]":"May 7, 2026 at 11:43 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.90691,61.159812]}}
+,
+{"type":"Feature",
+"id":114,"properties":{"[House District]":"13","[Precinct Number]":"13-320","[Precinct Name]":"South Midtown No. 4","[Polling Place Name]":"Taku Elementary School","Address":"701 E 72nd Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:57 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.87007,61.155628]}}
+,
+{"type":"Feature",
+"id":117,"properties":{"[House District]":"14","[Precinct Number]":"14-355","[Precinct Name]":"North Midtown No. 2","[Polling Place Name]":"Boys And Girls Club","Address":"2300 W 36th Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:54 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.92518,61.187993]}}
+,
+{"type":"Feature",
+"id":118,"properties":{"[House District]":"14","[Precinct Number]":"14-360","[Precinct Name]":"North Midtown No. 3","[Polling Place Name]":"Northwood Elementary School","Address":"4807 Northwood Dr","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.92768,61.176212]}}
+,
+{"type":"Feature",
+"id":129,"properties":{"[House District]":"16","[Precinct Number]":"16-450","[Precinct Name]":"West Anchorage No. 1","[Polling Place Name]":"Turnagain United Methodist Church","Address":"3300 W Northern Lights Blvd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.94649,61.195183]}}
+,
+{"type":"Feature",
+"id":130,"properties":{"[House District]":"16","[Precinct Number]":"16-455","[Precinct Name]":"West Anchorage No. 2","[Polling Place Name]":"Turnagain Elementary School","Address":"3500 W Northern Lights Blvd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.95017,61.195212]}}
+,
+{"type":"Feature",
+"id":131,"properties":{"[House District]":"16","[Precinct Number]":"16-460","[Precinct Name]":"West Anchorage No. 3","[Polling Place Name]":"Alaska Native Charter School","Address":"3601 W 40th Ave","City":"Anchorage","[Last Updated]":"August 16, 2026 at 2:55 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.95412,61.184548]}}
+,
+{"type":"Feature",
+"id":132,"properties":{"[House District]":"16","[Precinct Number]":"16-465","[Precinct Name]":"West Anchorage No. 4","[Polling Place Name]":"Spenard Recreation Center","Address":"2020 W 48th Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:51 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.92116,61.177162]}}
+,
+{"type":"Feature",
+"id":138,"properties":{"[House District]":"17","[Precinct Number]":"17-515","[Precinct Name]":"Downtown Anchorage No. 3","[Polling Place Name]":"West High School","Address":"1700 Hillcrest Dr","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.91642,61.201599]}}
+,
+{"type":"Feature",
+"id":123,"properties":{"[House District]":"15","[Precinct Number]":"15-405","[Precinct Name]":"Southwest Anchorage No. 1","[Polling Place Name]":"Jewel Lake Community Church","Address":"4025 W 88th Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:53 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.95509,61.141158]}}
+,
+{"type":"Feature",
+"id":124,"properties":{"[House District]":"15","[Precinct Number]":"15-410","[Precinct Name]":"Southwest Anchorage No. 2","[Polling Place Name]":"Sand Lake Elementary School","Address":"7500 Jewel Lake Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.95204,61.152883]}}
+,
+{"type":"Feature",
+"id":125,"properties":{"[House District]":"15","[Precinct Number]":"15-415","[Precinct Name]":"Southwest Anchorage No. 3","[Polling Place Name]":"Dimond High School","Address":"2909 W 88th Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:53 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.93675,61.141158]}}
+,
+{"type":"Feature",
+"id":126,"properties":{"[House District]":"15","[Precinct Number]":"15-420","[Precinct Name]":"Southwest Anchorage No. 4","[Polling Place Name]":"Chinook Elementary School","Address":"3101 W 88th Ave","City":"Anchorage","[Last Updated]":"August 5, 2022 at 10:52 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.93987,61.141158]}}
+,
+{"type":"Feature",
+"id":133,"properties":{"[House District]":"16","[Precinct Number]":"16-470","[Precinct Name]":"West Anchorage No. 5","[Polling Place Name]":"Filipino Bible Church","Address":"3340 Raspberry Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.94326,61.159072]}}
+,
+{"type":"Feature",
+"id":134,"properties":{"[House District]":"16","[Precinct Number]":"16-475","[Precinct Name]":"West Anchorage No. 6","[Polling Place Name]":"Kinkaid Elementary School","Address":"4900 Raspberry Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.97233,61.158982]}}
+,
+{"type":"Feature",
+"id":135,"properties":{"[House District]":"16","[Precinct Number]":"16-480","[Precinct Name]":"West Anchorage No. 7","[Polling Place Name]":"Gladys Wood Elementary School","Address":"7001 Cranberry St","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.93682,61.156132]}}
+,
+{"type":"Feature",
+"id":101,"properties":{"[House District]":"11","[Precinct Number]":"11-220","[Precinct Name]":"Hillside No. 4","[Polling Place Name]":"Alaska Zoo","Address":"4731 O’Malley Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-149.79377,61.123138]}}
+,
+{"type":"Feature",
+"id":102,"properties":{"[House District]":"11","[Precinct Number]":"11-225","[Precinct Name]":"Hillside No. 5","[Polling Place Name]":"Alaska Zoo","Address":"4731 O’Malley Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-149.79377,61.123138]}}
+,
+{"type":"Feature",
+"id":104,"properties":{"[House District]":"11","[Precinct Number]":"11-235","[Precinct Name]":"Hillside No. 7","[Polling Place Name]":"Seventh Day Adventist Conference Office","Address":"6100 O’Malley Rd","City":"Anchorage","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-149.76877,61.122992]}}
+,
+{"type":"Feature",
+"id":175,"properties":{"[House District]":"24","[Precinct Number]":"24-860","[Precinct Name]":"Eagle River No. 3","[Polling Place Name]":"EAGLE RIVER TOWN CENTER","Address":"12001 Business Blvd  No. 170","City":"Eagle River","[Last Updated]":"November 5, 2024 at 1:01 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-149.56778,61.321389]}}
+,
+{"type":"Feature",
+"id":180,"properties":{"[House District]":"25","[Precinct Number]":"25-305","[Precinct Name]":"Butte","[Polling Place Name]":"Butte Elementary School","Address":"4006 S Butte Rd","City":"Palmer","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.00616,61.537851]}}
+,
+{"type":"Feature",
+"id":181,"properties":{"[House District]":"25","[Precinct Number]":"25-310","[Precinct Name]":"Greater Palmer","[Polling Place Name]":"Palmer Community Center","Address":"610 S Valley Way","City":"Palmer","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.11328,61.599625]}}
+,
+{"type":"Feature",
+"id":182,"properties":{"[House District]":"25","[Precinct Number]":"25-315","[Precinct Name]":"Lazy Mountain","[Polling Place Name]":"Lazy Mountain Bible Church","Address":"16005 E Shawn Dr","City":"Palmer","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.04709,61.611233]}}
+,
+{"type":"Feature",
+"id":183,"properties":{"[House District]":"25","[Precinct Number]":"25-320","[Precinct Name]":"Palmer City No. 1","[Polling Place Name]":"Matsu Borough Building","Address":"350 E Dahlia Ave","City":"Palmer","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.10805,61.600022]}}
+,
+{"type":"Feature",
+"id":184,"properties":{"[House District]":"25","[Precinct Number]":"25-325","[Precinct Name]":"Palmer City No. 2","[Polling Place Name]":"Matsu School District Building","Address":"501 N Gulkana St","City":"Palmer","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.10302,61.611011]}}
+,
+{"type":"Feature",
+"id":185,"properties":{"[House District]":"25","[Precinct Number]":"25-330","[Precinct Name]":"Springer Loop","[Polling Place Name]":"Palmer 7th Day Adventist Church","Address":"2238 S Inner Springer Lp","City":"Palmer","[Last Updated]":"July 15, 2022 at 10:34 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.1483,61.570672]}}
+,
+{"type":"Feature",
+"id":186,"properties":{"[House District]":"25","[Precinct Number]":"25-335","[Precinct Name]":"Walby","[Polling Place Name]":"Colony High School","Address":"9550 E Bogard Rd","City":"Palmer","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.21115,61.609909]}}
+,
+{"type":"Feature",
+"id":192,"properties":{"[House District]":"26","[Precinct Number]":"26-375","[Precinct Name]":"Mat-Su Campus","[Polling Place Name]":"Matanuska Susitna College","Address":"8295 E College Dr","City":"Palmer","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.24375,61.579756]}}
+,
+{"type":"Feature",
+"id":200,"properties":{"[House District]":"28","[Precinct Number]":"28-455","[Precinct Name]":"Lakes No. 2","[Polling Place Name]":"Pioneer Peak Elementary School","Address":"1959 N Stringfield Rd","City":"Palmer","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.24401,61.601182]}}
+,
+{"type":"Feature",
+"id":204,"properties":{"[House District]":"28","[Precinct Number]":"28-475","[Precinct Name]":"Trunk","[Polling Place Name]":"Pioneer Peak Elementary School","Address":"1959 N Stringfield Rd","City":"Palmer","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.24401,61.601182]}}
+,
+{"type":"Feature",
+"id":206,"properties":{"[House District]":"29","[Precinct Number]":"29-505","[Precinct Name]":"Farm Loop","[Polling Place Name]":"Church on the Rock","Address":"619 E Scott Road","City":"Palmer","[Last Updated]":"May 7, 2026 at 11:45 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.12556,61.610318]}}
+,
+{"type":"Feature",
+"id":207,"properties":{"[House District]":"29","[Precinct Number]":"29-510","[Precinct Name]":"Fishhook","[Polling Place Name]":"Government Peak Chalet","Address":"10690 N Mountain Trails Dr","City":"Palmer","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.27905,61.700281]}}
+,
+{"type":"Feature",
+"id":189,"properties":{"[House District]":"26","[Precinct Number]":"26-360","[Precinct Name]":"Knik Goose Bay No. 1","[Polling Place Name]":"Knik Elementary School","Address":"6350 W Hollywood Rd","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.6108,61.541572]}}
+,
+{"type":"Feature",
+"id":190,"properties":{"[House District]":"26","[Precinct Number]":"26-365","[Precinct Name]":"Knik Goose Bay No. 2","[Polling Place Name]":"Settlers Bay Community Church","Address":"6865 W Dewlap Cir","City":"Wasilla","[Last Updated]":"May 7, 2026 at 12:29 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.62282,61.517215]}}
+,
+{"type":"Feature",
+"id":191,"properties":{"[House District]":"26","[Precinct Number]":"26-370","[Precinct Name]":"Knik Goose Bay No. 3","[Polling Place Name]":"Knik Elementary School","Address":"6350 W Hollywood Rd","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.6108,61.541572]}}
+,
+{"type":"Feature",
+"id":194,"properties":{"[House District]":"27","[Precinct Number]":"27-405","[Precinct Name]":"Foothills","[Polling Place Name]":"American Legion Post 35","Address":"4180 W Tweed Ct","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.55524,61.585384]}}
+,
+{"type":"Feature",
+"id":195,"properties":{"[House District]":"27","[Precinct Number]":"27-410","[Precinct Name]":"Meadow Lakes No. 1","[Polling Place Name]":"Meadow Lakes Elementary School","Address":"1741 N Pittman Rd","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.62331,61.612147]}}
+,
+{"type":"Feature",
+"id":196,"properties":{"[House District]":"27","[Precinct Number]":"27-415","[Precinct Name]":"Meadow Lakes No. 2","[Polling Place Name]":"West Lakes Fire Department Station 73","Address":"10073 W Parks Hwy","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.70297,61.568879]}}
+,
+{"type":"Feature",
+"id":219,"properties":{"[House District]":"30","[Precinct Number]":"30-570","[Precinct Name]":"East Schrock","[Polling Place Name]":"Pittman Fire House","Address":"1685 N Pittman Rd","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.62697,61.611508]}}
+,
+{"type":"Feature",
+"id":187,"properties":{"[House District]":"26","[Precinct Number]":"26-350","[Precinct Name]":"Fairview No. 1","[Polling Place Name]":"Machentanz Elementary School","Address":"4961 E Nelson Rd","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.32057,61.548157]}}
+,
+{"type":"Feature",
+"id":193,"properties":{"[House District]":"26","[Precinct Number]":"26-380","[Precinct Name]":"Snowshoe","[Polling Place Name]":"Fairview Loop Baptist Church","Address":"3118 W Fairview Lp","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.52465,61.527132]}}
+,
+{"type":"Feature",
+"id":197,"properties":{"[House District]":"27","[Precinct Number]":"27-420","[Precinct Name]":"Wasilla No. 1","[Polling Place Name]":"Wasilla City Hall","Address":"290 E Herning Ave","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.44387,61.582173]}}
+,
+{"type":"Feature",
+"id":199,"properties":{"[House District]":"28","[Precinct Number]":"28-450","[Precinct Name]":"Lakes No. 1","[Polling Place Name]":"Finger Lake Elementary School","Address":"5981 E Eek St","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.30117,61.608528]}}
+,
+{"type":"Feature",
+"id":201,"properties":{"[House District]":"28","[Precinct Number]":"28-460","[Precinct Name]":"Seldon No. 1","[Polling Place Name]":"Tanaina Elementary School","Address":"2550 N Lucille St","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.45097,61.607942]}}
+,
+{"type":"Feature",
+"id":202,"properties":{"[House District]":"28","[Precinct Number]":"28-465","[Precinct Name]":"Seldon No. 2","[Polling Place Name]":"Alcantra National Guard Armory","Address":"3401 E Bogard Rd","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.35973,61.599247]}}
+,
+{"type":"Feature",
+"id":203,"properties":{"[House District]":"28","[Precinct Number]":"28-470","[Precinct Name]":"Seward Meridian","[Polling Place Name]":"White Fields Church","Address":"4800 E Palmer Wasilla Hwy","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.32954,61.584902]}}
+,
+{"type":"Feature",
+"id":205,"properties":{"[House District]":"28","[Precinct Number]":"28-480","[Precinct Name]":"Wasilla Lake","[Polling Place Name]":"Cottonwood Creek Elementary School","Address":"800 N Seward Meridian Pkwy","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.36004,61.589151]}}
+,
+{"type":"Feature",
+"id":208,"properties":{"[House District]":"29","[Precinct Number]":"29-515","[Precinct Name]":"Kings Lake","[Polling Place Name]":"New Location Teeland Middle School","Address":"New Location 2788 N. Seward Meridian Parkway","City":"Wasilla","[Last Updated]":"June 18, 2026 at 3:02 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.36,61.610462]}}
+,
+{"type":"Feature",
+"id":209,"properties":{"[House District]":"29","[Precinct Number]":"29-520","[Precinct Name]":"Lakes No. 3","[Polling Place Name]":"Matsu Career Tech High School","Address":"2472 N Seward Meridian Pkwy","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.36003,61.607762]}}
+,
+{"type":"Feature",
+"id":188,"properties":{"[House District]":"26","[Precinct Number]":"26-355","[Precinct Name]":"Fairview No. 2","[Polling Place Name]":"Central Matsu Fire Station 51","Address":"1911 S Terrace Ct","City":"Wasilla","[Last Updated]":"July 15, 2022 at 10:59 am","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-150.00598,61.349]}}
+,
+{"type":"Feature",
+"id":198,"properties":{"[House District]":"27","[Precinct Number]":"27-425","[Precinct Name]":"Wasilla No. 2","[Polling Place Name]":"Menard Sports Center","Address":"1001 Clapp St","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-149.54108,61.559511]}}
+,
+{"type":"Feature",
+"id":210,"properties":{"[House District]":"29","[Precinct Number]":"29-525","[Precinct Name]":"Sheep Mountain","[Polling Place Name]":"Glacier View Community Center","Address":"Mile 104 Glenn Hwy","City":"Sheep Mountain","[Last Updated]":"July 23, 2026 at 2:46 pm","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":211,"properties":{"[House District]":"29","[Precinct Number]":"29-530","[Precinct Name]":"Sutton","[Polling Place Name]":"Sutton Library","Address":"11301 N Chickaloon Way","City":"Sutton","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-148.87737,61.710814]}}
+,
+{"type":"Feature",
+"id":214,"properties":{"[House District]":"29","[Precinct Number]":"29-545","[Precinct Name]":"Valdez No. 3","[Polling Place Name]":"New Location Valdez Airport","Address":"New Location 300 Airport Road","City":"Valdez","[Last Updated]":"June 18, 2026 at 3:05 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-146.24376,61.130834]}}
+,
+{"type":"Feature",
+"id":212,"properties":{"[House District]":"29","[Precinct Number]":"29-535","[Precinct Name]":"Valdez No. 1","[Polling Place Name]":"Ike Woody Woodman Recreation Center","Address":"414 W Hanagita St","City":"Valdez","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-146.36009,61.136922]}}
+,
+{"type":"Feature",
+"id":213,"properties":{"[House District]":"29","[Precinct Number]":"29-540","[Precinct Name]":"Valdez No. 2","[Polling Place Name]":"Valdez City Council Chambers","Address":"212 Chenega Dr","City":"Valdez","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-146.35411,61.129912]}}
+,
+{"type":"Feature",
+"id":215,"properties":{"[House District]":"30","[Precinct Number]":"30-550","[Precinct Name]":"Anderson/Clear","[Polling Place Name]":"Anderson City Building","Address":"1st Avenue","City":"Anderson","[Last Updated]":"August 5, 2022 at 10:47 am","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-149.18694,64.344167]}}
+,
+{"type":"Feature",
+"id":216,"properties":{"[House District]":"30","[Precinct Number]":"30-555","[Precinct Name]":"Big Lake","[Polling Place Name]":"Faith Bible Fellowship Church","Address":"14225 W Kluane Rd","City":"Big Lake","[Last Updated]":"May 7, 2026 at 11:44 am","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-149.80435,61.545241]}}
+,
+{"type":"Feature",
+"id":217,"properties":{"[House District]":"30","[Precinct Number]":"30-560","[Precinct Name]":"Cantwell","[Polling Place Name]":"Cantwell Community Center","Address":"Parks Hwy","City":"Cantwell","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-148.95083,63.391667]}}
+,
+{"type":"Feature",
+"id":218,"properties":{"[House District]":"30","[Precinct Number]":"30-565","[Precinct Name]":"Denali Park","[Polling Place Name]":"Denali Park Community Center","Address":"Mile 230 Parks Hwy","City":"Denali Park","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-148.67344,63.572867]}}
+,
+{"type":"Feature",
+"id":220,"properties":{"[House District]":"30","[Precinct Number]":"30-575","[Precinct Name]":"Healy","[Polling Place Name]":"Tri Valley Community Center","Address":"5 Healy Spur Rd","City":"Healy","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-149.00408,63.8704]}}
+,
+{"type":"Feature",
+"id":221,"properties":{"[House District]":"30","[Precinct Number]":"30-580","[Precinct Name]":"Houston","[Polling Place Name]":"Houston City Hall","Address":"13878 W Armstrong Rd","City":"Houston","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-149.81806,61.630278]}}
+,
+{"type":"Feature",
+"id":222,"properties":{"[House District]":"30","[Precinct Number]":"30-585","[Precinct Name]":"Knik Goose Bay No. 4","[Polling Place Name]":"Joe Redington High School","Address":"10015 Redington School Rd","City":"Wasilla","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-149.43944,61.581389]}}
+,
+{"type":"Feature",
+"id":223,"properties":{"[House District]":"30","[Precinct Number]":"30-590","[Precinct Name]":"Trapper Creek","[Polling Place Name]":"Trapper Creek Elementary School","Address":"6742 E Petersville Rd","City":"Trapper Creek","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-150.3054,62.317211]}}
+,
+{"type":"Feature",
+"id":224,"properties":{"[House District]":"30","[Precinct Number]":"30-595","[Precinct Name]":"Susitna","[Polling Place Name]":"Susitna Valley High School","Address":"42728 S Parks Hwy","City":"Talkeetna","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-150.03936,62.133595]}}
+,
+{"type":"Feature",
+"id":225,"properties":{"[House District]":"30","[Precinct Number]":"30-600","[Precinct Name]":"Talkeetna","[Polling Place Name]":"Talkeetna Public Library","Address":"24645 Talkeetna Spur Rd","City":"Talkeetna","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-150.07883,62.296545]}}
+,
+{"type":"Feature",
+"id":226,"properties":{"[House District]":"30","[Precinct Number]":"30-605","[Precinct Name]":"Willow","[Polling Place Name]":"Willow Community Center","Address":"23557 W. Willow Community Center Cir.","City":"Willow","[Last Updated]":"September 9, 2024 at 12:06 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-150.04794,61.745458]}}
+,
+{"type":"Feature",
+"id":245,"properties":{"[House District]":"34","[Precinct Number]":"34-263","[Precinct Name]":"Steele Creek","[Polling Place Name]":"Weller Elementary School","Address":"635 Elementary Drive","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.58885,64.887967]}}
+,
+{"type":"Feature",
+"id":248,"properties":{"[House District]":"34","[Precinct Number]":"34-280","[Precinct Name]":"Two Rivers","[Polling Place Name]":"Two Rivers Community Center","Address":"7234 Anders Avenue","City":"Two Rivers","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-146.88817,64.877828]}}
+,
+{"type":"Feature",
+"id":227,"properties":{"[House District]":"31","[Precinct Number]":"31-446","[Precinct Name]":"Aurora","[Polling Place Name]":"TVSF – George Gasser Hall","Address":"1800 College Road","City":"Fairbanks","[Last Updated]":"August 19, 2025 at 8:54 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.75824,64.863414]}}
+,
+{"type":"Feature",
+"id":243,"properties":{"[House District]":"34","[Precinct Number]":"34-240","[Precinct Name]":"Farmers Loop","[Polling Place Name]":"Seventh Day Adventist Church","Address":"1811 Farmers Loop Road","City":"Fairbanks","[Last Updated]":"September 6, 2023 at 2:06 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.82369,64.874046]}}
+,
+{"type":"Feature",
+"id":249,"properties":{"[House District]":"35","[Precinct Number]":"35-580","[Precinct Name]":"Airport","[Polling Place Name]":"Kornfeind Training Center","Address":"4782 Dale Road","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.86506,64.823868]}}
+,
+{"type":"Feature",
+"id":250,"properties":{"[House District]":"35","[Precinct Number]":"35-582","[Precinct Name]":"Chena","[Polling Place Name]":"Faith Baptist Church","Address":"910 Chena Pump Road","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.89151,64.827295]}}
+,
+{"type":"Feature",
+"id":252,"properties":{"[House District]":"35","[Precinct Number]":"35-586","[Precinct Name]":"Geist","[Polling Place Name]":"New Location University Community Presbyterian Church","Address":"New Location 3510 College Rd","City":"Fairbanks","[Last Updated]":"June 5, 2026 at 9:31 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.80841,64.856394]}}
+,
+{"type":"Feature",
+"id":254,"properties":{"[House District]":"35","[Precinct Number]":"35-592","[Precinct Name]":"Shanly","[Polling Place Name]":"Beaver Sports","Address":"3480 College Road","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.80752,64.856484]}}
+,
+{"type":"Feature",
+"id":255,"properties":{"[House District]":"35","[Precinct Number]":"35-595","[Precinct Name]":"University Hills","[Polling Place Name]":"Effie Kokrine Charter School","Address":"601 Loftus Road","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.84386,64.846326]}}
+,
+{"type":"Feature",
+"id":256,"properties":{"[House District]":"35","[Precinct Number]":"35-596","[Precinct Name]":"University West","[Polling Place Name]":"Woodriver Elementary School","Address":"5000 Palo Verde Avenue","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.86836,64.838709]}}
+,
+{"type":"Feature",
+"id":257,"properties":{"[House District]":"36","[Precinct Number]":"36-001","[Precinct Name]":"Goldstream No. 1","[Polling Place Name]":"Chena Goldstream Fire Station 3","Address":"1300 Goldstream Road","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.78777,64.943776]}}
+,
+{"type":"Feature",
+"id":258,"properties":{"[House District]":"36","[Precinct Number]":"36-002","[Precinct Name]":"Goldstream No. 2","[Polling Place Name]":"Ken Kunkel Community Center","Address":"2645 Goldstream Road","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.91444,64.913588]}}
+,
+{"type":"Feature",
+"id":233,"properties":{"[House District]":"32","[Precinct Number]":"32-375","[Precinct Name]":"Fort Wainwright","[Polling Place Name]":"Last Frontier Community Activity Center","Address":"1044 Apple St","City":"Fort Wainwright","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.61252,64.843121]}}
+,
+{"type":"Feature",
+"id":228,"properties":{"[House District]":"31","[Precinct Number]":"31-455","[Precinct Name]":"Fairbanks No. 1","[Polling Place Name]":"Noel Wien Library","Address":"1215 Cowles Street","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.73869,64.838222]}}
+,
+{"type":"Feature",
+"id":229,"properties":{"[House District]":"31","[Precinct Number]":"31-480","[Precinct Name]":"Fairbanks No. 2","[Polling Place Name]":"Pioneer Park Centennial Center","Address":"2300 Airport Way","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.77677,64.837048]}}
+,
+{"type":"Feature",
+"id":230,"properties":{"[House District]":"31","[Precinct Number]":"31-485","[Precinct Name]":"Fairbanks No. 3","[Polling Place Name]":"Shoppers Forum","Address":"1255 Airport Way","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.74471,64.836627]}}
+,
+{"type":"Feature",
+"id":231,"properties":{"[House District]":"32","[Precinct Number]":"32-355","[Precinct Name]":"Fairbanks No. 4","[Polling Place Name]":"Farewell Avenue Christian Church","Address":"100 Farewell Avenue","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.68947,64.844758]}}
+,
+{"type":"Feature",
+"id":232,"properties":{"[House District]":"32","[Precinct Number]":"32-365","[Precinct Name]":"Fairbanks No. 5","[Polling Place Name]":"Tanana Middle School","Address":"600 Trainor Gate Road","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.66532,64.844441]}}
+,
+{"type":"Feature",
+"id":246,"properties":{"[House District]":"34","[Precinct Number]":"34-265","[Precinct Name]":"Steese","[Polling Place Name]":"Bentley Mall","Address":"32 College Road","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.70304,64.850629]}}
+,
+{"type":"Feature",
+"id":247,"properties":{"[House District]":"34","[Precinct Number]":"34-270","[Precinct Name]":"Summit","[Polling Place Name]":"Bentley Mall","Address":"32 College Road","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.70304,64.850629]}}
+,
+{"type":"Feature",
+"id":253,"properties":{"[House District]":"35","[Precinct Number]":"35-587","[Precinct Name]":"Lakeview","[Polling Place Name]":"Genes Chrysler Center","Address":"3400 S Cushman Street","City":"Fairbanks","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.71093,64.813971]}}
+,
+{"type":"Feature",
+"id":234,"properties":{"[House District]":"32","[Precinct Number]":"32-385","[Precinct Name]":"Badger No. 2","[Polling Place Name]":"Badger Plaza","Address":"771 Badger Road","City":"North Pole","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.56761,64.818234]}}
+,
+{"type":"Feature",
+"id":235,"properties":{"[House District]":"33","[Precinct Number]":"33-130","[Precinct Name]":"Badger No. 1","[Polling Place Name]":"New Hope Methodist Presbyterian Church","Address":"2371 Bradway Road","City":"North Pole","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.40669,64.805754]}}
+,
+{"type":"Feature",
+"id":237,"properties":{"[House District]":"33","[Precinct Number]":"33-155","[Precinct Name]":"Moose Creek","[Polling Place Name]":"Eielson Church of Christ","Address":"3445 Old Richardson Hwy","City":"North Pole","[Last Updated]":"May 7, 2026 at 11:45 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.16616,64.71306]}}
+,
+{"type":"Feature",
+"id":238,"properties":{"[House District]":"33","[Precinct Number]":"33-165","[Precinct Name]":"Newby","[Polling Place Name]":"North Pole Plaza","Address":"301 N Santa Claus Lane","City":"North Pole","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.35286,64.756584]}}
+,
+{"type":"Feature",
+"id":239,"properties":{"[House District]":"33","[Precinct Number]":"33-175","[Precinct Name]":"North Pole","[Polling Place Name]":"North Pole City Hall","Address":"125 Snowman Lane","City":"North Pole","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.35094,64.755218]}}
+,
+{"type":"Feature",
+"id":240,"properties":{"[House District]":"33","[Precinct Number]":"33-183","[Precinct Name]":"Plack","[Polling Place Name]":"North Pole Plaza","Address":"301 N Santa Claus Lane","City":"North Pole","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.35286,64.756584]}}
+,
+{"type":"Feature",
+"id":242,"properties":{"[House District]":"34","[Precinct Number]":"34-238","[Precinct Name]":"Eielson Farm Road","[Polling Place Name]":"Eielson Church of Christ","Address":"3445 Old Richardson Hwy","City":"North Pole","[Last Updated]":"May 7, 2026 at 11:44 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-147.16616,64.71306]}}
+,
+{"type":"Feature",
+"id":236,"properties":{"[House District]":"33","[Precinct Number]":"33-135","[Precinct Name]":"Chena Lakes","[Polling Place Name]":"Santa Senior Center","Address":"101 5th Avenue","City":"North Pole","[Last Updated]":"August 5, 2022 at 10:46 am","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-147.3505,64.750689]}}
+,
+{"type":"Feature",
+"id":241,"properties":{"[House District]":"34","[Precinct Number]":"34-235","[Precinct Name]":"Eielson","[Polling Place Name]":"Eielson Air Force Base Exchange","Address":"451 Broadway Avenue","City":"Eielson Afb","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-147.0708,64.676242]}}
+,
+{"type":"Feature",
+"id":244,"properties":{"[House District]":"34","[Precinct Number]":"34-260","[Precinct Name]":"Salcha","[Polling Place Name]":"Salcha Elementary School","Address":"8530 Richardson Highway","City":"Salcha","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-146.97901,64.48277]}}
+,
+{"type":"Feature",
+"id":251,"properties":{"[House District]":"35","[Precinct Number]":"35-584","[Precinct Name]":"Ester","[Polling Place Name]":"Ursa Major Distilling","Address":"2922 Parks Highway","City":"Ester","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-148.01444,64.847222]}}
+,
+{"type":"Feature",
+"id":259,"properties":{"[House District]":"36","[Precinct Number]":"36-010","[Precinct Name]":"Allakaket","[Polling Place Name]":"Allakaket Tribal Office","Address":null,"City":"Allakaket","[Last Updated]":"May 7, 2026 at 1:31 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-152.64556,66.565556]}}
+,
+{"type":"Feature",
+"id":260,"properties":{"[House District]":"36","[Precinct Number]":"36-014","[Precinct Name]":"Anvik","[Polling Place Name]":"Anvik City Building (Community Hall)","Address":null,"City":"Anvik","[Last Updated]":"April 7, 2026 at 10:11 am","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-160.20667,62.656111]}}
+,
+{"type":"Feature",
+"id":261,"properties":{"[House District]":"36","[Precinct Number]":"36-018","[Precinct Name]":"Arctic Village","[Polling Place Name]":"Arctic Village Tribal Council","Address":null,"City":"Arctic Village","[Last Updated]":"May 7, 2026 at 1:32 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-145.53778,68.126944]}}
+,
+{"type":"Feature",
+"id":262,"properties":{"[House District]":"36","[Precinct Number]":"36-022","[Precinct Name]":"Beaver","[Polling Place Name]":"Beaver Council House","Address":"310 River Rd","City":"Beaver","[Last Updated]":"November 5, 2024 at 12:37 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-147.39639,66.359444]}}
+,
+{"type":"Feature",
+"id":263,"properties":{"[House District]":"36","[Precinct Number]":"36-026","[Precinct Name]":"Bettles","[Polling Place Name]":"Bettles Fire Station","Address":null,"City":"Bettles","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-151.51611,66.918889]}}
+,
+{"type":"Feature",
+"id":264,"properties":{"[House District]":"36","[Precinct Number]":"36-034","[Precinct Name]":"Central","[Polling Place Name]":"New Location Central District Museum","Address":"New Location 128 Steese Highway","City":"Central","[Last Updated]":"June 5, 2026 at 9:30 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-144.81504,65.57098]}}
+,
+{"type":"Feature",
+"id":265,"properties":{"[House District]":"36","[Precinct Number]":"36-038","[Precinct Name]":"Chistochina","[Polling Place Name]":"Slana League Building","Address":"Mi 64 Tok Cutoff","City":"Slana","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-143.96111,62.706944]}}
+,
+{"type":"Feature",
+"id":266,"properties":{"[House District]":"36","[Precinct Number]":"36-042","[Precinct Name]":"Circle","[Polling Place Name]":"Circle Tribal Council","Address":null,"City":"Circle","[Last Updated]":"May 7, 2026 at 11:44 am","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-144.06056,65.825556]}}
+,
+{"type":"Feature",
+"id":267,"properties":{"[House District]":"36","[Precinct Number]":"36-046","[Precinct Name]":"Copper Center","[Polling Place Name]":"Native Village Of Kluti Kaah","Address":"Old Richardson Highway","City":"Copper Center","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-145.32973,61.97696]}}
+,
+{"type":"Feature",
+"id":268,"properties":{"[House District]":"36","[Precinct Number]":"36-050","[Precinct Name]":"Delta Junction","[Polling Place Name]":"Delta Junction Community Center","Address":"2287 Deborah Street","City":"Delta Junction","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-145.73808,64.046395]}}
+,
+{"type":"Feature",
+"id":269,"properties":{"[House District]":"36","[Precinct Number]":"36-054","[Precinct Name]":"Deltana","[Polling Place Name]":"Delta Junction Community Center","Address":"2287 Deborah Street","City":"Delta Junction","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-145.73808,64.046395]}}
+,
+{"type":"Feature",
+"id":270,"properties":{"[House District]":"36","[Precinct Number]":"36-058","[Precinct Name]":"Dot Lake","[Polling Place Name]":"Dot Lake School","Address":"1360 Alaska Highway","City":"Dot Lake","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-144.03376,63.642236]}}
+,
+{"type":"Feature",
+"id":271,"properties":{"[House District]":"36","[Precinct Number]":"36-062","[Precinct Name]":"Eagle","[Polling Place Name]":"Eagle Public Library","Address":null,"City":"Eagle","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-141.2,64.788056]}}
+,
+{"type":"Feature",
+"id":272,"properties":{"[House District]":"36","[Precinct Number]":"36-066","[Precinct Name]":"Fort Yukon","[Polling Place Name]":"City of Fort Yukon","Address":"East 7th Avenue","City":"Fort Yukon","[Last Updated]":"September 29, 2025 at 2:27 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-145.27389,66.564722]}}
+,
+{"type":"Feature",
+"id":273,"properties":{"[House District]":"36","[Precinct Number]":"36-070","[Precinct Name]":"Gakona","[Polling Place Name]":"Gakona Volunteer Fire Department","Address":"Mi 2.2 Tok Cutoff","City":"Gakona","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-145.30194,62.301944]}}
+,
+{"type":"Feature",
+"id":274,"properties":{"[House District]":"36","[Precinct Number]":"36-074","[Precinct Name]":"Galena","[Polling Place Name]":"Galena City Hall","Address":null,"City":"Galena","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-156.9275,64.733333]}}
+,
+{"type":"Feature",
+"id":275,"properties":{"[House District]":"36","[Precinct Number]":"36-078","[Precinct Name]":"Glennallen","[Polling Place Name]":"Copper Valley Community Library","Address":"Mi 186 Glenn Highway","City":"Glennallen","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-145.56241,62.109396]}}
+,
+{"type":"Feature",
+"id":276,"properties":{"[House District]":"36","[Precinct Number]":"36-082","[Precinct Name]":"Grayling","[Polling Place Name]":"Grayling Community Hall","Address":null,"City":"Grayling","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-160.06472,62.903611]}}
+,
+{"type":"Feature",
+"id":277,"properties":{"[House District]":"36","[Precinct Number]":"36-086","[Precinct Name]":"Holy Cross","[Polling Place Name]":"Holy Cross Community Hall","Address":null,"City":"Holy Cross","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-159.77139,62.199444]}}
+,
+{"type":"Feature",
+"id":278,"properties":{"[House District]":"36","[Precinct Number]":"36-090","[Precinct Name]":"Hughes","[Polling Place Name]":"HUGHES VILLAGE OFFICE","Address":null,"City":"Hughes","[Last Updated]":"November 5, 2024 at 12:42 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-154.25556,66.048889]}}
+,
+{"type":"Feature",
+"id":279,"properties":{"[House District]":"36","[Precinct Number]":"36-094","[Precinct Name]":"Huslia","[Polling Place Name]":"Huslia Community Hall","Address":null,"City":"Huslia","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-156.39972,65.698611]}}
+,
+{"type":"Feature",
+"id":280,"properties":{"[House District]":"36","[Precinct Number]":"36-098","[Precinct Name]":"Kaltag","[Polling Place Name]":"Kaltag City Hall","Address":null,"City":"Kaltag","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-158.72194,64.327222]}}
+,
+{"type":"Feature",
+"id":281,"properties":{"[House District]":"36","[Precinct Number]":"36-102","[Precinct Name]":"Kenny Lake","[Polling Place Name]":"Kenny Lake Community Hall","Address":null,"City":"Kenny Lake","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-144.94833,61.719167]}}
+,
+{"type":"Feature",
+"id":282,"properties":{"[House District]":"36","[Precinct Number]":"36-106","[Precinct Name]":"Koyukuk","[Polling Place Name]":"Koyukuk City Office","Address":null,"City":"Koyukuk","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-157.70083,64.880278]}}
+,
+{"type":"Feature",
+"id":283,"properties":{"[House District]":"36","[Precinct Number]":"36-110","[Precinct Name]":"Manley","[Polling Place Name]":"Manley Hot Springs Community Hall","Address":null,"City":"Manley Hot Springs","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-150.63389,65.001111]}}
+,
+{"type":"Feature",
+"id":284,"properties":{"[House District]":"36","[Precinct Number]":"36-114","[Precinct Name]":"Mcgrath","[Polling Place Name]":"Iasd Museum Transportation Exhibit Hall","Address":"90 Chinana Avenue","City":"Mcgrath","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-155.55946,62.9439]}}
+,
+{"type":"Feature",
+"id":285,"properties":{"[House District]":"36","[Precinct Number]":"36-118","[Precinct Name]":"Mentasta","[Polling Place Name]":"Mentasta Lake School","Address":null,"City":"Mentasta Lake","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-143.76917,62.921111]}}
+,
+{"type":"Feature",
+"id":286,"properties":{"[House District]":"36","[Precinct Number]":"36-122","[Precinct Name]":"Minto","[Polling Place Name]":"Minto Lakeview Lodge","Address":null,"City":"Minto","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-149.34971,65.150411]}}
+,
+{"type":"Feature",
+"id":287,"properties":{"[House District]":"36","[Precinct Number]":"36-126","[Precinct Name]":"Nenana","[Polling Place Name]":"Nenana Civic Center","Address":"A Street","City":"Nenana","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-149.09306,64.563889]}}
+,
+{"type":"Feature",
+"id":288,"properties":{"[House District]":"36","[Precinct Number]":"36-130","[Precinct Name]":"Nikolai","[Polling Place Name]":"Nikolai City Office","Address":null,"City":"Nikolai","[Last Updated]":"May 7, 2026 at 11:44 am","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-154.375,63.013333]}}
+,
+{"type":"Feature",
+"id":289,"properties":{"[House District]":"36","[Precinct Number]":"36-134","[Precinct Name]":"Northway","[Polling Place Name]":"Northway Community Center","Address":null,"City":"Northway","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-141.93722,62.961667]}}
+,
+{"type":"Feature",
+"id":290,"properties":{"[House District]":"36","[Precinct Number]":"36-138","[Precinct Name]":"Nulato","[Polling Place Name]":"Nulato Elders Office","Address":null,"City":"Nulato","[Last Updated]":"May 7, 2026 at 11:45 am","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-158.10306,64.719444]}}
+,
+{"type":"Feature",
+"id":291,"properties":{"[House District]":"36","[Precinct Number]":"36-142","[Precinct Name]":"Ruby","[Polling Place Name]":"Ruby Community Hall","Address":"6 Goodtime Road","City":"Ruby","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-155.49477,64.7375]}}
+,
+{"type":"Feature",
+"id":292,"properties":{"[House District]":"36","[Precinct Number]":"36-146","[Precinct Name]":"Shageluk","[Polling Place Name]":"Shageluk City Building","Address":null,"City":"Shageluk","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-159.56194,62.682222]}}
+,
+{"type":"Feature",
+"id":293,"properties":{"[House District]":"36","[Precinct Number]":"36-162","[Precinct Name]":"Tanana","[Polling Place Name]":"TANANA CITY OFFICE","Address":null,"City":"Tanana","[Last Updated]":"November 5, 2024 at 12:43 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-152.07889,65.171944]}}
+,
+{"type":"Feature",
+"id":294,"properties":{"[House District]":"36","[Precinct Number]":"36-166","[Precinct Name]":"Tetlin","[Polling Place Name]":"Tetlin Community Hall","Address":null,"City":"Tetlin","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-142.52388,63.135051]}}
+,
+{"type":"Feature",
+"id":295,"properties":{"[House District]":"36","[Precinct Number]":"36-170","[Precinct Name]":"Tok","[Polling Place Name]":"Tok Senior Center","Address":null,"City":"Tok","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-142.98556,63.336667]}}
+,
+{"type":"Feature",
+"id":296,"properties":{"[House District]":"36","[Precinct Number]":"36-174","[Precinct Name]":"Venetie","[Polling Place Name]":"Venetie Community Hall","Address":null,"City":"Venetie","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-146.41861,67.013889]}}
+,
+{"type":"Feature",
+"id":297,"properties":{"[House District]":"37","[Precinct Number]":"37-700","[Precinct Name]":"Akutan","[Polling Place Name]":"Akutan City Hall","Address":"109 Windy Way","City":"Akutan","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-165.77306,54.135556]}}
+,
+{"type":"Feature",
+"id":298,"properties":{"[House District]":"37","[Precinct Number]":"37-702","[Precinct Name]":"Aleknagik","[Polling Place Name]":"Aleknagik City Hall","Address":"33 Main Street","City":"Aleknagik","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-158.62077,59.279461]}}
+,
+{"type":"Feature",
+"id":299,"properties":{"[House District]":"37","[Precinct Number]":"37-704","[Precinct Name]":"Aleutians No. 1","[Polling Place Name]":"Bob Reeves High School","Address":"100 Mechanic Rd","City":"Adak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-176.64005,51.86992]}}
+,
+{"type":"Feature",
+"id":300,"properties":{"[House District]":"37","[Precinct Number]":"37-706","[Precinct Name]":"Aleutians No. 2","[Polling Place Name]":"Unalaska City Hall","Address":"43 Raven Way","City":"Unalaska","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-166.53757,53.872536]}}
+,
+{"type":"Feature",
+"id":301,"properties":{"[House District]":"37","[Precinct Number]":"37-707","[Precinct Name]":"Aniak","[Polling Place Name]":"Aniak Community Hall","Address":"1 Community Hall Road","City":"Aniak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-159.56472,61.58119]}}
+,
+{"type":"Feature",
+"id":302,"properties":{"[House District]":"37","[Precinct Number]":"37-708","[Precinct Name]":"Chignik","[Polling Place Name]":"Chignik Community Hall","Address":"101 Cemetary Road","City":"Chignik","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-158.40268,56.294816]}}
+,
+{"type":"Feature",
+"id":303,"properties":{"[House District]":"37","[Precinct Number]":"37-709","[Precinct Name]":"Chuathbaluk","[Polling Place Name]":"Chuathbaluk Community Hall","Address":"Community Center Drive","City":"Chuathbaluk","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-159.245,61.571944]}}
+,
+{"type":"Feature",
+"id":304,"properties":{"[House District]":"37","[Precinct Number]":"37-710","[Precinct Name]":"Clarks Point","[Polling Place Name]":"Clark’s Point Village Council Office","Address":"Saguyak Ave","City":null,"[Last Updated]":"August 5, 2022 at 10:43 am","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":305,"properties":{"[House District]":"37","[Precinct Number]":"37-712","[Precinct Name]":"Cold Bay","[Polling Place Name]":"Cold Bay Municipal Building","Address":"10 Baranov Street","City":"Cold Bay","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-162.7071,55.20599]}}
+,
+{"type":"Feature",
+"id":306,"properties":{"[House District]":"37","[Precinct Number]":"37-713","[Precinct Name]":"Crooked Creek","[Polling Place Name]":"Crooked Creek Village Office","Address":"404 Main Street","City":"Crooked Creek","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-158.11083,61.87]}}
+,
+{"type":"Feature",
+"id":307,"properties":{"[House District]":"37","[Precinct Number]":"37-714","[Precinct Name]":"Dillingham","[Polling Place Name]":"Dillingham City Hall","Address":"141 Main St","City":"Dillingham","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-158.46401,59.039103]}}
+,
+{"type":"Feature",
+"id":308,"properties":{"[House District]":"37","[Precinct Number]":"37-716","[Precinct Name]":"Egegik","[Polling Place Name]":"Egegik City Hall","Address":"189 Airport Rd","City":"Egegik","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-157.3735,58.19498]}}
+,
+{"type":"Feature",
+"id":309,"properties":{"[House District]":"37","[Precinct Number]":"37-718","[Precinct Name]":"Ekwok","[Polling Place Name]":"Ekwok City Hall","Address":"101 Main Street","City":"Ekwok","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-157.47528,59.349722]}}
+,
+{"type":"Feature",
+"id":310,"properties":{"[House District]":"37","[Precinct Number]":"37-719","[Precinct Name]":"Goodnews Bay","[Polling Place Name]":"City Office Chambers","Address":null,"City":"Goodnews Bay","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.5875,59.118889]}}
+,
+{"type":"Feature",
+"id":311,"properties":{"[House District]":"37","[Precinct Number]":"37-720","[Precinct Name]":"King Cove","[Polling Place Name]":"King Cove Gymnasium","Address":null,"City":"King Cove","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.31028,55.061667]}}
+,
+{"type":"Feature",
+"id":312,"properties":{"[House District]":"37","[Precinct Number]":"37-722","[Precinct Name]":"King Salmon","[Polling Place Name]":"King Salmon Village Council Building","Address":"Mi .5 King Salmon Heights Road","City":"King Salmon","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-156.69355,58.7072]}}
+,
+{"type":"Feature",
+"id":313,"properties":{"[House District]":"37","[Precinct Number]":"37-724","[Precinct Name]":"Koliganek","[Polling Place Name]":"Koliganek Village Council Bldg","Address":"5057 Main Rd","City":"Koliganek","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-158.45551,59.040139]}}
+,
+{"type":"Feature",
+"id":314,"properties":{"[House District]":"37","[Precinct Number]":"37-726","[Precinct Name]":"Lake Iliamna No. 1","[Polling Place Name]":"Newhalen City Hall","Address":null,"City":"Newhalen","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-154.89722,59.72]}}
+,
+{"type":"Feature",
+"id":315,"properties":{"[House District]":"37","[Precinct Number]":"37-728","[Precinct Name]":"Lake Iliamna No. 2","[Polling Place Name]":"Kokhanok Community Hall","Address":"2 Bayview Drive","City":"Kokhanok","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-154.75583,59.441944]}}
+,
+{"type":"Feature",
+"id":316,"properties":{"[House District]":"37","[Precinct Number]":"37-730","[Precinct Name]":"Levelock","[Polling Place Name]":"Levelock Rainbow Hall","Address":null,"City":"Levelock","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-156.85889,59.114167]}}
+,
+{"type":"Feature",
+"id":317,"properties":{"[House District]":"37","[Precinct Number]":"37-731","[Precinct Name]":"Lower Kalskag","[Polling Place Name]":"Lower Kalskag Community Hall","Address":"69 Main Street","City":"Lower Kalskag","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-160.36484,61.51181]}}
+,
+{"type":"Feature",
+"id":318,"properties":{"[House District]":"37","[Precinct Number]":"37-732","[Precinct Name]":"Manokotak","[Polling Place Name]":"Manokotak City Office","Address":"Salmon St","City":"Manokotak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-159.05833,58.981389]}}
+,
+{"type":"Feature",
+"id":319,"properties":{"[House District]":"37","[Precinct Number]":"37-734","[Precinct Name]":"Naknek","[Polling Place Name]":"Naknek Community Hall","Address":"1 Main Street","City":"Naknek","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-157.01389,58.728333]}}
+,
+{"type":"Feature",
+"id":320,"properties":{"[House District]":"37","[Precinct Number]":"37-736","[Precinct Name]":"New Stuyahok","[Polling Place Name]":"New Stuyahok City Hall","Address":"3rd St","City":"New Stuyahok","[Last Updated]":"August 5, 2022 at 10:41 am","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-157.31194,59.452778]}}
+,
+{"type":"Feature",
+"id":321,"properties":{"[House District]":"37","[Precinct Number]":"37-738","[Precinct Name]":"Nondalton","[Polling Place Name]":"Nondalton Community Hall","Address":"49 Main Street","City":"Nondalton","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-154.85066,59.96898]}}
+,
+{"type":"Feature",
+"id":322,"properties":{"[House District]":"37","[Precinct Number]":"37-740","[Precinct Name]":"Pedro Bay","[Polling Place Name]":"Pedro Bay Village Council Bldg","Address":"2516 Mountain Circle","City":"Pedro Bay","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-154.10611,59.787222]}}
+,
+{"type":"Feature",
+"id":323,"properties":{"[House District]":"37","[Precinct Number]":"37-742","[Precinct Name]":"Port Heiden","[Polling Place Name]":"Port Heiden Community Building","Address":"2200 James St","City":"Port Heiden","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-158.62497,56.932561]}}
+,
+{"type":"Feature",
+"id":324,"properties":{"[House District]":"37","[Precinct Number]":"37-744","[Precinct Name]":"Sand Point","[Polling Place Name]":"Sand Point City Hall","Address":"249 Main Street","City":"Sand Point","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-160.50065,55.335722]}}
+,
+{"type":"Feature",
+"id":325,"properties":{"[House District]":"37","[Precinct Number]":"37-746","[Precinct Name]":"Sleetmute","[Polling Place Name]":"Sleetmute Community Building","Address":"109 Main St","City":"Sleetmute","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-157.16972,61.7025]}}
+,
+{"type":"Feature",
+"id":326,"properties":{"[House District]":"37","[Precinct Number]":"37-748","[Precinct Name]":"South Naknek","[Polling Place Name]":"South Naknek Community Hall","Address":"113 Airport St","City":"South Naknek","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-157.00324,58.71567]}}
+,
+{"type":"Feature",
+"id":327,"properties":{"[House District]":"37","[Precinct Number]":"37-750","[Precinct Name]":"St George Island","[Polling Place Name]":"St George City Office","Address":null,"City":"St George Island","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":328,"properties":{"[House District]":"37","[Precinct Number]":"37-752","[Precinct Name]":"St Paul Island","[Polling Place Name]":"St Paul City Auditorium","Address":"100 Gorbach Rd","City":"St Paul Island","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-170.28297,57.1208]}}
+,
+{"type":"Feature",
+"id":329,"properties":{"[House District]":"37","[Precinct Number]":"37-754","[Precinct Name]":"Togiak","[Polling Place Name]":"Togiak City Office","Address":"2nd and G St","City":"Togiak","[Last Updated]":"August 5, 2022 at 10:42 am","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-160.37639,59.061944]}}
+,
+{"type":"Feature",
+"id":330,"properties":{"[House District]":"37","[Precinct Number]":"37-756","[Precinct Name]":"Tyonek","[Polling Place Name]":"Tyonek Community Hall","Address":"100 A Street","City":"Tyonek","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-151.13712,61.06828]}}
+,
+{"type":"Feature",
+"id":331,"properties":{"[House District]":"37","[Precinct Number]":"37-758","[Precinct Name]":"Upper Kalskag","[Polling Place Name]":"Multi Facility Building Tribal Office","Address":"Lot 1 Blk 1 Track C","City":"Kalskag","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":332,"properties":{"[House District]":"38","[Precinct Number]":"38-800","[Precinct Name]":"Akiachak","[Polling Place Name]":"Akiachak Recreation Building","Address":"Main Street","City":"Akiachak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.43139,60.909444]}}
+,
+{"type":"Feature",
+"id":333,"properties":{"[House District]":"38","[Precinct Number]":"38-802","[Precinct Name]":"Akiak","[Polling Place Name]":"Akiak Community Hall","Address":"81 Airport Rd","City":"Akiak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.21389,60.912222]}}
+,
+{"type":"Feature",
+"id":334,"properties":{"[House District]":"38","[Precinct Number]":"38-806","[Precinct Name]":"Atmautluak","[Polling Place Name]":"Atmautluak Community Center","Address":"101 Boardwalk Lane","City":"Atmautluak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.27306,60.866944]}}
+,
+{"type":"Feature",
+"id":335,"properties":{"[House District]":"38","[Precinct Number]":"38-808","[Precinct Name]":"Bethel No. 1","[Polling Place Name]":"Yupiit Piciryarait Cultural Center","Address":"420 Chief Eddie Hoffman Highway","City":"Bethel","[Last Updated]":"September 2, 2026 at 9:50 am","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-161.77113,60.791114]}}
+,
+{"type":"Feature",
+"id":336,"properties":{"[House District]":"38","[Precinct Number]":"38-810","[Precinct Name]":"Bethel No. 2","[Polling Place Name]":"Yupiit Piciryarait Cultural Center","Address":"420 Chief Eddie Hoffman Hwy","City":"Bethel","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-161.77113,60.791114]}}
+,
+{"type":"Feature",
+"id":337,"properties":{"[House District]":"38","[Precinct Number]":"38-812","[Precinct Name]":"Chefornak","[Polling Place Name]":"Chefornak Complex Building","Address":"101 Complex Drive","City":"Chefornak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-164.26583,60.16]}}
+,
+{"type":"Feature",
+"id":338,"properties":{"[House District]":"38","[Precinct Number]":"38-813","[Precinct Name]":"Chevak","[Polling Place Name]":"Jvp Building","Address":"140 Aurora Street","City":"Chevak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-165.58902,61.52781]}}
+,
+{"type":"Feature",
+"id":339,"properties":{"[House District]":"38","[Precinct Number]":"38-818","[Precinct Name]":"Eek","[Polling Place Name]":"Eek City Office","Address":"2 Council St","City":"Eek","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.02444,60.218889]}}
+,
+{"type":"Feature",
+"id":340,"properties":{"[House District]":"38","[Precinct Number]":"38-822","[Precinct Name]":"Kasigluk","[Polling Place Name]":"Kasigluk Community Center","Address":"1 Tangerpagcayaq Road","City":"Kasigluk","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.51806,60.895556]}}
+,
+{"type":"Feature",
+"id":341,"properties":{"[House District]":"38","[Precinct Number]":"38-824","[Precinct Name]":"Kipnuk","[Polling Place Name]":"Kanganak Community Hall","Address":"101 Council Drive","City":"Kipnuk","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-164.04045,59.933802]}}
+,
+{"type":"Feature",
+"id":342,"properties":{"[House District]":"38","[Precinct Number]":"38-826","[Precinct Name]":"Kongiganak","[Polling Place Name]":"Kongiganak Community Center","Address":null,"City":"Kongiganak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.89513,59.953273]}}
+,
+{"type":"Feature",
+"id":343,"properties":{"[House District]":"38","[Precinct Number]":"38-828","[Precinct Name]":"Kwethluk","[Polling Place Name]":"Kwethluk Former High School","Address":"254 Jay Hammond Way","City":"Kwethluk","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.43583,60.812222]}}
+,
+{"type":"Feature",
+"id":344,"properties":{"[House District]":"38","[Precinct Number]":"38-830","[Precinct Name]":"Kwigillingok","[Polling Place Name]":"Kwigillingok Community Hall","Address":null,"City":"Kwigillingok","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-163.13417,59.864444]}}
+,
+{"type":"Feature",
+"id":345,"properties":{"[House District]":"38","[Precinct Number]":"38-836","[Precinct Name]":"Mekoryuk","[Polling Place Name]":"Mekoryuk Old City Office","Address":"29 Airport Road","City":"Mekoryuk","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-166.185,60.388056]}}
+,
+{"type":"Feature",
+"id":346,"properties":{"[House District]":"38","[Precinct Number]":"38-838","[Precinct Name]":"Napakiak","[Polling Place Name]":"Napakiak Bingo Hall","Address":"17 Airport Road","City":"Napakiak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-161.97717,60.69323]}}
+,
+{"type":"Feature",
+"id":347,"properties":{"[House District]":"38","[Precinct Number]":"38-840","[Precinct Name]":"Napaskiak","[Polling Place Name]":"Napaskiak City Office","Address":null,"City":"Napaskiak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.76611,60.708056]}}
+,
+{"type":"Feature",
+"id":348,"properties":{"[House District]":"38","[Precinct Number]":"38-842","[Precinct Name]":"Mertarvik","[Polling Place Name]":"Mertarvik Tribal Office","Address":null,"City":"Mertarvik","[Last Updated]":"August 14, 2024 at 12:42 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-164.49911,60.810993]}}
+,
+{"type":"Feature",
+"id":349,"properties":{"[House District]":"38","[Precinct Number]":"38-844","[Precinct Name]":"Nightmute","[Polling Place Name]":"Nightmute City Office","Address":"Changtaq Street","City":"Nightmute","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-164.72389,60.479444]}}
+,
+{"type":"Feature",
+"id":350,"properties":{"[House District]":"38","[Precinct Number]":"38-846","[Precinct Name]":"Nunapitchuk","[Polling Place Name]":"Ira Gaming Building","Address":"189 Johnson Loop","City":"Nunapitchuk","[Last Updated]":"July 28, 2026 at 11:27 am","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.45944,60.896944]}}
+,
+{"type":"Feature",
+"id":351,"properties":{"[House District]":"38","[Precinct Number]":"38-848","[Precinct Name]":"Quinhagak","[Polling Place Name]":"Qanirtuuq Building","Address":"100 Qanirtuuq Dr","City":"Quinhagak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.91583,59.748889]}}
+,
+{"type":"Feature",
+"id":352,"properties":{"[House District]":"38","[Precinct Number]":"38-852","[Precinct Name]":"Toksook Bay","[Polling Place Name]":"Billy Lincoln Sr Memorial Bldg","Address":null,"City":"Toksook Bay","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-165.10366,60.533775]}}
+,
+{"type":"Feature",
+"id":353,"properties":{"[House District]":"38","[Precinct Number]":"38-854","[Precinct Name]":"Tuluksak","[Polling Place Name]":"Tuluksak Recreation Building","Address":"16 Tuluksak Heights","City":"Tuluksak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-160.96167,61.1025]}}
+,
+{"type":"Feature",
+"id":354,"properties":{"[House District]":"38","[Precinct Number]":"38-856","[Precinct Name]":"Tuntutuliak","[Polling Place Name]":"Tuntutuliak Community Hall","Address":"101 Patluska Street","City":"Tuntutuliak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.66306,60.343056]}}
+,
+{"type":"Feature",
+"id":355,"properties":{"[House District]":"38","[Precinct Number]":"38-858","[Precinct Name]":"Tununak","[Polling Place Name]":"Tununak Ira Building","Address":"77 Main Street","City":"Tununak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-165.25583,60.585556]}}
+,
+{"type":"Feature",
+"id":356,"properties":{"[House District]":"39","[Precinct Number]":"39-900","[Precinct Name]":"Alakanuk","[Polling Place Name]":"Alakanuk Community Hall","Address":"500 Anderson Street","City":"Alakanuk","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-164.63815,62.685695]}}
+,
+{"type":"Feature",
+"id":357,"properties":{"[House District]":"39","[Precinct Number]":"39-902","[Precinct Name]":"Brevig Mission","[Polling Place Name]":"Multi-Purpose Building","Address":"Clarence Road","City":"Brevig Mission","[Last Updated]":"May 7, 2026 at 12:06 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-166.48917,65.334722]}}
+,
+{"type":"Feature",
+"id":358,"properties":{"[House District]":"39","[Precinct Number]":"39-906","[Precinct Name]":"Diomede","[Polling Place Name]":"New Location Diomede City Office","Address":"New Location","City":"Diomede","[Last Updated]":"July 1, 2026 at 3:20 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-168.952,65.7581]}}
+,
+{"type":"Feature",
+"id":359,"properties":{"[House District]":"39","[Precinct Number]":"39-908","[Precinct Name]":"Elim","[Polling Place Name]":"Elim City Building","Address":"101 Hillside Street","City":"Elim","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-162.2604,64.6162]}}
+,
+{"type":"Feature",
+"id":360,"properties":{"[House District]":"39","[Precinct Number]":"39-910","[Precinct Name]":"Emmonak","[Polling Place Name]":"Emmonak Community Center","Address":"09 Emmonak Rd","City":"Emmonak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-164.52771,62.77628]}}
+,
+{"type":"Feature",
+"id":361,"properties":{"[House District]":"39","[Precinct Number]":"39-912","[Precinct Name]":"Gambell","[Polling Place Name]":"Qerngughvik Community Hall","Address":"189 Gravel Street","City":"Gambell","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-171.74111,63.779722]}}
+,
+{"type":"Feature",
+"id":368,"properties":{"[House District]":"39","[Precinct Number]":"39-924","[Precinct Name]":"Nome No. 1","[Polling Place Name]":"Old St. Joe’s","Address":"407 Bering St","City":"Nome","[Last Updated]":"August 5, 2022 at 11:04 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-165.40763,64.501641]}}
+,
+{"type":"Feature",
+"id":369,"properties":{"[House District]":"39","[Precinct Number]":"39-926","[Precinct Name]":"Nome No. 2","[Polling Place Name]":"Old St. Joe’s","Address":"407 Bering St","City":"Nome","[Last Updated]":"August 5, 2022 at 10:43 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-165.40763,64.501641]}}
+,
+{"type":"Feature",
+"id":362,"properties":{"[House District]":"39","[Precinct Number]":"39-914","[Precinct Name]":"Golovin","[Polling Place Name]":"GOLOVIN COMMUNITY HALL","Address":"1 Amuktoolik St","City":"Golovin","[Last Updated]":"November 5, 2024 at 1:08 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-163.04385,64.5409]}}
+,
+{"type":"Feature",
+"id":363,"properties":{"[House District]":"39","[Precinct Number]":"39-916","[Precinct Name]":"Hooper Bay","[Polling Place Name]":"Brown Council Building","Address":"2 Tomaganuk Rd","City":"Hooper Bay","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-166.10636,61.52698]}}
+,
+{"type":"Feature",
+"id":364,"properties":{"[House District]":"39","[Precinct Number]":"39-918","[Precinct Name]":"Kotlik","[Polling Place Name]":"Kotlik City Office","Address":"5 Curry St","City":"Kotlik","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-163.55388,63.03265]}}
+,
+{"type":"Feature",
+"id":366,"properties":{"[House District]":"39","[Precinct Number]":"39-921","[Precinct Name]":"Marshall","[Polling Place Name]":"Marshall City Office","Address":"3230 Yukon Ave","City":"Marshall","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-162.0332,61.86627]}}
+,
+{"type":"Feature",
+"id":367,"properties":{"[House District]":"39","[Precinct Number]":"39-922","[Precinct Name]":"Mountain Village","[Polling Place Name]":"Mountain Village Community Hall","Address":"1St St Marys Road","City":"Mountain Village","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-163.66616,62.09927]}}
+,
+{"type":"Feature",
+"id":370,"properties":{"[House District]":"39","[Precinct Number]":"39-928","[Precinct Name]":"Nunam Iqua","[Polling Place Name]":"Nunam Iqua Community Hall","Address":"27 Main St","City":"Nunam Iqua","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-164.8447,62.531856]}}
+,
+{"type":"Feature",
+"id":371,"properties":{"[House District]":"39","[Precinct Number]":"39-930","[Precinct Name]":"Pilot Station","[Polling Place Name]":"Tutalgaq Community Center","Address":"9 Airport Road","City":"Pilot Station","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-162.88128,61.93673]}}
+,
+{"type":"Feature",
+"id":372,"properties":{"[House District]":"39","[Precinct Number]":"39-931","[Precinct Name]":"Russian Mission","[Polling Place Name]":"Russian Mission City Office","Address":"5111 Main Street","City":"Russian Mission","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.32028,61.785]}}
+,
+{"type":"Feature",
+"id":373,"properties":{"[House District]":"39","[Precinct Number]":"39-932","[Precinct Name]":"Savoonga","[Polling Place Name]":"Savoonga Municipal Building","Address":"11 Airport Road","City":"Savoonga","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-170.48608,63.69104]}}
+,
+{"type":"Feature",
+"id":374,"properties":{"[House District]":"39","[Precinct Number]":"39-934","[Precinct Name]":"Scammon Bay","[Polling Place Name]":"Scammon Bay Traditional Council","Address":"104 Ashinuk Street","City":"Scammon Bay","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-165.58167,61.842778]}}
+,
+{"type":"Feature",
+"id":375,"properties":{"[House District]":"39","[Precinct Number]":"39-936","[Precinct Name]":"Shaktoolik","[Polling Place Name]":"Shaktoolik City Hall","Address":"10 Main Street","City":"Shaktoolik","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.15389,64.333889]}}
+,
+{"type":"Feature",
+"id":376,"properties":{"[House District]":"39","[Precinct Number]":"39-938","[Precinct Name]":"Shishmaref","[Polling Place Name]":"SHISHMAREF COMMUNITY HALL","Address":"110 Lagoon View","City":"Shishmaref","[Last Updated]":"November 5, 2024 at 1:09 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-166.07194,66.256667]}}
+,
+{"type":"Feature",
+"id":377,"properties":{"[House District]":"39","[Precinct Number]":"39-940","[Precinct Name]":"St Mary’S","[Polling Place Name]":"St. Mary’s City Hall","Address":"174 Paukan Ave","City":"St Marys","[Last Updated]":"August 13, 2024 at 11:15 am","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-163.17742,62.05128]}}
+,
+{"type":"Feature",
+"id":378,"properties":{"[House District]":"39","[Precinct Number]":"39-942","[Precinct Name]":"St Michael","[Polling Place Name]":"St. Michael City Office","Address":"100 Baker Street","City":"St. Michael","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-162.04648,63.47597]}}
+,
+{"type":"Feature",
+"id":379,"properties":{"[House District]":"39","[Precinct Number]":"39-944","[Precinct Name]":"Stebbins","[Polling Place Name]":"Stebbins Community Hall","Address":"100 Main Street","City":"Stebbins","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.28806,63.522222]}}
+,
+{"type":"Feature",
+"id":380,"properties":{"[House District]":"39","[Precinct Number]":"39-946","[Precinct Name]":"Teller","[Polling Place Name]":"Teller Community/Bingo Hall","Address":"Grantley Ave","City":"Teller","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-166.36446,65.264075]}}
+,
+{"type":"Feature",
+"id":381,"properties":{"[House District]":"39","[Precinct Number]":"39-948","[Precinct Name]":"Unalakleet","[Polling Place Name]":"Aaron Paneok Myles Gonangnan Memorial Hall","Address":"270 Main Street","City":"Unalakleet","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-160.79419,63.878807]}}
+,
+{"type":"Feature",
+"id":382,"properties":{"[House District]":"39","[Precinct Number]":"39-950","[Precinct Name]":"Wales","[Polling Place Name]":"Wales Multi Purpose Building","Address":"500 Airport Junction Rd","City":"Wales","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-168.09137,65.61014]}}
+,
+{"type":"Feature",
+"id":383,"properties":{"[House District]":"39","[Precinct Number]":"39-952","[Precinct Name]":"White Mountain","[Polling Place Name]":"New Community Building","Address":"101 White Mountain Hill Road","City":"White Mountain","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-163.40556,64.681389]}}
+,
+{"type":"Feature",
+"id":384,"properties":{"[House District]":"40","[Precinct Number]":"40-002","[Precinct Name]":"Ambler","[Polling Place Name]":"Ambler Armory Building","Address":null,"City":"Ambler","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-157.85139,67.086111]}}
+,
+{"type":"Feature",
+"id":385,"properties":{"[House District]":"40","[Precinct Number]":"40-004","[Precinct Name]":"Anaktuvuk Pass","[Polling Place Name]":"Anaktuvuk Pass Recreation Bldg","Address":"3031 Main St","City":"Anaktuvuk Pass","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.73753,68.140929]}}
+,
+{"type":"Feature",
+"id":386,"properties":{"[House District]":"40","[Precinct Number]":"40-006","[Precinct Name]":"Atqasuk","[Polling Place Name]":"Atqasuk Community Building","Address":"5010 Ekosik","City":"Atqasuk","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-157.46406,70.51613]}}
+,
+{"type":"Feature",
+"id":387,"properties":{"[House District]":"40","[Precinct Number]":"40-008","[Precinct Name]":"Utqiagvik","[Polling Place Name]":"North Slope Borough Building","Address":"1274 Agvik St","City":"Utqiagvik","[Last Updated]":"August 16, 2022 at 8:55 am","state":"AK","[Geocoding Precision]":null},
+"geometry":{"type":"Point","coordinates":[null, null]}}
+,
+{"type":"Feature",
+"id":388,"properties":{"[House District]":"40","[Precinct Number]":"40-010","[Precinct Name]":"Browerville","[Polling Place Name]":"Inupiat Heritage Center","Address":"5421 North Star Street","City":"Browerville","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-156.75362,71.298901]}}
+,
+{"type":"Feature",
+"id":389,"properties":{"[House District]":"40","[Precinct Number]":"40-012","[Precinct Name]":"Buckland","[Polling Place Name]":"Buckland Community Building","Address":"49 3rd Ave","City":"Buckland","[Last Updated]":"August 5, 2022 at 10:36 am","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-161.12306,65.979722]}}
+,
+{"type":"Feature",
+"id":390,"properties":{"[House District]":"40","[Precinct Number]":"40-014","[Precinct Name]":"Deering","[Polling Place Name]":"Deering Community Hall","Address":"59 Main Street","City":"Deering","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.71871,66.07467]}}
+,
+{"type":"Feature",
+"id":391,"properties":{"[House District]":"40","[Precinct Number]":"40-016","[Precinct Name]":"Kaktovik","[Polling Place Name]":"Kaktovik Community Hall","Address":"2051 Barter Avenue","City":"Kaktovik","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-143.61509,70.128275]}}
+,
+{"type":"Feature",
+"id":392,"properties":{"[House District]":"40","[Precinct Number]":"40-018","[Precinct Name]":"Kiana","[Polling Place Name]":"Kiana City Office","Address":null,"City":"Kiana","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-160.42278,66.975]}}
+,
+{"type":"Feature",
+"id":393,"properties":{"[House District]":"40","[Precinct Number]":"40-020","[Precinct Name]":"Kivalina","[Polling Place Name]":"Kivalina Armory Building","Address":"Kivalina","City":"Kivalina","[Last Updated]":"May 7, 2026 at 11:45 am","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-164.53456,67.726539]}}
+,
+{"type":"Feature",
+"id":394,"properties":{"[House District]":"40","[Precinct Number]":"40-022","[Precinct Name]":"Kobuk","[Polling Place Name]":"Kobuk Community Building","Address":"519 Church St","City":"Kobuk","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-156.88111,66.907222]}}
+,
+{"type":"Feature",
+"id":395,"properties":{"[House District]":"40","[Precinct Number]":"40-024","[Precinct Name]":"Kotzebue","[Polling Place Name]":"Northwest Arctic Borough Bldg","Address":"163 Lagoon Street","City":"Kotzebue","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-162.60225,66.896258]}}
+,
+{"type":"Feature",
+"id":396,"properties":{"[House District]":"40","[Precinct Number]":"40-026","[Precinct Name]":"Noatak","[Polling Place Name]":"Noatak Ira Building","Address":null,"City":"Noatak","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-162.96528,67.571111]}}
+,
+{"type":"Feature",
+"id":397,"properties":{"[House District]":"40","[Precinct Number]":"40-028","[Precinct Name]":"Noorvik","[Polling Place Name]":"Noorvik Community Hall","Address":"20 Fireweed Drive","City":"Noorvik","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-161.04208,66.83565]}}
+,
+{"type":"Feature",
+"id":398,"properties":{"[House District]":"40","[Precinct Number]":"40-030","[Precinct Name]":"Nuiqsut","[Polling Place Name]":"Kisik Community Center","Address":"2230 2nd Ave","City":"Nuiqsut","[Last Updated]":"August 5, 2022 at 10:36 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-151.00197,70.216875]}}
+,
+{"type":"Feature",
+"id":399,"properties":{"[House District]":"40","[Precinct Number]":"40-032","[Precinct Name]":"Point Hope","[Polling Place Name]":"Point Hope City Hall","Address":"530 Qalgi Street","City":"Point Hope","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-166.52365,68.3341]}}
+,
+{"type":"Feature",
+"id":400,"properties":{"[House District]":"40","[Precinct Number]":"40-034","[Precinct Name]":"Point Lay","[Polling Place Name]":"Point Lay Community Center","Address":null,"City":"Point Lay","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-163.00844,69.743857]}}
+,
+{"type":"Feature",
+"id":401,"properties":{"[House District]":"40","[Precinct Number]":"40-036","[Precinct Name]":"Selawik","[Polling Place Name]":"Selawik Community Hall","Address":null,"City":"Selawik","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-160.00694,66.603889]}}
+,
+{"type":"Feature",
+"id":402,"properties":{"[House District]":"40","[Precinct Number]":"40-038","[Precinct Name]":"Shungnak","[Polling Place Name]":"Coffee House","Address":"128 Hall St","City":"Shungnak","[Last Updated]":"February 8, 2023 at 4:43 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-157.13924,66.88749]}}
+,
+{"type":"Feature",
+"id":403,"properties":{"[House District]":"40","[Precinct Number]":"40-040","[Precinct Name]":"Wainwright","[Polling Place Name]":"Wainwright City Office","Address":null,"City":"Wainwright","[Last Updated]":"May 7, 2026 at 11:44 am","state":"AK","[Geocoding Precision]":"City"},
+"geometry":{"type":"Point","coordinates":[-160.03833,70.636944]}}
+,
+{"type":"Feature",
+"id":17,"properties":{"[House District]":"02","[Precinct Number]":"02-735","[Precinct Name]":"Kasaan","[Polling Place Name]":"David S Peele Community Hall","Address":"Peele & Jones Street","City":"Kasaan","[Last Updated]":"July 14, 2022 at 5:35 pm","state":"AK","[Geocoding Precision]":"Address+City"},
+"geometry":{"type":"Point","coordinates":[-132.40234,55.54138]}}
+,
+{"type":"Feature",
+"id":365,"properties":{"[House District]":"39","[Precinct Number]":"39-920","[Precinct Name]":"Koyuk","[Polling Place Name]":"Koyuk Community Hall","Address":"3rd Ave and Birch St","City":"Koyuk","[Last Updated]":"August 5, 2022 at 10:38 am","state":"AK","[Geocoding Precision]":"ExactAddress+City"},
+"geometry":{"type":"Point","coordinates":[-161.16532,64.93075]}}
+
+]}
